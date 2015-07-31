@@ -1,0 +1,55 @@
+<NinjaTrader>
+  <Version>7.0.1000.22</Version>
+  <Default>
+    <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <AutoScale>true</AutoScale>
+      <BarsBack>1500</BarsBack>
+      <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;2.1&lt;/BarWidth&gt;&lt;ChartStyleType&gt;CandleStick&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:LightGreen&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+      <DaysBack>125</DaysBack>
+      <DisplayInDataBox>true</DisplayInDataBox>
+      <From>2013-11-23T00:00:00+10:00</From>
+      <Instrument>ES 06-14 Globex</Instrument>
+      <IsPrimarySeries>false</IsPrimarySeries>
+      <Label>ES 06-14</Label>
+      <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
+      <PaintPriceMarker>true</PaintPriceMarker>
+      <Panel>0</Panel>
+      <PanelUI>1</PanelUI>
+      <Period>
+        <BasePeriodType>Tick</BasePeriodType>
+        <BasePeriodValue>100</BasePeriodValue>
+        <Id>Custom8</Id>
+        <MarketDataType>Last</MarketDataType>
+        <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+        <ReversalType>Tick</ReversalType>
+        <Value>6</Value>
+        <Value2>50</Value2>
+      </Period>
+      <PlotExecutions>TextAndMarker</PlotExecutions>
+      <PlotSessionBreaks>true</PlotSessionBreaks>
+      <PositionPenLooserSerializable>
+        <Color>n:Crimson</Color>
+        <DashStyle>Dot</DashStyle>
+        <Width>2</Width>
+      </PositionPenLooserSerializable>
+      <PositionPenWinnerSerializable>
+        <Color>n:DarkGreen</Color>
+        <DashStyle>Dot</DashStyle>
+        <Width>2</Width>
+      </PositionPenWinnerSerializable>
+      <PriceMarkerColorSerialize>n:Black</PriceMarkerColorSerialize>
+      <RangeType>Days</RangeType>
+      <ScaleJustification>Right</ScaleJustification>
+      <SessionBreakPenSerializable>
+        <Color>n:Silver</Color>
+        <DashStyle>Solid</DashStyle>
+        <Width>1</Width>
+      </SessionBreakPenSerializable>
+      <SessionData>Default 24/7</SessionData>
+      <ShortExecutionColorSerialize>n:Magenta</ShortExecutionColorSerialize>
+      <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
+      <To>2014-03-28T00:00:00+10:00</To>
+      <ZOrder>0</ZOrder>
+    </BarsData>
+  </Default>
+</NinjaTrader>

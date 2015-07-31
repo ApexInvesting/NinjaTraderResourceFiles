@@ -1,0 +1,96 @@
+<NinjaTrader>
+  <Version>7.0.1000.22</Version>
+  <ClassName>NinjaTrader.Indicator.ApexDiagnosticExpectedVolume</ClassName>
+  <Default>
+    <ApexDiagnosticExpectedVolume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+      <AutoScale>true</AutoScale>
+      <BarsPeriods>
+        <Period>
+          <BasePeriodType>Tick</BasePeriodType>
+          <BasePeriodValue>100</BasePeriodValue>
+          <Id>Minute</Id>
+          <MarketDataType>Last</MarketDataType>
+          <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+          <ReversalType>Tick</ReversalType>
+          <Value>4</Value>
+          <Value2>50</Value2>
+        </Period>
+        <Period>
+          <BasePeriodType>Minute</BasePeriodType>
+          <BasePeriodValue>1</BasePeriodValue>
+          <Id>Minute</Id>
+          <MarketDataType>Last</MarketDataType>
+          <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+          <ReversalType>Tick</ReversalType>
+          <Value>1</Value>
+          <Value2>1</Value2>
+        </Period>
+      </BarsPeriods>
+      <CalculateOnBarClose>false</CalculateOnBarClose>
+      <DisableScaleBuffer>false</DisableScaleBuffer>
+      <Displacement>0</Displacement>
+      <DisplayInDataBox>true</DisplayInDataBox>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <Enabled>false</Enabled>
+      <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+      <HorizontalGridLines>true</HorizontalGridLines>
+      <InstrumentsSerializable>ES 06-14 Globex|ES 06-14 Globex</InstrumentsSerializable>
+      <Lines />
+      <LinesConfigurable>true</LinesConfigurable>
+      <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+      <Name>A.P.E.X. Diagnostic Expected Volume</Name>
+      <Overlay>false</Overlay>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <Panel>1</Panel>
+      <PanelUI>2</PanelUI>
+      <Plots>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Alarm Threshold</Name>
+          <PenSerializable>
+            <Color>n:Black</Color>
+            <DashStyle>Dash</DashStyle>
+            <Width>1</Width>
+          </PenSerializable>
+          <PlotStyle>Square</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Expected Volume</Name>
+          <PenSerializable>
+            <Color>n:Orange</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>Square</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Actual Volume</Name>
+          <PenSerializable>
+            <Color>x:ff8080ff</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>20</Width>
+          </PenSerializable>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+      </Plots>
+      <PlotsConfigurable>true</PlotsConfigurable>
+      <ScaleJustification>Right</ScaleJustification>
+      <SelectedSeries>0</SelectedSeries>
+      <SessionBreakLines>true</SessionBreakLines>
+      <VerticalGridLines>true</VerticalGridLines>
+      <ZOrder>10015</ZOrder>
+      <AlarmSettings>
+        <Enabled>true</Enabled>
+        <EnableVoice>true</EnableVoice>
+        <AlarmThreshold>100</AlarmThreshold>
+      </AlarmSettings>
+      <SettingsSerializable>{"PeriodInMinutes":4,"OffsetInMinutes":0,"UseFuturesVolumeForForex":true}</SettingsSerializable>
+    </ApexDiagnosticExpectedVolume>
+  </Default>
+</NinjaTrader>

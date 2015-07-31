@@ -1,0 +1,135 @@
+<NinjaTrader>
+  <Version>7.0.1000.22</Version>
+  <ClassName>NinjaTrader.Indicator.ApexDiagnosticMVP</ClassName>
+  <Default>
+    <ApexDiagnosticMVP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+      <AutoScale>true</AutoScale>
+      <BarsPeriods>
+        <Period>
+          <BasePeriodType>Tick</BasePeriodType>
+          <BasePeriodValue>100</BasePeriodValue>
+          <Id>Minute</Id>
+          <MarketDataType>Last</MarketDataType>
+          <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+          <ReversalType>Tick</ReversalType>
+          <Value>4</Value>
+          <Value2>50</Value2>
+        </Period>
+      </BarsPeriods>
+      <CalculateOnBarClose>true</CalculateOnBarClose>
+      <DisableScaleBuffer>false</DisableScaleBuffer>
+      <Displacement>0</Displacement>
+      <DisplayInDataBox>true</DisplayInDataBox>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <Enabled>false</Enabled>
+      <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+      <HorizontalGridLines>true</HorizontalGridLines>
+      <InstrumentsSerializable>CL 05-14 Nymex</InstrumentsSerializable>
+      <Lines />
+      <LinesConfigurable>true</LinesConfigurable>
+      <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+      <Name>A.P.E.X. Diagnostic MVP</Name>
+      <Overlay>true</Overlay>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <Panel>-2</Panel>
+      <PanelUI>-1</PanelUI>
+      <Plots>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Momentum Predictor Line Up</Name>
+          <PenSerializable>
+            <Color>n:Green</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>TriangleUp</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Momentum Predictor Line Down</Name>
+          <PenSerializable>
+            <Color>n:Red</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>TriangleDown</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Volatile Trend Line - Short</Name>
+          <PenSerializable>
+            <Color>n:Transparent</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Volatile Trend Line - Long</Name>
+          <PenSerializable>
+            <Color>n:Transparent</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Offset Volatile Trend Line - Short</Name>
+          <PenSerializable>
+            <Color>n:Red</Color>
+            <DashStyle>Dash</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Offset Volatile Trend Line - Long</Name>
+          <PenSerializable>
+            <Color>n:Green</Color>
+            <DashStyle>Dash</DashStyle>
+            <Width>3</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Trigger Price</Name>
+          <PenSerializable>
+            <Color>n:Transparent</Color>
+            <DashStyle>Dash</DashStyle>
+            <Width>1</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+      </Plots>
+      <PlotsConfigurable>true</PlotsConfigurable>
+      <ScaleJustification>Right</ScaleJustification>
+      <SelectedSeries>0</SelectedSeries>
+      <SessionBreakLines>true</SessionBreakLines>
+      <VerticalGridLines>true</VerticalGridLines>
+      <ZOrder>10020</ZOrder>
+      <SettingsSerializable>{"VolatileTrendLine":{"Period":5,"Multiplier":1.5,"OffsetTicks":10,"FlipStyle":1},"VolatileTrendLineFlip":{"RequirePredictorLine":true,"RequireMomentumPredictorLine":true},"MomentumPredictorFlip":{"MomentumLinePeriod":22,"NumConsecutiveBars":2,"Lookback":6},"Signals":{"Mode":0,"BreakoutTicks":2,"EnableSequential":true}}</SettingsSerializable>
+      <Signals_Mode>InstantSignal</Signals_Mode>
+      <Signals_BreakoutTicks>2</Signals_BreakoutTicks>
+      <Signals_EnableSequential>true</Signals_EnableSequential>
+      <EnableAlerts>false</EnableAlerts>
+      <EnableVoiceAlerts>false</EnableVoiceAlerts>
+      <ShowSignalArrows>true</ShowSignalArrows>
+      <ShowSignalArrowLabels>false</ShowSignalArrowLabels>
+      <ShowTriggerPriceLine>false</ShowTriggerPriceLine>
+      <ShowTriggerPriceLabel>false</ShowTriggerPriceLabel>
+      <LabelFontSerializable />
+    </ApexDiagnosticMVP>
+  </Default>
+</NinjaTrader>

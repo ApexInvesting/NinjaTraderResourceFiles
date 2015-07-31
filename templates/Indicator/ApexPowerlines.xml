@@ -1,0 +1,76 @@
+<NinjaTrader>
+  <Version>7.0.1000.12</Version>
+  <ClassName>NinjaTrader.Indicator.ApexPowerlines</ClassName>
+  <Default>
+    <ApexPowerlines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+      <AutoScale>true</AutoScale>
+      <BarsPeriods>
+        <Period>
+          <BasePeriodType>Tick</BasePeriodType>
+          <BasePeriodValue>100</BasePeriodValue>
+          <Id>Custom8</Id>
+          <MarketDataType>Last</MarketDataType>
+          <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+          <ReversalType>Tick</ReversalType>
+          <Value>8</Value>
+          <Value2>50</Value2>
+        </Period>
+      </BarsPeriods>
+      <CalculateOnBarClose>false</CalculateOnBarClose>
+      <DisableScaleBuffer>false</DisableScaleBuffer>
+      <Displacement>0</Displacement>
+      <DisplayInDataBox>false</DisplayInDataBox>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <Enabled>false</Enabled>
+      <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+      <HorizontalGridLines>true</HorizontalGridLines>
+      <InstrumentsSerializable>6A 06-13 Globex</InstrumentsSerializable>
+      <Lines />
+      <LinesConfigurable>true</LinesConfigurable>
+      <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+      <Name>A.P.E.X. Diagnostic Pattern</Name>
+      <Overlay>true</Overlay>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <Panel>-2</Panel>
+      <PanelUI>-1</PanelUI>
+      <Plots>
+        <Plot>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Dummy</Name>
+          <PenSerializable>
+            <Color>n:Orange</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>1</Width>
+          </PenSerializable>
+          <PlotStyle>Line</PlotStyle>
+        </Plot>
+      </Plots>
+      <PlotsConfigurable>false</PlotsConfigurable>
+      <ScaleJustification>Right</ScaleJustification>
+      <SelectedSeries>0</SelectedSeries>
+      <SessionBreakLines>true</SessionBreakLines>
+      <VerticalGridLines>true</VerticalGridLines>
+      <ZOrder>10023</ZOrder>
+      <pl_directionChangeOffset>1</pl_directionChangeOffset>
+      <plInitialPLDirection>Up</plInitialPLDirection>
+      <EntryOffset>2</EntryOffset>
+      <ViewReversalAPEX>true</ViewReversalAPEX>
+      <APEXFontSerialize>
+        <FontFamily>Arial</FontFamily>
+        <Size>14</Size>
+        <Style>Bold</Style>
+      </APEXFontSerialize>
+      <LongAPEXColorSerialize>n:Green</LongAPEXColorSerialize>
+      <ShortAPEXColorSerialize>n:Red</ShortAPEXColorSerialize>
+      <showOldE>true</showOldE>
+      <oldEFontSerialize>
+        <FontFamily>Arial</FontFamily>
+        <Size>12</Size>
+        <Style>Regular</Style>
+      </oldEFontSerialize>
+      <oldEColorSerialize>n:Orange</oldEColorSerialize>
+    </ApexPowerlines>
+  </Default>
+</NinjaTrader>
