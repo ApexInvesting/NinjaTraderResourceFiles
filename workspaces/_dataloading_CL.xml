@@ -3,7 +3,7 @@
     <AlertWindow>
       <Location>27;27</Location>
       <Size>518;341</Size>
-      <ZOrder>54</ZOrder>
+      <ZOrder>27</ZOrder>
       <WindowState>
       </WindowState>
       <AlwaysOnTop>False</AlwaysOnTop>
@@ -12,7 +12,7 @@
     <ChartDataBox>
       <Location>0;0</Location>
       <Size>253;363</Size>
-      <ZOrder>483</ZOrder>
+      <ZOrder>470</ZOrder>
       <WindowState>
       </WindowState>
       <AlwaysOnTop>True</AlwaysOnTop>
@@ -21,7 +21,7 @@
     <OutputWindow>
       <Location>0;0</Location>
       <Size>768;474</Size>
-      <ZOrder>51</ZOrder>
+      <ZOrder>30</ZOrder>
       <WindowState>
       </WindowState>
     </OutputWindow>
@@ -147,8 +147,8 @@
             <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
             <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
             <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-            <FixedPanelMaxRight>47.79309</FixedPanelMaxRight>
-            <FixedPanelMinRight>47.73691</FixedPanelMinRight>
+            <FixedPanelMaxRight>40.20309</FixedPanelMaxRight>
+            <FixedPanelMinRight>40.14691</FixedPanelMinRight>
             <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
             <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
             <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -178,9 +178,9 @@
       <Assembly>NinjaTrader.Core</Assembly>
       <Class>NinjaTrader.Gui.Chart.ChartForm</Class>
       <WindowState>Normal</WindowState>
-      <Location>0;270</Location>
+      <Location>103;601</Location>
       <Size>698;270</Size>
-      <ZOrder>24</ZOrder>
+      <ZOrder>2</ZOrder>
       <Bars>
         <Bars0>
           <Bars>
@@ -190,10 +190,10 @@
               <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;3&lt;/BarWidth&gt;&lt;ChartStyleType&gt;CandleStick&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:LightGreen&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
               <DaysBack>130</DaysBack>
               <DisplayInDataBox>true</DisplayInDataBox>
-              <From>2015-03-26T00:00:00+10:00</From>
-              <Instrument>CL 09-15 Nymex</Instrument>
+              <From>2015-04-19T00:00:00-04:00</From>
+              <Instrument>CL 10-15 Nymex</Instrument>
               <IsPrimarySeries>true</IsPrimarySeries>
-              <Label>CL 09-15</Label>
+              <Label>CL 10-15</Label>
               <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
               <PaintPriceMarker>true</PaintPriceMarker>
               <Panel>0</Panel>
@@ -240,5 +240,5 @@
       </Bars>
     </ChartForm-280bf44f52d94944b91021c27ca553ec>
   </Forms>
-  <Version>7.0.1000.27</Version>
+  <Version>7.0.1000.29</Version>
 </NinjaTrader>
