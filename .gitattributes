@@ -1,4 +1,2 @@
 * text=auto
-*.xml crlf
-core.autocrlf=true
-core.safecrlf=input
+*.xml text
