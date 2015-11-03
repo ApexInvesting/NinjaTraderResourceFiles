@@ -191,9 +191,9 @@
               <DaysBack>130</DaysBack>
               <DisplayInDataBox>true</DisplayInDataBox>
               <From>2015-04-19T00:00:00-04:00</From>
-              <Instrument>NQ 09-15 Globex</Instrument>
+              <Instrument>NQ 12-15 Globex</Instrument>
               <IsPrimarySeries>true</IsPrimarySeries>
-              <Label>NQ 09-15</Label>
+              <Label>NQ 12-15</Label>
               <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
               <PaintPriceMarker>true</PaintPriceMarker>
               <Panel>0</Panel>

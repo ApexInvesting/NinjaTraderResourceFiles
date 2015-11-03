@@ -191,9 +191,9 @@
               <DaysBack>130</DaysBack>
               <DisplayInDataBox>true</DisplayInDataBox>
               <From>2015-04-19T00:00:00-04:00</From>
-              <Instrument>CL 10-15 Nymex</Instrument>
+              <Instrument>CL 12-15 Nymex</Instrument>
               <IsPrimarySeries>true</IsPrimarySeries>
-              <Label>CL 10-15</Label>
+              <Label>CL 12-15</Label>
               <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
               <PaintPriceMarker>true</PaintPriceMarker>
               <Panel>0</Panel>
