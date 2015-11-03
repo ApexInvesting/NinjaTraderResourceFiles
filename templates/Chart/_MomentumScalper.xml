@@ -120,11 +120,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -186,11 +186,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -202,7 +202,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -326,11 +326,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -342,7 +342,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -351,7 +351,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>47.05</Value>
+              <Value>47.95</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -397,11 +397,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -413,7 +413,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -472,11 +472,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -498,7 +498,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -599,11 +599,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -625,7 +625,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -726,11 +726,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -762,7 +762,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -812,7 +812,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10007</ZOrder>
-          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
+          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
           <Alerts_VisualEnabled>false</Alerts_VisualEnabled>
           <Alerts_AudibleEnabled>false</Alerts_AudibleEnabled>
           <DiagnosticBarAlertType>Both</DiagnosticBarAlertType>
@@ -833,11 +833,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>3</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -849,7 +849,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -898,7 +898,7 @@
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.64540059347181</HeightRatio>
+      <HeightRatio>0.731454005934718</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -906,8 +906,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>48.2618889637672</FixedPanelMaxRight>
-      <FixedPanelMinRight>46.7277863303526</FixedPanelMinRight>
+      <FixedPanelMaxRight>48.7941919238501</FixedPanelMaxRight>
+      <FixedPanelMinRight>45.9637494987405</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -931,7 +931,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.146884272997033</HeightRatio>
+      <HeightRatio>0.114243323442137</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -939,8 +939,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9984.1054</FixedPanelMaxRight>
-      <FixedPanelMinRight>-581.1054</FixedPanelMinRight>
+      <FixedPanelMaxRight>1149.9294</FixedPanelMaxRight>
+      <FixedPanelMinRight>-66.9294</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -964,7 +964,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.222551928783383</HeightRatio>
+      <HeightRatio>0.169139465875371</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -972,8 +972,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.5287764</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0307764</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.8260804</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0480804</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

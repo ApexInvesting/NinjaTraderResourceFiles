@@ -120,11 +120,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -186,11 +186,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -202,7 +202,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -211,7 +211,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>46.98</Value>
+              <Value>97.24</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -257,11 +257,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -293,7 +293,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot|DX 12-15 Nybot|DX 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -343,7 +343,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10014</ZOrder>
-          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
+          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
           <Alerts_VisualEnabled>false</Alerts_VisualEnabled>
           <Alerts_AudibleEnabled>false</Alerts_AudibleEnabled>
           <DiagnosticBarAlertType>Both</DiagnosticBarAlertType>
@@ -364,11 +364,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -390,7 +390,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot|DX 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -418,9 +418,9 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10015</ZOrder>
-          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":true,"AlertsEnableAudio":true}</SettingsSerializable>
+          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
-          <LabelAlignment>Right</LabelAlignment>
+          <LabelAlignment>Left</LabelAlignment>
           <ShowZones>true</ShowZones>
           <ZoneSizeInDeviations>5</ZoneSizeInDeviations>
           <ShowNegativeThree>true</ShowNegativeThree>
@@ -454,11 +454,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -480,7 +480,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex|CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot|DX 12-15 Nybot</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -620,11 +620,11 @@
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
               <BasePeriodValue>100</BasePeriodValue>
-              <Id>Minute</Id>
+              <Id>Custom8</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -636,7 +636,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>CL 09-15 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>DX 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -693,8 +693,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>47.91871</FixedPanelMaxRight>
-      <FixedPanelMinRight>46.85129</FixedPanelMinRight>
+      <FixedPanelMaxRight>97.623148</FixedPanelMaxRight>
+      <FixedPanelMinRight>96.656852</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -703,8 +703,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>0.0103</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.0003</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>0.00515</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.00015</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -713,8 +713,8 @@
       <AutoScaleMarginTypeOver>Percent</AutoScaleMarginTypeOver>
       <AutoScaleMarginUpperOver>3</AutoScaleMarginUpperOver>
       <YAxisRangeTypeOver>Automatic</YAxisRangeTypeOver>
-      <FixedPanelMaxOver>0.0103</FixedPanelMaxOver>
-      <FixedPanelMinOver>-0.0003</FixedPanelMinOver>
+      <FixedPanelMaxOver>0.00515</FixedPanelMaxOver>
+      <FixedPanelMinOver>-0.00015</FixedPanelMinOver>
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
@@ -726,8 +726,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16766.8838</FixedPanelMaxRight>
-      <FixedPanelMinRight>-975.8838</FixedPanelMinRight>
+      <FixedPanelMaxRight>52.0282</FixedPanelMaxRight>
+      <FixedPanelMinRight>-3.0282</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -759,8 +759,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.16213760991748</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0676399550695989</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.35454375531009</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.137041631265929</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -789,7 +789,7 @@
       <Bars>
         <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AutoScale>true</AutoScale>
-          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;9.45565359693718&lt;/BarWidth&gt;&lt;ChartStyleType&gt;OHLC&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Green&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;3&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:LightGreen&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
           <DisplayInDataBox>true</DisplayInDataBox>
           <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
           <PaintPriceMarker>true</PaintPriceMarker>

@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -222,7 +222,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -312,7 +312,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -468,7 +468,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -495,7 +495,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30006</ZOrder>
+          <ZOrder>9001</ZOrder>
           <Period>14</Period>
           <PeriodBack>2</PeriodBack>
           <ShowBrokenZones>true</ShowBrokenZones>
@@ -542,7 +542,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -676,7 +676,7 @@
             <Period>
               <BasePeriodType>Minute</BasePeriodType>
               <BasePeriodValue>1</BasePeriodValue>
-              <Id>Second</Id>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
@@ -686,7 +686,7 @@
             <Period>
               <BasePeriodType>Minute</BasePeriodType>
               <BasePeriodValue>1</BasePeriodValue>
-              <Id>Second</Id>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
@@ -702,7 +702,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -752,7 +752,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30009</ZOrder>
-          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0,"ShowHistory":true,"RequiresSecondsData":true},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
+          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
           <Alerts_VisualEnabled>false</Alerts_VisualEnabled>
           <Alerts_AudibleEnabled>false</Alerts_AudibleEnabled>
           <DiagnosticBarAlertType>Both</DiagnosticBarAlertType>
@@ -789,7 +789,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -855,13 +855,13 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Trend Catcher</Name>
           <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
           <PanelUI>-1</PanelUI>
           <Plots>
@@ -1015,7 +1015,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex|CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1132,7 +1132,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1198,7 +1198,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1275,7 +1275,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1341,7 +1341,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>CL 12-15 Nymex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1392,7 +1392,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10002</ZOrder>
           <SerializableSettings>{"a":70,"b":5}</SerializableSettings>
-          <SerializableUserSettings>{"a":true,"b":"DodgerBlue","c":40}</SerializableUserSettings>
+          <SerializableUserSettings>{"a":false,"b":"DodgerBlue","c":40}</SerializableUserSettings>
         </ICE>
       </Indicator>
     </Indicator12>
@@ -1407,8 +1407,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1173.63117447471</FixedPanelMaxRight>
-      <FixedPanelMinRight>1152.78205509728</FixedPanelMinRight>
+      <FixedPanelMaxRight>48.718527618677</FixedPanelMaxRight>
+      <FixedPanelMinRight>47.2490599299611</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1417,8 +1417,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>0.103</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.003</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>0.0103</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.0003</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -1427,8 +1427,8 @@
       <AutoScaleMarginTypeOver>Percent</AutoScaleMarginTypeOver>
       <AutoScaleMarginUpperOver>3</AutoScaleMarginUpperOver>
       <YAxisRangeTypeOver>Automatic</YAxisRangeTypeOver>
-      <FixedPanelMaxOver>0.103</FixedPanelMaxOver>
-      <FixedPanelMinOver>-0.003</FixedPanelMinOver>
+      <FixedPanelMaxOver>0.0103</FixedPanelMaxOver>
+      <FixedPanelMinOver>-0.0003</FixedPanelMinOver>
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
@@ -1440,8 +1440,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.574055140149826</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0334117608412689</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.13821792685696</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.12445080794854</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1473,8 +1473,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>879.1704</FixedPanelMaxRight>
-      <FixedPanelMinRight>-51.1704</FixedPanelMinRight>
+      <FixedPanelMaxRight>990.6594</FixedPanelMaxRight>
+      <FixedPanelMinRight>-57.6594</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1506,8 +1506,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9.853504</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.573504</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.647698</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.037698</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

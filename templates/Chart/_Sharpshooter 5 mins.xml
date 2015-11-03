@@ -8,7 +8,7 @@
       <AxisColorSerialize>n:Black</AxisColorSerialize>
       <BackColorSerialize>n:LightGray</BackColorSerialize>
       <BarMarginRight>100</BarMarginRight>
-      <BarSpaceIntern>97.858084350511973</BarSpaceIntern>
+      <BarSpaceIntern>32.904246703010578</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
       <ChartCursor>Pointer</ChartCursor>
       <ChartObjectSelection>true</ChartObjectSelection>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -212,15 +212,15 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Trend Confirm</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>1</Panel>
-          <PanelUI>2</PanelUI>
+          <Panel>2</Panel>
+          <PanelUI>3</PanelUI>
           <Plots>
             <Plot>
               <Max>1.7976931348623157E+308</Max>
@@ -229,7 +229,7 @@
               <PenSerializable>
                 <Color>n:Orange</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -240,7 +240,7 @@
               <PenSerializable>
                 <Color>n:Green</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -251,7 +251,7 @@
               <PenSerializable>
                 <Color>n:DarkViolet</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -262,13 +262,13 @@
               <PenSerializable>
                 <Color>n:Firebrick</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
           <PlotsConfigurable>true</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
+          <ScaleJustification>Left</ScaleJustification>
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
@@ -316,7 +316,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -325,7 +325,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>1201.6</Value>
+              <Value>1187.8</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -387,7 +387,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -453,7 +453,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -550,15 +550,15 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot|TF 09-15 Nybot|TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Expected Volume</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
-          <Panel>2</Panel>
-          <PanelUI>3</PanelUI>
+          <Panel>1</Panel>
+          <PanelUI>2</PanelUI>
           <Plots>
             <Plot>
               <Max>1.7976931348623157E+308</Max>
@@ -589,7 +589,7 @@
               <PenSerializable>
                 <Color>x:ff8080ff</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -600,7 +600,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30006</ZOrder>
-          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":4,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":1,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
+          <SettingsSerializable>{"MinuteBarPeriodSettings":{"PeriodLengthStyle":"AutoDetect","PeriodEndStyle":"Offset","PeriodLengthInMinutes":10,"PeriodOffsetInMinutes":0},"DiagnosticBarPeriodSettings":{"PeriodEndStyle":"UseEndMinuteOfCurrentBar","PeriodLengthInMinutes":1,"PeriodOffsetInMinutes":0,"ShowHistory":false,"RequiresSecondsData":false},"CalculationSettings":{"DropZeros":true,"DropSpikes":true,"UseFuturesVolumeForForex":true,"SpikeFactor":2.0,"AlarmThresholdPercentage":100}}</SettingsSerializable>
           <Alerts_VisualEnabled>false</Alerts_VisualEnabled>
           <Alerts_AudibleEnabled>false</Alerts_AudibleEnabled>
           <DiagnosticBarAlertType>Both</DiagnosticBarAlertType>
@@ -647,7 +647,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot|TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -697,7 +697,7 @@
               <PenSerializable>
                 <Color>n:Red</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -708,7 +708,7 @@
               <PenSerializable>
                 <Color>n:Green</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>97</Width>
+                <Width>32</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -729,8 +729,8 @@
           </AlarmSettings>
           <SettingsSerializable>{"PeriodInMinutes":5,"OffsetInMinutes":0,"RangeType":0}</SettingsSerializable>
           <DrawChannels>true</DrawChannels>
-          <UpBoxColorSerializable>-16744448</UpBoxColorSerializable>
-          <DownBoxColorSerializable>-65536</DownBoxColorSerializable>
+          <UpBoxColorSerializable>-9868951</UpBoxColorSerializable>
+          <DownBoxColorSerializable>-9868951</DownBoxColorSerializable>
         </ApexDiagnosticExpectedRange03>
       </Indicator>
     </Indicator6>
@@ -774,7 +774,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot|TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot|TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -802,9 +802,9 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30003</ZOrder>
-          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":true,"AlertsEnableAudio":true}</SettingsSerializable>
+          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
-          <LabelAlignment>Right</LabelAlignment>
+          <LabelAlignment>Left</LabelAlignment>
           <ShowZones>false</ShowZones>
           <ZoneSizeInDeviations>5</ZoneSizeInDeviations>
           <ShowNegativeThree>true</ShowNegativeThree>
@@ -854,7 +854,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>TF 09-15 Nybot</InstrumentsSerializable>
+          <InstrumentsSerializable>TF 12-15 Nybot</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -893,7 +893,7 @@
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.652818991097923</HeightRatio>
+      <HeightRatio>0.713649851632048</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -901,8 +901,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1202.02338544186</FixedPanelMaxRight>
-      <FixedPanelMinRight>1197.96196339535</FixedPanelMinRight>
+      <FixedPanelMaxRight>1192.18091957701</FixedPanelMaxRight>
+      <FixedPanelMinRight>1185.83453736996</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -926,7 +926,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.109792284866469</HeightRatio>
+      <HeightRatio>0.103857566765579</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -934,8 +934,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>4.2472</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.2472</FixedPanelMinRight>
+      <FixedPanelMaxRight>3038.8716</FixedPanelMaxRight>
+      <FixedPanelMinRight>-176.8716</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -959,7 +959,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.123145400593472</HeightRatio>
+      <HeightRatio>0.0712166172106825</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -967,8 +967,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>383.3098</FixedPanelMaxRight>
-      <FixedPanelMinRight>-22.3098</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -977,8 +977,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>1.03</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.03</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>4.2472</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.2472</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -992,7 +992,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel2>
     <Panel3>
-      <HeightRatio>0.129080118694362</HeightRatio>
+      <HeightRatio>0.126112759643917</HeightRatio>
       <Index>3</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1000,8 +1000,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.69888</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.09888</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.357196</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.137196</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1030,7 +1030,7 @@
       <Bars>
         <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AutoScale>true</AutoScale>
-          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;16.1126418469869&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:LightGreen&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;5.41778786994756&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:LightGreen&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
           <DisplayInDataBox>true</DisplayInDataBox>
           <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
           <PaintPriceMarker>true</PaintPriceMarker>
