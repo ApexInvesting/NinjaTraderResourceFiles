@@ -177,7 +177,7 @@
           <OHLC_Shadow_UpBarColor_Serializable>-16777216</OHLC_Shadow_UpBarColor_Serializable>
           <OHLC_Shadow_DownBarColor_Serializable>-16777216</OHLC_Shadow_DownBarColor_Serializable>
           <TrailingShadowMode>ManualSize</TrailingShadowMode>
-          <TrailingShadowSizeTicks>4</TrailingShadowSizeTicks>
+          <TrailingShadowSizeTicks>1</TrailingShadowSizeTicks>
           <TrailingShadowSizeMultiplier>1</TrailingShadowSizeMultiplier>
         </BarStyleSettings>
       </Indicator>
@@ -391,7 +391,7 @@
               <Min>-1.7976931348623157E+308</Min>
               <Name>Momentum Predictor Line Up</Name>
               <PenSerializable>
-                <Color>n:Green</Color>
+                <Color>n:DodgerBlue</Color>
                 <DashStyle>Solid</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
@@ -402,7 +402,7 @@
               <Min>-1.7976931348623157E+308</Min>
               <Name>Momentum Predictor Line Down</Name>
               <PenSerializable>
-                <Color>n:Red</Color>
+                <Color>n:DodgerBlue</Color>
                 <DashStyle>Solid</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
@@ -476,7 +476,7 @@
           <Signals_EnableSequential>true</Signals_EnableSequential>
           <EnableAlerts>false</EnableAlerts>
           <EnableVoiceAlerts>false</EnableVoiceAlerts>
-          <ShowSignalArrows>true</ShowSignalArrows>
+          <ShowSignalArrows>false</ShowSignalArrows>
           <ShowSignalArrowLabels>false</ShowSignalArrowLabels>
           <ShowTriggerPriceLine>false</ShowTriggerPriceLine>
           <ShowTriggerPriceLabel>false</ShowTriggerPriceLabel>
@@ -543,8 +543,8 @@
           <Name>A.P.E.X. Diagnostic Expected Volume</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>1</Panel>
-          <PanelUI>2</PanelUI>
+          <Panel>2</Panel>
+          <PanelUI>3</PanelUI>
           <Plots>
             <Plot>
               <Max>1.7976931348623157E+308</Max>
@@ -796,7 +796,7 @@
           <OffsetStopLabel>3</OffsetStopLabel>
           <OffsetLabelFlip>18</OffsetLabelFlip>
           <SignalColorUpSerializable>-6751336</SignalColorUpSerializable>
-          <SignalColorDownSerializable>-32640</SignalColorDownSerializable>
+          <SignalColorDownSerializable>-3318692</SignalColorDownSerializable>
           <SignalColorUpProgressSerializable>-16711681</SignalColorUpProgressSerializable>
           <SignalColorDownProgressSerializable>-16711681</SignalColorDownProgressSerializable>
           <SignalColorConfirmationSerializable>-23296</SignalColorConfirmationSerializable>
@@ -859,8 +859,8 @@
           <Name>A.P.E.X. Diagnostic Expected Range</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>2</Panel>
-          <PanelUI>3</PanelUI>
+          <Panel>3</Panel>
+          <PanelUI>4</PanelUI>
           <Plots>
             <Plot>
               <Max>1.7976931348623157E+308</Max>
@@ -1278,7 +1278,7 @@
               <Min>-1.7976931348623157E+308</Min>
               <Name>Swing high</Name>
               <PenSerializable>
-                <Color>n:Green</Color>
+                <Color>n:DarkSeaGreen</Color>
                 <DashStyle>Dot</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
@@ -1345,7 +1345,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>17440</Value>
+              <Value>16743</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1414,8 +1414,8 @@
           <Name>A.P.E.X. Diagnostic Trendar Momentum</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>3</Panel>
-          <PanelUI>4</PanelUI>
+          <Panel>1</Panel>
+          <PanelUI>2</PanelUI>
           <Plots>
             <Plot>
               <Max>1.7976931348623157E+308</Max>
@@ -1447,7 +1447,7 @@
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.655889145496536</HeightRatio>
+      <HeightRatio>0.753709198813056</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1455,8 +1455,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>17511.1816919708</FixedPanelMaxRight>
-      <FixedPanelMinRight>17372.9788919708</FixedPanelMinRight>
+      <FixedPanelMaxRight>16891.3138313883</FixedPanelMaxRight>
+      <FixedPanelMinRight>16730.7565911469</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1480,7 +1480,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.0993071593533487</HeightRatio>
+      <HeightRatio>0.0697329376854599</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1488,8 +1488,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>8198.1578</FixedPanelMaxRight>
-      <FixedPanelMinRight>-477.1578</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.07785765647409</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.28518800244707</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1513,7 +1513,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.0993071593533487</HeightRatio>
+      <HeightRatio>0.0637982195845697</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1521,8 +1521,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>65.3596888888889</FixedPanelMaxRight>
-      <FixedPanelMinRight>-3.80413333333333</FixedPanelMinRight>
+      <FixedPanelMaxRight>7487.8136</FixedPanelMaxRight>
+      <FixedPanelMinRight>-435.8136</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1546,7 +1546,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel2>
     <Panel3>
-      <HeightRatio>0.168591224018476</HeightRatio>
+      <HeightRatio>0.124629080118694</HeightRatio>
       <Index>3</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1554,8 +1554,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.09939831224926</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.4749257382439</FixedPanelMinRight>
+      <FixedPanelMaxRight>124.2306</FixedPanelMaxRight>
+      <FixedPanelMinRight>-7.2306</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1590,7 +1590,7 @@
           <PaintPriceMarker>true</PaintPriceMarker>
           <Panel>0</Panel>
           <PanelUI>1</PanelUI>
-          <PlotExecutions>TextAndMarker</PlotExecutions>
+          <PlotExecutions>DoNotPlot</PlotExecutions>
           <PlotSessionBreaks>true</PlotSessionBreaks>
           <PositionPenLooserSerializable>
             <Color>n:Crimson</Color>
