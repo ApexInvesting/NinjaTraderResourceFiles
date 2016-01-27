@@ -53,7 +53,7 @@
   <Columns>
     <Column0>
       <ClassName>NinjaTrader.MarketAnalyzer.Instrument</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <Instrument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -92,7 +92,7 @@
     </Column0>
     <Column1>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnBarTrendChopFilter</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <ApexColumnBarTrendChopFilter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -115,7 +115,7 @@
           <Name>BarTrendChopFilter</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
@@ -132,7 +132,7 @@
     </Column1>
     <Column2>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendFlip</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <ApexColumnTrendFlip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -155,7 +155,7 @@
           <Name>TrendFlip</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
@@ -173,7 +173,7 @@
     </Column2>
     <Column3>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnVolatileTrendLine</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <ApexColumnVolatileTrendLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -196,7 +196,7 @@
           <Name>VolatileTrendLine</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
@@ -214,7 +214,7 @@
     </Column3>
     <Column4>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendBands</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <ApexColumnTrendBands xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -237,7 +237,7 @@
           <Name>TrendBands</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
@@ -255,7 +255,7 @@
     </Column4>
     <Column5>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendarMomentum</ClassName>
-      <Width>132</Width>
+      <Width>106</Width>
       <Column>
         <ApexColumnTrendarMomentum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -278,7 +278,7 @@
           <Name>TrendarMomentum</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
@@ -295,7 +295,7 @@
     </Column5>
     <Column6>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendCatcherChopFilter</ClassName>
-      <Width>135</Width>
+      <Width>110</Width>
       <Column>
         <ApexColumnTrendCatcherChopFilter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -318,7 +318,7 @@
           <Name>TrendCatcherChopFilter</Name>
           <Period>
             <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>60</BasePeriodValue>
+            <BasePeriodValue>15</BasePeriodValue>
             <Id>Custom4</Id>
             <MarketDataType>Last</MarketDataType>
             <PointAndFigurePriceType>Close</PointAndFigurePriceType>
