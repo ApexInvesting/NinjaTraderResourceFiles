@@ -177,7 +177,7 @@
           <OHLC_Shadow_UpBarColor_Serializable>-16777216</OHLC_Shadow_UpBarColor_Serializable>
           <OHLC_Shadow_DownBarColor_Serializable>-16777216</OHLC_Shadow_DownBarColor_Serializable>
           <TrailingShadowMode>ManualSize</TrailingShadowMode>
-          <TrailingShadowSizeTicks>4</TrailingShadowSizeTicks>
+          <TrailingShadowSizeTicks>1</TrailingShadowSizeTicks>
           <TrailingShadowSizeMultiplier>1</TrailingShadowSizeMultiplier>
         </BarStyleSettings>
       </Indicator>
@@ -676,7 +676,7 @@
           <Period>10</Period>
           <Factor>0.8</Factor>
           <AudioAlerts>false</AudioAlerts>
-          <SignalColorUpSerializable>-16711809</SignalColorUpSerializable>
+          <SignalColorUpSerializable>-8388864</SignalColorUpSerializable>
           <SignalColorDownSerializable>-60269</SignalColorDownSerializable>
         </APEXTrendFlip>
       </Indicator>
@@ -948,7 +948,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>16476</Value>
+              <Value>16052</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1043,7 +1043,8 @@
           <SignalColorDownSerializable>-65536</SignalColorDownSerializable>
           <SignalColorUpSerializableO>-14513374</SignalColorUpSerializableO>
           <SignalColorDownSerializableO>-5103070</SignalColorDownSerializableO>
-          <SignalColorDownSerializableFlip>-256</SignalColorDownSerializableFlip>
+          <SignalColorDownSerializableFlipUp>-4128832</SignalColorDownSerializableFlipUp>
+          <SignalColorDownSerializableFlipDown>-1015680</SignalColorDownSerializableFlipDown>
         </TrendarMomentum>
       </Indicator>
     </Indicator10>
@@ -1148,8 +1149,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16537.3034183174</FixedPanelMaxRight>
-      <FixedPanelMinRight>16407.9625439249</FixedPanelMinRight>
+      <FixedPanelMaxRight>16103.5299797468</FixedPanelMaxRight>
+      <FixedPanelMinRight>16011.9636911392</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1181,8 +1182,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.879579242426165</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.11821560605722</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.0067108775444</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.768140199686848</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
