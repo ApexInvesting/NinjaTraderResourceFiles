@@ -6,7 +6,7 @@
   <AutoSortSeconds>30</AutoSortSeconds>
   <BackColor>n:White</BackColor>
   <BarsBack>100</BarsBack>
-  <ColumnRatios>1|1|1|1|1|1|1|1</ColumnRatios>
+  <ColumnRatios>1|1|1|1|1|1|1</ColumnRatios>
   <Font>Microsoft Sans Serif:8.25:False:False:False:False</Font>
   <ForeColor>n:Black</ForeColor>
   <GridLineColor>n:Silver</GridLineColor>
@@ -22,22 +22,22 @@
   <TotalRowEnabled>False</TotalRowEnabled>
   <Instruments>
     <Row>
-      <Column>$GBPAUD Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
-      <Column>$GBPCAD Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
-      <Column>$GBPCHF Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
-      <Column>$GBPJPY Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
-      <Column>$GBPNZD Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
-      <Column>$GBPUSD Default</Column>
+      <Column>BLANK</Column>
     </Row>
     <Row>
       <Column>BLANK</Column>
@@ -53,7 +53,7 @@
   <Columns>
     <Column0>
       <ClassName>NinjaTrader.MarketAnalyzer.Instrument</ClassName>
-      <Width>106</Width>
+      <Width>159</Width>
       <Column>
         <Instrument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -92,7 +92,7 @@
     </Column0>
     <Column1>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnBarTrendChopFilter</ClassName>
-      <Width>106</Width>
+      <Width>159</Width>
       <Column>
         <ApexColumnBarTrendChopFilter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -132,7 +132,7 @@
     </Column1>
     <Column2>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendFlip</ClassName>
-      <Width>106</Width>
+      <Width>159</Width>
       <Column>
         <ApexColumnTrendFlip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -173,7 +173,7 @@
     </Column2>
     <Column3>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnVolatileTrendLine</ClassName>
-      <Width>106</Width>
+      <Width>159</Width>
       <Column>
         <ApexColumnVolatileTrendLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -214,7 +214,7 @@
     </Column3>
     <Column4>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendBands</ClassName>
-      <Width>106</Width>
+      <Width>159</Width>
       <Column>
         <ApexColumnTrendBands xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -255,7 +255,7 @@
     </Column4>
     <Column5>
       <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendarMomentum</ClassName>
-      <Width>106</Width>
+      <Width>162</Width>
       <Column>
         <ApexColumnTrendarMomentum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AlertConditions />
@@ -293,45 +293,5 @@
         </ApexColumnTrendarMomentum>
       </Column>
     </Column5>
-    <Column6>
-      <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnTrendCatcherChopFilter</ClassName>
-      <Width>110</Width>
-      <Column>
-        <ApexColumnTrendCatcherChopFilter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AlertConditions />
-          <AltBarColorSerialize>n:Red</AltBarColorSerialize>
-          <BackColorSerialize>x:0</BackColorSerialize>
-          <BarColorSerialize>n:Lime</BarColorSerialize>
-          <BarGraphGrowthType>Center</BarGraphGrowthType>
-          <BarGraphGrowthMaxValue>1000</BarGraphGrowthMaxValue>
-          <BarGraphReferenceValue>0</BarGraphReferenceValue>
-          <CalculateOnBarClose>true</CalculateOnBarClose>
-          <CalculateOnBarCloseConfigurable>true</CalculateOnBarCloseConfigurable>
-          <CellConditions />
-          <ColumnType>Regular</ColumnType>
-          <DataSeriesConfigurable>true</DataSeriesConfigurable>
-          <DataTypeSerializable>string</DataTypeSerializable>
-          <FilterConditions />
-          <ForeColorSerialize>x:0</ForeColorSerialize>
-          <FormatDecimals>2</FormatDecimals>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>TrendCatcherChopFilter</Name>
-          <Period>
-            <BasePeriodType>Tick</BasePeriodType>
-            <BasePeriodValue>15</BasePeriodValue>
-            <Id>Custom4</Id>
-            <MarketDataType>Last</MarketDataType>
-            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-            <ReversalType>Tick</ReversalType>
-            <Value>3</Value>
-            <Value2>12</Value2>
-          </Period>
-          <PriceType>Close</PriceType>
-          <RequiresBars>true</RequiresBars>
-          <ShowInTotalRow>false</ShowInTotalRow>
-          <Settings>{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":125},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":1,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false}</Settings>
-        </ApexColumnTrendCatcherChopFilter>
-      </Column>
-    </Column6>
   </Columns>
 </NinjaTrader>
