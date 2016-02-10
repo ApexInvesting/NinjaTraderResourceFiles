@@ -1,5 +1,5 @@
 <NinjaTrader>
-  <Version>7.0.1000.30</Version>
+  <Version>7.0.1000.31</Version>
   <Layout>
     <ChartData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <ActionColorSerialize>n:AntiqueWhite</ActionColorSerialize>
@@ -1127,79 +1127,6 @@
       </Indicator>
     </Indicator10>
     <Indicator11>
-      <ClassName>NinjaTrader.Indicator.Swing</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <Swing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>true</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>true</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Swing</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Swing high</Name>
-              <PenSerializable>
-                <Color>n:DarkSeaGreen</Color>
-                <DashStyle>Dot</DashStyle>
-                <Width>2</Width>
-              </PenSerializable>
-              <PlotStyle>Dot</PlotStyle>
-            </Plot>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Swing low</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Dot</DashStyle>
-                <Width>2</Width>
-              </PenSerializable>
-              <PlotStyle>Dot</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>true</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10003</ZOrder>
-          <Strength>5</Strength>
-        </Swing>
-      </Indicator>
-    </Indicator11>
-    <Indicator12>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticCurrentPrice</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1238,7 +1165,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>16052</Value>
+              <Value>16089</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1269,8 +1196,8 @@
           <ZOrder>10004</ZOrder>
         </ApexDiagnosticCurrentPrice>
       </Indicator>
-    </Indicator12>
-    <Indicator13>
+    </Indicator11>
+    <Indicator12>
       <ClassName>NinjaTrader.Indicator.TrendarMomentum</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1337,8 +1264,8 @@
           <SignalColorDownSerializableFlipDown>-32640</SignalColorDownSerializableFlipDown>
         </TrendarMomentum>
       </Indicator>
-    </Indicator13>
-    <Indicator14>
+    </Indicator12>
+    <Indicator13>
       <ClassName>NinjaTrader.Indicator.ExpectedVolume07</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1400,7 +1327,7 @@
           <UserSettingsSerialized>{"expectedVolumePen":{"color":"Gold","dashStyle":0,"width":3.0},"alarmThresholdPen":{"color":"Black","dashStyle":1,"width":1.0},"actualVolumeColor":"SlateBlue","alertsVisualEnabled":false,"alertsAudibleEnabled":false,"alertsWindowFlashEnabled":false}</UserSettingsSerialized>
         </ExpectedVolume07>
       </Indicator>
-    </Indicator14>
+    </Indicator13>
   </Indicators>
   <Panels>
     <Panel0>
@@ -1412,8 +1339,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16144.0510517895</FixedPanelMaxRight>
-      <FixedPanelMinRight>15964.1047376842</FixedPanelMinRight>
+      <FixedPanelMaxRight>16146.6910256842</FixedPanelMaxRight>
+      <FixedPanelMinRight>16027.1068690526</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1445,8 +1372,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.0067108775444</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.768140199686848</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.936561421062473</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.09057564482453</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1478,8 +1405,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>4347.0092</FixedPanelMaxRight>
-      <FixedPanelMinRight>-253.0092</FixedPanelMinRight>
+      <FixedPanelMaxRight>1960.0828</FixedPanelMaxRight>
+      <FixedPanelMinRight>-114.0828</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1511,8 +1438,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>85.05018</FixedPanelMaxRight>
-      <FixedPanelMinRight>-4.95018</FixedPanelMinRight>
+      <FixedPanelMaxRight>49.58606</FixedPanelMaxRight>
+      <FixedPanelMinRight>-2.88606</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

@@ -1,5 +1,5 @@
 <NinjaTrader>
-  <Version>7.0.1000.30</Version>
+  <Version>7.0.1000.31</Version>
   <Layout>
     <ChartData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <ActionColorSerialize>n:AntiqueWhite</ActionColorSerialize>
@@ -745,7 +745,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
-              <Value>16054</Value>
+              <Value>16083</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -994,7 +994,7 @@
               <Min>-1.7976931348623157E+308</Min>
               <Name>Current Open</Name>
               <PenSerializable>
-                <Color>n:Transparent</Color>
+                <Color>n:PaleTurquoise</Color>
                 <DashStyle>Dot</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
@@ -1754,8 +1754,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16157.366210777</FixedPanelMaxRight>
-      <FixedPanelMinRight>15826.2995605713</FixedPanelMinRight>
+      <FixedPanelMaxRight>16161.5999198312</FixedPanelMaxRight>
+      <FixedPanelMinRight>15886.4127383966</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1787,8 +1787,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5365.2754</FixedPanelMaxRight>
-      <FixedPanelMinRight>-312.2754</FixedPanelMinRight>
+      <FixedPanelMaxRight>2151.2068</FixedPanelMaxRight>
+      <FixedPanelMinRight>-125.2068</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1820,8 +1820,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2.15510407759028</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.442894548874627</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03806263052583</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.377879328090503</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1853,8 +1853,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.833905254892007</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.923317019618896</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.851425572120306</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.758943537871927</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
