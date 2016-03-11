@@ -119,13 +119,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -195,13 +195,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
             <Period>
               <BasePeriodType>Minute</BasePeriodType>
@@ -222,7 +222,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex|YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex|YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -285,13 +285,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -302,7 +302,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -359,13 +359,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -376,7 +376,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -499,13 +499,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -516,7 +516,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -565,13 +565,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
@@ -582,7 +582,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -643,7 +643,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30013</ZOrder>
-          <SettingsSerializable>{"TrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":7},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":0,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":true,"AdjustFlipEntry":false},"UseConfirmation":false,"ConfirmationTrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":15},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":1,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"TradingSchedule":{"Items":[{"StartEntering":0,"StopEntering":10080,"FlattenPositions":null}],"DisplayName":"Custom unsaved schedule"},"StopOffsetTicks":0,"StopOffsetTicksTrail":0,"StopSwingHigh":1,"EntryOffsetTicks":1,"TargetTicks":0,"MaxEntryBars":1,"WorstFill":false,"ShowStats":false,"Mode":0,"EntryType":0,"ExitOnFlip":false,"StopLimitOffset":2,"MinimumStopDistance":3,"AllowMultipleTrades":true,"AllowTwoEntries":true}</SettingsSerializable>
+          <SettingsSerializable>{"TrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":7},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":0,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"UseConfirmation":false,"ConfirmationTrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":15},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":1,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"TradingSchedule":{"Items":[{"StartEntering":0,"StopEntering":10080,"FlattenPositions":null}],"DisplayName":"Custom unsaved schedule"},"StopOffsetTicks":0,"StopOffsetTicksTrail":0,"StopSwingHigh":1,"EntryOffsetTicks":1,"TargetTicks":0,"MaxEntryBars":1,"WorstFill":false,"ShowStats":false,"Mode":0,"EntryType":0,"ExitOnFlip":false,"StopLimitOffset":2,"MinimumStopDistance":3,"AllowMultipleTrades":true,"AllowTwoEntries":true}</SettingsSerializable>
           <EnableScheduleBackgroundColoring>false</EnableScheduleBackgroundColoring>
           <CanOpenPositionColorSerializable>-1</CanOpenPositionColorSerializable>
           <CanHoldPositionColorSerializable>-8355712</CanHoldPositionColorSerializable>
@@ -718,13 +718,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -735,7 +735,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -784,13 +784,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -801,7 +801,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -861,13 +861,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -878,7 +878,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -927,13 +927,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
@@ -944,7 +944,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1012,13 +1012,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
@@ -1029,7 +1029,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1087,13 +1087,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
             <Period>
               <BasePeriodType>Minute</BasePeriodType>
@@ -1114,7 +1114,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex|YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex|YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1214,13 +1214,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
@@ -1231,7 +1231,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -1240,7 +1240,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>16088</Value>
+              <Value>17041</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1285,13 +1285,13 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>true</CalculateOnBarClose>
@@ -1302,7 +1302,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1353,24 +1353,24 @@
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>5</BasePeriodValue>
-              <Id>Custom4</Id>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Minute</Id>
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
-              <Value2>10</Value2>
+              <Value>10</Value>
+              <Value2>50</Value2>
             </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
           <DisableScaleBuffer>false</DisableScaleBuffer>
           <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
+          <DisplayInDataBox>true</DisplayInDataBox>
           <DrawOnPricePanel>true</DrawOnPricePanel>
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>YM 03-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1383,23 +1383,45 @@
             <Plot>
               <Max>1.7976931348623157E+308</Max>
               <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
+              <Name>Alarm Threshold</Name>
               <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
+                <Color>n:Black</Color>
+                <DashStyle>Dash</DashStyle>
                 <Width>1</Width>
               </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
+              <PlotStyle>Square</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Expected Volume</Name>
+              <PenSerializable>
+                <Color>n:Gold</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>3</Width>
+              </PenSerializable>
+              <PlotStyle>Square</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Actual Volume</Name>
+              <PenSerializable>
+                <Color>n:MediumSlateBlue</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>15</Width>
+              </PenSerializable>
+              <PlotStyle>Bar</PlotStyle>
             </Plot>
           </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
+          <PlotsConfigurable>true</PlotsConfigurable>
           <ScaleJustification>Right</ScaleJustification>
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10002</ZOrder>
-          <SettingsSerialized>{"useFuturesVolumeForForex":true,"minuteBarSettings":{"periodLengthStyle":"AutoDetect","periodEndStyle":"Offset","periodLengthInMinutes":10,"periodOffsetInMinutes":0},"diagnosticBarSettings":{"periodEndStyle":"UseEndMinuteOfCurrentBar","periodLengthInMinutes":10,"periodOffsetInMinutes":0,"alertStyle":"PotentialAndConfirmed"},"dropSpikes":true,"spikeFactor":2.0,"alertThreshold":1.0}</SettingsSerialized>
-          <UserSettingsSerialized>{"expectedVolumePen":{"color":"Gold","dashStyle":0,"width":3.0},"alarmThresholdPen":{"color":"Black","dashStyle":1,"width":1.0},"actualVolumeColor":"SlateBlue","alertsVisualEnabled":false,"alertsAudibleEnabled":false,"alertsWindowFlashEnabled":false}</UserSettingsSerialized>
+          <ZOrder>10006</ZOrder>
+          <SettingsSerialized>{"useFuturesVolumeForForex":true,"minuteBarSettings":{"periodLengthStyle":"AutoDetect","periodEndStyle":"Offset","periodLengthInMinutes":10,"periodOffsetInMinutes":0},"diagnosticBarSettings":{"periodEndStyle":"UseEndMinuteOfCurrentBar","periodLengthInMinutes":10,"periodOffsetInMinutes":0,"alertStyle":"PotentialAndConfirmed"},"dropSpikes":true,"dropZeros":false,"spikeFactor":2.0,"alertThreshold":1.0}</SettingsSerialized>
+          <UserSettingsSerialized>{"expectedVolumePen":{"color":"Yellow","dashStyle":0,"width":3.0},"alarmThresholdPen":{"color":"Black","dashStyle":1,"width":1.0},"actualVolumeColor":"LightSteelBlue","alertsVisualEnabled":false,"alertsAudibleEnabled":false,"alertsWindowFlashEnabled":false,"showVolumeLabels":true}</UserSettingsSerialized>
         </ExpectedVolume07>
       </Indicator>
     </Indicator14>
@@ -1414,8 +1436,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16146.6620995708</FixedPanelMaxRight>
-      <FixedPanelMinRight>16027.0975570815</FixedPanelMinRight>
+      <FixedPanelMaxRight>17147.8440156626</FixedPanelMaxRight>
+      <FixedPanelMinRight>16878.6834831692</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1439,7 +1461,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.129080118694362</HeightRatio>
+      <HeightRatio>0.0875370919881306</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1447,8 +1469,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.936561421062473</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.09057564482453</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.18633171643233</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.13714092547192</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1472,7 +1494,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.0637982195845697</HeightRatio>
+      <HeightRatio>0.102373887240356</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1480,8 +1502,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1960.0828</FixedPanelMaxRight>
-      <FixedPanelMinRight>-114.0828</FixedPanelMinRight>
+      <FixedPanelMaxRight>1719.0542</FixedPanelMaxRight>
+      <FixedPanelMinRight>-100.0542</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1513,8 +1535,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>49.58606</FixedPanelMaxRight>
-      <FixedPanelMinRight>-2.88606</FixedPanelMinRight>
+      <FixedPanelMaxRight>97.89796</FixedPanelMaxRight>
+      <FixedPanelMinRight>-5.69796</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
