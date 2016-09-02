@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cur=`git status | head -1 | cut -d" " -f4`
+#On branch alpha
+cur=`git status | head -1 | cut -d" " -f3`
 if [ $cur == alpha ] ; then
     release=prebeta
     if [ ! -z "$1" ] ; then
