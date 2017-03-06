@@ -1,0 +1,222 @@
+<NinjaTrader>
+  <Version>7.0.1000.33</Version>
+  <AlertsEnabled>False</AlertsEnabled>
+  <AlwaysOnTop>True</AlwaysOnTop>
+  <AutoSortEnabled>False</AutoSortEnabled>
+  <AutoSortSeconds>5</AutoSortSeconds>
+  <BackColor>n:White</BackColor>
+  <BarsBack>1500</BarsBack>
+  <ColumnRatios>1|1|1|1|1</ColumnRatios>
+  <Font>Microsoft Sans Serif:8.25:False:False:False:False</Font>
+  <ForeColor>n:Black</ForeColor>
+  <GridLineColor>n:Silver</GridLineColor>
+  <LabelAlignment>Left</LabelAlignment>
+  <LabelBackColor>n:White</LabelBackColor>
+  <LabelForeColor>n:Black</LabelForeColor>
+  <HighLightBackColor>n:Yellow</HighLightBackColor>
+  <HighLightForeColor>n:Black</HighLightForeColor>
+  <HighLightSeconds>1</HighLightSeconds>
+  <RowFilterEnabled>False</RowFilterEnabled>
+  <SessionData>Default 24/7</SessionData>
+  <TotalRowBackColor>n:WhiteSmoke</TotalRowBackColor>
+  <TotalRowEnabled>False</TotalRowEnabled>
+  <Instruments>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+    <Row>
+      <Column>BLANK</Column>
+    </Row>
+  </Instruments>
+  <Labels />
+  <Columns>
+    <Column0>
+      <ClassName>NinjaTrader.MarketAnalyzer.Instrument</ClassName>
+      <Width>186</Width>
+      <Column>
+        <Instrument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AlertConditions />
+          <AltBarColorSerialize>n:Red</AltBarColorSerialize>
+          <BackColorSerialize>x:0</BackColorSerialize>
+          <BarColorSerialize>n:Lime</BarColorSerialize>
+          <BarGraphGrowthType>Center</BarGraphGrowthType>
+          <BarGraphGrowthMaxValue>1000</BarGraphGrowthMaxValue>
+          <BarGraphReferenceValue>0</BarGraphReferenceValue>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <CalculateOnBarCloseConfigurable>true</CalculateOnBarCloseConfigurable>
+          <CellConditions />
+          <ColumnType>Regular</ColumnType>
+          <DataSeriesConfigurable>false</DataSeriesConfigurable>
+          <DataTypeSerializable>string</DataTypeSerializable>
+          <FilterConditions />
+          <ForeColorSerialize>x:0</ForeColorSerialize>
+          <FormatDecimals>2</FormatDecimals>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>3C-VAD 12T</Name>
+          <Period>
+            <BasePeriodType>Minute</BasePeriodType>
+            <BasePeriodValue>1</BasePeriodValue>
+            <Id>Minute</Id>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>1</Value>
+            <Value2>1</Value2>
+          </Period>
+          <PriceType>Close</PriceType>
+          <RequiresBars>true</RequiresBars>
+          <ShowInTotalRow>false</ShowInTotalRow>
+        </Instrument>
+      </Column>
+    </Column0>
+    <Column1>
+      <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnVAD</ClassName>
+      <Width>186</Width>
+      <Column>
+        <ApexColumnVAD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AlertConditions />
+          <AltBarColorSerialize>n:Red</AltBarColorSerialize>
+          <BackColorSerialize>x:0</BackColorSerialize>
+          <BarColorSerialize>n:Lime</BarColorSerialize>
+          <BarGraphGrowthType>Center</BarGraphGrowthType>
+          <BarGraphGrowthMaxValue>1000</BarGraphGrowthMaxValue>
+          <BarGraphReferenceValue>0</BarGraphReferenceValue>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <CalculateOnBarCloseConfigurable>true</CalculateOnBarCloseConfigurable>
+          <CellConditions />
+          <ColumnType>Regular</ColumnType>
+          <DataSeriesConfigurable>true</DataSeriesConfigurable>
+          <DataTypeSerializable>string</DataTypeSerializable>
+          <FilterConditions />
+          <ForeColorSerialize>x:0</ForeColorSerialize>
+          <FormatDecimals>2</FormatDecimals>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>VadA-Trigger</Name>
+          <Period>
+            <BasePeriodType>Tick</BasePeriodType>
+            <BasePeriodValue>100</BasePeriodValue>
+            <Id>Custom8</Id>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>12</Value>
+            <Value2>50</Value2>
+          </Period>
+          <PriceType>Close</PriceType>
+          <RequiresBars>true</RequiresBars>
+          <ShowInTotalRow>false</ShowInTotalRow>
+          <Rever>5</Rever>
+          <Prec>3</Prec>
+          <Adaptive>false</Adaptive>
+        </ApexColumnVAD>
+      </Column>
+    </Column1>
+    <Column2>
+      <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnVAD2</ClassName>
+      <Width>186</Width>
+      <Column>
+        <ApexColumnVAD2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AlertConditions />
+          <AltBarColorSerialize>n:Red</AltBarColorSerialize>
+          <BackColorSerialize>x:0</BackColorSerialize>
+          <BarColorSerialize>n:Lime</BarColorSerialize>
+          <BarGraphGrowthType>Center</BarGraphGrowthType>
+          <BarGraphGrowthMaxValue>1000</BarGraphGrowthMaxValue>
+          <BarGraphReferenceValue>0</BarGraphReferenceValue>
+          <CalculateOnBarClose>true</CalculateOnBarClose>
+          <CalculateOnBarCloseConfigurable>true</CalculateOnBarCloseConfigurable>
+          <CellConditions />
+          <ColumnType>Regular</ColumnType>
+          <DataSeriesConfigurable>true</DataSeriesConfigurable>
+          <DataTypeSerializable>string</DataTypeSerializable>
+          <FilterConditions />
+          <ForeColorSerialize>x:0</ForeColorSerialize>
+          <FormatDecimals>2</FormatDecimals>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>VadD-Scalp</Name>
+          <Period>
+            <BasePeriodType>Tick</BasePeriodType>
+            <BasePeriodValue>100</BasePeriodValue>
+            <Id>Custom8</Id>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>12</Value>
+            <Value2>50</Value2>
+          </Period>
+          <PriceType>Close</PriceType>
+          <RequiresBars>true</RequiresBars>
+          <ShowInTotalRow>false</ShowInTotalRow>
+          <Rever>5</Rever>
+          <Prec>3</Prec>
+          <Adaptive>false</Adaptive>
+          <Mode>ModeD</Mode>
+        </ApexColumnVAD2>
+      </Column>
+    </Column2>
+    <Column3>
+      <ClassName>NinjaTrader.MarketAnalyzer.ApexColumnVAD2</ClassName>
+      <Width>188</Width>
+      <Column>
+        <ApexColumnVAD2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AlertConditions />
+          <AltBarColorSerialize>n:Red</AltBarColorSerialize>
+          <BackColorSerialize>x:0</BackColorSerialize>
+          <BarColorSerialize>n:Lime</BarColorSerialize>
+          <BarGraphGrowthType>Center</BarGraphGrowthType>
+          <BarGraphGrowthMaxValue>1000</BarGraphGrowthMaxValue>
+          <BarGraphReferenceValue>0</BarGraphReferenceValue>
+          <CalculateOnBarClose>true</CalculateOnBarClose>
+          <CalculateOnBarCloseConfigurable>true</CalculateOnBarCloseConfigurable>
+          <CellConditions />
+          <ColumnType>Regular</ColumnType>
+          <DataSeriesConfigurable>true</DataSeriesConfigurable>
+          <DataTypeSerializable>string</DataTypeSerializable>
+          <FilterConditions />
+          <ForeColorSerialize>x:0</ForeColorSerialize>
+          <FormatDecimals>2</FormatDecimals>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>VadE-Trend</Name>
+          <Period>
+            <BasePeriodType>Tick</BasePeriodType>
+            <BasePeriodValue>100</BasePeriodValue>
+            <Id>Custom8</Id>
+            <MarketDataType>Last</MarketDataType>
+            <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+            <ReversalType>Tick</ReversalType>
+            <Value>12</Value>
+            <Value2>50</Value2>
+          </Period>
+          <PriceType>Close</PriceType>
+          <RequiresBars>true</RequiresBars>
+          <ShowInTotalRow>false</ShowInTotalRow>
+          <Rever>5</Rever>
+          <Prec>3</Prec>
+          <Adaptive>true</Adaptive>
+          <Mode>ModeE</Mode>
+        </ApexColumnVAD2>
+      </Column>
+    </Column3>
+  </Columns>
+</NinjaTrader>
