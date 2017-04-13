@@ -503,7 +503,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
-              <Value>20526</Value>
+              <Value>20527</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1587,7 +1587,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjozLCJBNSI6MCwiQTYiOjAsIkE3IjozLCJBOCI6MCwiQTkiOjMwLCJBMTAiOjQsIkExMSI6MjAwLCJBMTIiOmZhbHNlLCJBMTMiOjAsIkExNSI6MS4wLCJBMTYiOiJTZWFHcmVlbiIsIkExNyI6IlJlZCIsIkExOCI6IjY0LCA2NCwgNjQiLCJBMTkiOiJEYXJrU2VhR3JlZW4iLCJBMjAiOiJSZWQiLCJBMjEiOiIiLCJBMjIiOiJXaGl0ZSIsIkEyMyI6NCwiQTI0IjoyMDAsIkEyNSI6IjIwNSwgMjA1LCAyMDUiLCJBMjYiOiIyMzAsIDIzMCwgMjMwIiwiQTI3IjoiVHJhbnNwYXJlbnQiLCJBMjgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTI5IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMCI6IlRyYW5zcGFyZW50IiwiQTMxIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMiI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMzMiOmZhbHNlLCJBMzQiOmZhbHNlLCJBMzUiOmZhbHNlLCJBMzYiOiIyMTAsIDE4MCwgMTQwIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IjEyOCwgMTI4LCAxMjgiLCJBNDAiOiIyNTUsIDIxNSwgMCIsIkE0MSI6MywiQTQyIjoxLCJBNDMiOjIwMCwiQTQ0IjpmYWxzZSwiQTQ1IjoiMjU1LCAxMDQsIDIzIiwiQTQ2IjoiMCwgMjMwLCAwIiwiQTQ3IjoiMTIzLCAxMDQsIDIzOCIsIkE0OCI6MCwiQTQ5IjpmYWxzZSwiQTUwIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkE1MSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTIiOjUsIkE1MyI6NywiQTU0Ijp0cnVlLCJBNTUiOnRydWUsIkE1NiI6ZmFsc2UsIkE1OCI6IjEyNCwgMjUyLCAwIiwiQTU5IjoiQ29yYWwiLCJBNjAiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTYxIjpmYWxzZSwiQTYyIjoyNCwiQTYzIjowLCJBNjQiOmZhbHNlLCJBNjUiOmZhbHNlLCJBNjYiOnsiSXRlbXMiOlt7IlN0YXJ0RW50ZXJpbmciOjAsIlN0b3BFbnRlcmluZyI6MTAwODAsIkZsYXR0ZW5Qb3NpdGlvbnMiOm51bGx9XSwiRGlzcGxheU5hbWUiOiJDdXN0b20gdW5zYXZlZCBzY2hlZHVsZSJ9LCJBNjciOiJXaGl0ZSIsIkE2OCI6IldoaXRlIiwiQTY5IjoiMTY5LCAxNjksIDE2OSIsIkE3MCI6ZmFsc2UsIkE3MSI6MywiQTcyIjozMDAsIkE3MyI6ZmFsc2UsIkE3NCI6IsKYIiwiQTc1IjoiciIsIkE3NiI6IkdyZWVuIiwiQTc3IjoiMjU1LCAwLCAwIiwiQTc4IjpmYWxzZSwiQTc5IjpmYWxzZSwiQTgwIjpmYWxzZSwiQTgxIjpmYWxzZSwiQTgyIjpmYWxzZSwiQTgzIjpmYWxzZSwiQTg0IjpmYWxzZSwiQTg1IjpmYWxzZSwiQTg2Ijp0cnVlLCJBODciOmZhbHNlLCJBODgiOnRydWUsIkE4OSI6ZmFsc2UsIkE5MCI6ZmFsc2UsIkE5MSI6ZmFsc2UsIkE5MiI6ZmFsc2UsIkE5MyI6IjI1NSwgMTkyLCAxMjgiLCJBOTQiOiIxNjksIDE2OSwgMTY5IiwiQTk1Ijo3LCJBOTYiOjIwMCwiQTk3IjpmYWxzZSwiQTk4IjowLCJBOTkiOiIzMCwgMTQ0LCAyNTUiLCJBMTAwIjoiPFBlbj48Q29sb3I+eDpmZjAwNDAwMDwvQ29sb3I+PERhc2hTdHlsZT5Tb2xpZDwvRGFzaFN0eWxlPjxXaWR0aD4zPC9XaWR0aD48L1Blbj4iLCJBMTAxIjoiPFBlbj48Q29sb3I+bjpGaXJlYnJpY2s8L0NvbG9yPjxEYXNoU3R5bGU+U29saWQ8L0Rhc2hTdHlsZT48V2lkdGg+MzwvV2lkdGg+PC9QZW4+IiwiQTEwMiI6ZmFsc2UsIkExMDMiOiIyNDUsIDI0NSwgMjQ1IiwiQTEwNCI6IkJsYWNrIiwiQTEwNSI6IjI1NSwgMjU1LCAyNTUiLCJBMTA2IjoiMjU1LCAyNTUsIDI1NSIsIkExMDciOmZhbHNlLCJBMTA4Ijp0cnVlLCJBMTA5IjpmYWxzZSwiQTExMCI6IlRydWUsMCwyNCwwLDAsMCwwLDUwLDAsMCJ9</SettingsSerialized>
+          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjozLCJBNSI6MCwiQTYiOjAsIkE3IjozLCJBOCI6MCwiQTkiOjMwLCJBMTAiOjQsIkExMSI6MjAwLCJBMTIiOmZhbHNlLCJBMTMiOjAsIkExNSI6MS4wLCJBMTYiOiJTZWFHcmVlbiIsIkExNyI6IlJlZCIsIkExOCI6IjY0LCA2NCwgNjQiLCJBMTkiOiIxNDMsIDE4OCwgMTM5IiwiQTIwIjoiUmVkIiwiQTIxIjoiIiwiQTIyIjoiV2hpdGUiLCJBMjMiOjQsIkEyNCI6MjAwLCJBMjUiOiIyMDUsIDIwNSwgMjA1IiwiQTI2IjoiMjMwLCAyMzAsIDIzMCIsIkEyNyI6IlRyYW5zcGFyZW50IiwiQTI4IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyOSI6IlRyYW5zcGFyZW50IiwiQTMwIjoiVHJhbnNwYXJlbnQiLCJBMzEiOiJUcmFuc3BhcmVudCIsIkEzMiI6IlRyYW5zcGFyZW50IiwiQTMzIjpmYWxzZSwiQTM0IjpmYWxzZSwiQTM1IjpmYWxzZSwiQTM2IjoiVGFuIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IkdyYXkiLCJBNDAiOiJHb2xkIiwiQTQxIjozLCJBNDIiOjEsIkE0MyI6MjAwLCJBNDQiOmZhbHNlLCJBNDUiOiIyNTUsIDEwNCwgMjMiLCJBNDYiOiIwLCAyMzAsIDAiLCJBNDciOiIxMjMsIDEwNCwgMjM4IiwiQTQ4IjowLCJBNDkiOmZhbHNlLCJBNTAiOiJUcmFuc3BhcmVudCIsIkE1MSI6IlRyYW5zcGFyZW50IiwiQTUyIjo1LCJBNTMiOjcsIkE1NCI6dHJ1ZSwiQTU1Ijp0cnVlLCJBNTYiOmZhbHNlLCJBNTgiOiJMYXduR3JlZW4iLCJBNTkiOiJDb3JhbCIsIkE2MCI6IlRyYW5zcGFyZW50IiwiQTYxIjpmYWxzZSwiQTYyIjoyNCwiQTYzIjowLCJBNjQiOmZhbHNlLCJBNjUiOmZhbHNlLCJBNjYiOnsiSXRlbXMiOlt7IlN0YXJ0RW50ZXJpbmciOjAsIlN0b3BFbnRlcmluZyI6MTAwODAsIkZsYXR0ZW5Qb3NpdGlvbnMiOm51bGx9XSwiRGlzcGxheU5hbWUiOiJDdXN0b20gdW5zYXZlZCBzY2hlZHVsZSJ9LCJBNjciOiJXaGl0ZSIsIkE2OCI6IldoaXRlIiwiQTY5IjoiRGFya0dyYXkiLCJBNzAiOmZhbHNlLCJBNzEiOjMsIkE3MiI6MzAwLCJBNzMiOmZhbHNlLCJBNzQiOiLCmCIsIkE3NSI6InIiLCJBNzYiOiJHcmVlbiIsIkE3NyI6IjI1NSwgMCwgMCIsIkE3OCI6ZmFsc2UsIkE3OSI6ZmFsc2UsIkE4MCI6ZmFsc2UsIkE4MSI6ZmFsc2UsIkE4MiI6ZmFsc2UsIkE4MyI6ZmFsc2UsIkE4NCI6ZmFsc2UsIkE4NSI6ZmFsc2UsIkE4NiI6dHJ1ZSwiQTg3IjpmYWxzZSwiQTg4Ijp0cnVlLCJBODkiOmZhbHNlLCJBOTAiOmZhbHNlLCJBOTEiOmZhbHNlLCJBOTIiOmZhbHNlLCJBOTMiOiIyNTUsIDE5MiwgMTI4IiwiQTk0IjoiMTY5LCAxNjksIDE2OSIsIkE5NSI6NywiQTk2IjoyMDAsIkE5NyI6ZmFsc2UsIkE5OCI6MCwiQTk5IjoiRG9kZ2VyQmx1ZSIsIkExMDAiOiI8UGVuPjxDb2xvcj54OmZmMDA0MDAwPC9Db2xvcj48RGFzaFN0eWxlPlNvbGlkPC9EYXNoU3R5bGU+PFdpZHRoPjM8L1dpZHRoPjwvUGVuPiIsIkExMDEiOiI8UGVuPjxDb2xvcj5uOkZpcmVicmljazwvQ29sb3I+PERhc2hTdHlsZT5Tb2xpZDwvRGFzaFN0eWxlPjxXaWR0aD4zPC9XaWR0aD48L1Blbj4iLCJBMTAyIjpmYWxzZSwiQTEwMyI6IldoaXRlU21va2UiLCJBMTA0IjoiQmxhY2siLCJBMTA1IjoiV2hpdGUiLCJBMTA2IjoiMjU1LCAyNTUsIDI1NSIsIkExMDciOmZhbHNlLCJBMTA4Ijp0cnVlLCJBMTA5IjpmYWxzZSwiQTExMCI6IlRydWUsMCwyNCwwLDAsMCwwLDUwLDAsMCIsIkExMTEiOmZhbHNlLCJBMTEyIjo1fQ==</SettingsSerialized>
           <ImbalanceThreshold>300</ImbalanceThreshold>
           <ImbalanceVolume>0</ImbalanceVolume>
           <ShowImbalances2>false</ShowImbalances2>
@@ -1673,6 +1673,7 @@
           <MomThreshold>300</MomThreshold>
           <MomKeep>false</MomKeep>
           <ShowMom2>true</ShowMom2>
+          <ShowAbs2>false</ShowAbs2>
           <ColorMomGreenSer>-16744448</ColorMomGreenSer>
           <ColorMomRedSer>-65536</ColorMomRedSer>
           <MMTime>24</MMTime>
@@ -1703,6 +1704,7 @@
           <ShowTotalAcceleration>false</ShowTotalAcceleration>
           <ShowNetAcceleration>false</ShowNetAcceleration>
           <ShowMom>true</ShowMom>
+          <ShowAbs>false</ShowAbs>
           <ShowControlPrice>false</ShowControlPrice>
           <ShowNetVolumeDivergence>false</ShowNetVolumeDivergence>
           <ShowNetIBVolumeDivergence>false</ShowNetIBVolumeDivergence>
@@ -1730,6 +1732,7 @@
           <OffsetVolumeBlock>1</OffsetVolumeBlock>
           <ShowSyntheticWick>false</ShowSyntheticWick>
           <RestoreOP>true</RestoreOP>
+          <RestoreDays>5</RestoreDays>
         </SSBlockFlow>
       </Indicator>
     </Indicator17>
@@ -1971,8 +1974,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>10</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>20644.1837362637</FixedPanelMaxRight>
-      <FixedPanelMinRight>20392.2997802198</FixedPanelMinRight>
+      <FixedPanelMaxRight>20568.6384175824</FixedPanelMaxRight>
+      <FixedPanelMinRight>20418.5703736264</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2004,8 +2007,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>7650.356</FixedPanelMaxRight>
-      <FixedPanelMinRight>-13046.356</FixedPanelMinRight>
+      <FixedPanelMaxRight>12269.7058</FixedPanelMaxRight>
+      <FixedPanelMinRight>-6360.7058</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2037,8 +2040,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>13845.4282</FixedPanelMaxRight>
-      <FixedPanelMinRight>-40142.4282</FixedPanelMinRight>
+      <FixedPanelMaxRight>22833.345</FixedPanelMaxRight>
+      <FixedPanelMinRight>-17644.345</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2070,8 +2073,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9.96318794</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.57988794</FixedPanelMinRight>
+      <FixedPanelMaxRight>61.56666794</FixedPanelMaxRight>
+      <FixedPanelMinRight>-3.58336794</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2103,8 +2106,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>13189.6796</FixedPanelMaxRight>
-      <FixedPanelMinRight>-767.6796</FixedPanelMinRight>
+      <FixedPanelMaxRight>8522.0068</FixedPanelMaxRight>
+      <FixedPanelMinRight>-496.0068</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
