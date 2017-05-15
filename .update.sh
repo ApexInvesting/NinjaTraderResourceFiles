@@ -18,7 +18,8 @@ if [ $cur == alpha ] ; then
 	    found=1
 	fi
 	git checkout $br
-	git merge alpha
+	git pull
+	git merge alpha --no-ff -m "merge alpha into $br. target branch - $release"
     done
 else
     echo Wrong current branch - $cur
