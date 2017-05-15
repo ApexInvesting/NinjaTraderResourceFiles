@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -212,7 +212,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -241,7 +241,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>9001</ZOrder>
           <Period>14</Period>
-          <PeriodBack>2</PeriodBack>
+          <PeriodBack>20</PeriodBack>
           <ShowBrokenZones>true</ShowBrokenZones>
           <ChangeBrokenColor>true</ChangeBrokenColor>
           <ExtendToMinMax>false</ExtendToMinMax>
@@ -252,7 +252,7 @@
           <SignalColorDownSerializable>-24454</SignalColorDownSerializable>
           <SignalColorUpBrokenSerializable>-14513374</SignalColorUpBrokenSerializable>
           <SignalColorDownBrokenSerializable>-7667712</SignalColorDownBrokenSerializable>
-          <ZoneOpacity>5</ZoneOpacity>
+          <ZoneOpacity>3</ZoneOpacity>
         </ApexSupplyDemand>
       </Indicator>
     </Indicator1>
@@ -286,7 +286,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -426,7 +426,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -492,7 +492,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -553,7 +553,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30008</ZOrder>
-          <SettingsSerializable>{"TrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":7},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":0,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"UseConfirmation":false,"ConfirmationTrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":15},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":1,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"TradingSchedule":{"Items":[{"StartEntering":0,"StopEntering":10080,"FlattenPositions":null}],"DisplayName":"Custom unsaved schedule"},"StopOffsetTicks":0,"StopOffsetTicksTrail":0,"StopSwingHigh":1,"EntryOffsetTicks":1,"TargetTicks":0,"MaxEntryBars":1,"WorstFill":false,"ShowStats":false,"Mode":0,"EntryType":0,"ExitOnFlip":false,"StopLimitOffset":2,"MinimumStopDistance":3,"AllowMultipleTrades":true,"AllowTwoEntries":true}</SettingsSerializable>
+          <SettingsSerializable>{"TrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":15},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":0,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"UseConfirmation":false,"ConfirmationTrendCatcherEngineSettings":{"TrendicatorDirectionSettings":{"TrendicatorSettings":{"Period":15},"SmoothDirectionDeltaTicks":1},"VolatileTrendLineSamplingPeriod":5,"VolatileTrendLineMultiplierConstant":2.0,"EntryOffsetTicks":1,"StopOffsetTicks":1,"MaxEntryBars":1,"RequireCloseDirection":false,"CalculateFlips":false,"AdjustFlipEntry":false},"TradingSchedule":{"Items":[{"StartEntering":0,"StopEntering":10080,"FlattenPositions":null}],"DisplayName":"Custom unsaved schedule"},"StopOffsetTicks":0,"StopOffsetTicksTrail":0,"StopSwingHigh":1,"EntryOffsetTicks":1,"TargetTicks":0,"MaxEntryBars":1,"WorstFill":false,"ShowStats":false,"Mode":0,"EntryType":0,"ExitOnFlip":false,"StopLimitOffset":2,"MinimumStopDistance":3,"AllowMultipleTrades":true,"AllowTwoEntries":true}</SettingsSerializable>
           <EnableScheduleBackgroundColoring>false</EnableScheduleBackgroundColoring>
           <CanOpenPositionColorSerializable>-1</CanOpenPositionColorSerializable>
           <CanHoldPositionColorSerializable>-8355712</CanHoldPositionColorSerializable>
@@ -645,7 +645,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -711,7 +711,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -788,7 +788,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -854,7 +854,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -939,7 +939,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -948,7 +948,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>4863.25</Value>
+              <Value>20863</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1011,7 +1011,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1089,7 +1089,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-16 Globex|NQ 12-16 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 06-17 Globex|YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -1120,6 +1120,7 @@
           <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
           <LabelAlignment>Left</LabelAlignment>
+          <AbbreviateLabels>true</AbbreviateLabels>
           <ShowZones>false</ShowZones>
           <ZoneSizeInDeviations>5</ZoneSizeInDeviations>
           <ShowNegativeThree>true</ShowNegativeThree>
@@ -1150,8 +1151,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>4889.92438544304</FixedPanelMaxRight>
-      <FixedPanelMinRight>4855.85726012658</FixedPanelMinRight>
+      <FixedPanelMaxRight>20909.8066052723</FixedPanelMaxRight>
+      <FixedPanelMinRight>20760.5079389082</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1160,8 +1161,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>0.2575</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.0075</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>1.03</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.03</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -1170,8 +1171,8 @@
       <AutoScaleMarginTypeOver>Percent</AutoScaleMarginTypeOver>
       <AutoScaleMarginUpperOver>3</AutoScaleMarginUpperOver>
       <YAxisRangeTypeOver>Automatic</YAxisRangeTypeOver>
-      <FixedPanelMaxOver>0.2575</FixedPanelMaxOver>
-      <FixedPanelMinOver>-0.0075</FixedPanelMinOver>
+      <FixedPanelMaxOver>1.03</FixedPanelMaxOver>
+      <FixedPanelMinOver>-0.03</FixedPanelMinOver>
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
@@ -1183,8 +1184,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>0.79326833854473</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.824767191994906</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.88504691809001</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.746269026144758</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
