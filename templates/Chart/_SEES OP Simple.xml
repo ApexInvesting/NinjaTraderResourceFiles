@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -211,7 +211,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -220,7 +220,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
-              <Value>5928.5</Value>
+              <Value>21922</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -293,7 +293,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex|NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex|YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -384,7 +384,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex|NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex|YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -501,7 +501,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -586,7 +586,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -660,7 +660,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -745,7 +745,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -833,7 +833,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -921,11 +921,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Timer</Name>
+          <Name>Instititonal Order Prints</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -949,7 +949,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjozLCJBNSI6MCwiQTYiOjAsIkE3IjozLCJBOCI6MCwiQTkiOjMwLCJBMTAiOjQsIkExMSI6MjAwLCJBMTIiOmZhbHNlLCJBMTMiOjAsIkExNSI6MC4yNSwiQTE2IjoiVHJhbnNwYXJlbnQiLCJBMTciOiJUcmFuc3BhcmVudCIsIkExOCI6IlRyYW5zcGFyZW50IiwiQTE5IjoiRGFya1NlYUdyZWVuIiwiQTIwIjoiUmVkIiwiQTIxIjoiIiwiQTIyIjoiV2hpdGUiLCJBMjMiOjQsIkEyNCI6MjAwLCJBMjUiOiJUcmFuc3BhcmVudCIsIkEyNiI6IlRyYW5zcGFyZW50IiwiQTI3IjoiVHJhbnNwYXJlbnQiLCJBMjgiOiJUcmFuc3BhcmVudCIsIkEyOSI6IlRyYW5zcGFyZW50IiwiQTMwIjoiVHJhbnNwYXJlbnQiLCJBMzEiOiJUcmFuc3BhcmVudCIsIkEzMiI6IlRyYW5zcGFyZW50IiwiQTMzIjpmYWxzZSwiQTM0IjpmYWxzZSwiQTM1Ijp0cnVlLCJBMzYiOiIyMTAsIDE4MCwgMTQwIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IkdyYXkiLCJBNDAiOiJHb2xkIiwiQTQxIjozLCJBNDIiOjEsIkE0MyI6MjAwLCJBNDQiOmZhbHNlLCJBNDUiOiIyNTUsIDEwNCwgMjMiLCJBNDYiOiIwLCAyMzAsIDAiLCJBNDciOiJNZWRpdW1TbGF0ZUJsdWUiLCJBNDgiOjAsIkE0OSI6ZmFsc2UsIkE1MCI6IlRyYW5zcGFyZW50IiwiQTUxIjoiVHJhbnNwYXJlbnQiLCJBNTIiOjUsIkE1MyI6NywiQTU0Ijp0cnVlLCJBNTUiOnRydWUsIkE1NiI6ZmFsc2UsIkE1OCI6Ikxhd25HcmVlbiIsIkE1OSI6IkNvcmFsIiwiQTYwIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkE2MSI6ZmFsc2UsIkE2MiI6MjQsIkE2MyI6MCwiQTY0IjpmYWxzZSwiQTY1IjpmYWxzZSwiQTY2Ijp7Ikl0ZW1zIjpbeyJTdGFydEVudGVyaW5nIjowLCJTdG9wRW50ZXJpbmciOjEwMDgwLCJGbGF0dGVuUG9zaXRpb25zIjpudWxsfV0sIkRpc3BsYXlOYW1lIjoiQ3VzdG9tIHVuc2F2ZWQgc2NoZWR1bGUifSwiQTY3IjoiVHJhbnNwYXJlbnQiLCJBNjgiOiJUcmFuc3BhcmVudCIsIkE2OSI6IlRyYW5zcGFyZW50IiwiQTcwIjpmYWxzZSwiQTcxIjozLCJBNzIiOjMwMCwiQTczIjpmYWxzZSwiQTc0IjoiwpgiLCJBNzUiOiJyIiwiQTc2IjoiMCwgMTI4LCAwIiwiQTc3IjoiUmVkIiwiQTc4IjpmYWxzZSwiQTc5IjpmYWxzZSwiQTgwIjpmYWxzZSwiQTgxIjpmYWxzZSwiQTgyIjpmYWxzZSwiQTgzIjpmYWxzZSwiQTg0Ijp0cnVlLCJBODUiOnRydWUsIkE4NiI6dHJ1ZSwiQTg3Ijp0cnVlLCJBODgiOnRydWUsIkE4OSI6ZmFsc2UsIkE5MCI6ZmFsc2UsIkE5MSI6ZmFsc2UsIkE5MiI6ZmFsc2UsIkE5MyI6IjI1NSwgMTkyLCAxMjgiLCJBOTQiOiJEYXJrR3JheSIsIkE5NSI6NywiQTk2IjoyMDAsIkE5NyI6ZmFsc2UsIkE5OCI6MCwiQTk5IjoiRG9kZ2VyQmx1ZSIsIkExMDAiOiI8UGVuPjxDb2xvcj54OmZmMDA0MDAwPC9Db2xvcj48RGFzaFN0eWxlPlNvbGlkPC9EYXNoU3R5bGU+PFdpZHRoPjM8L1dpZHRoPjwvUGVuPiIsIkExMDEiOiI8UGVuPjxDb2xvcj5uOkZpcmVicmljazwvQ29sb3I+PERhc2hTdHlsZT5Tb2xpZDwvRGFzaFN0eWxlPjxXaWR0aD4zPC9XaWR0aD48L1Blbj4iLCJBMTAyIjpmYWxzZSwiQTEwMyI6IldoaXRlU21va2UiLCJBMTA0IjoiQmxhY2siLCJBMTA1IjoiMjU1LCAyNTUsIDI1NSIsIkExMDYiOiJXaGl0ZSIsIkExMDciOmZhbHNlLCJBMTA4Ijp0cnVlLCJBMTA5IjpmYWxzZSwiQTExMCI6IlRydWUsMCwyNCwwLDAsMCwwLDUwLDAsMCIsIkExMTEiOmZhbHNlLCJBMTEyIjo1LCJBMTEzIjo0LCJBMTE0IjoyMDAsIkExMTUiOnRydWUsIkExMTYiOiJQdXJwbGUiLCJBMTE3IjpmYWxzZSwiQTExOCI6MTksIkExMTkiOjksIkExMjAiOjAsIkExMjEiOmZhbHNlLCJBMTIyIjpmYWxzZSwiQTEyMyI6ZmFsc2UsIkExMjQiOmZhbHNlLCJBMTI1IjpmYWxzZSwiQTEyNiI6ZmFsc2UsIkExMjciOmZhbHNlLCJBMTI4IjpmYWxzZSwiQTEyOSI6ZmFsc2UsIkExMzAiOmZhbHNlLCJBMTMxIjpmYWxzZX0=</SettingsSerialized>
+          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjozLCJBNSI6MCwiQTYiOjAsIkE3IjozLCJBOCI6MCwiQTkiOjMwLCJBMTAiOjQsIkExMSI6MjAwLCJBMTIiOmZhbHNlLCJBMTMiOjAsIkExNSI6MS4wLCJBMTYiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTE3IjoiVHJhbnNwYXJlbnQiLCJBMTgiOiJUcmFuc3BhcmVudCIsIkExOSI6IjE0MywgMTg4LCAxMzkiLCJBMjAiOiIyNTUsIDAsIDAiLCJBMjEiOiIiLCJBMjIiOiJXaGl0ZSIsIkEyMyI6NCwiQTI0IjoyMDAsIkEyNSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMjYiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTI3IjoiVHJhbnNwYXJlbnQiLCJBMjgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTI5IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMCI6IlRyYW5zcGFyZW50IiwiQTMxIjoiVHJhbnNwYXJlbnQiLCJBMzIiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMzIjpmYWxzZSwiQTM0IjpmYWxzZSwiQTM1Ijp0cnVlLCJBMzYiOiIyMTAsIDE4MCwgMTQwIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IkdyYXkiLCJBNDAiOiIyNTUsIDIxNSwgMCIsIkE0MSI6MywiQTQyIjoxLCJBNDMiOjIwMCwiQTQ0IjpmYWxzZSwiQTQ1IjoiMjU1LCAxMDQsIDIzIiwiQTQ2IjoiMCwgMjMwLCAwIiwiQTQ3IjoiMTIzLCAxMDQsIDIzOCIsIkE0OCI6MCwiQTQ5IjpmYWxzZSwiQTUwIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkE1MSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTIiOjUsIkE1MyI6NywiQTU0Ijp0cnVlLCJBNTUiOnRydWUsIkE1NiI6ZmFsc2UsIkE1OCI6IjEyNCwgMjUyLCAwIiwiQTU5IjoiMjU1LCAxMjcsIDgwIiwiQTYwIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkE2MSI6ZmFsc2UsIkE2MiI6MjQsIkE2MyI6MCwiQTY0IjpmYWxzZSwiQTY1IjpmYWxzZSwiQTY2Ijp7Ikl0ZW1zIjpbeyJTdGFydEVudGVyaW5nIjowLCJTdG9wRW50ZXJpbmciOjEwMDgwLCJGbGF0dGVuUG9zaXRpb25zIjpudWxsfV0sIkRpc3BsYXlOYW1lIjoiQ3VzdG9tIHVuc2F2ZWQgc2NoZWR1bGUifSwiQTY3IjoiVHJhbnNwYXJlbnQiLCJBNjgiOiJUcmFuc3BhcmVudCIsIkE2OSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNzAiOmZhbHNlLCJBNzEiOjMsIkE3MiI6MzAwLCJBNzMiOmZhbHNlLCJBNzQiOiLCmCIsIkE3NSI6InIiLCJBNzYiOiIwLCAxMjgsIDAiLCJBNzciOiIyNTUsIDAsIDAiLCJBNzgiOmZhbHNlLCJBNzkiOmZhbHNlLCJBODAiOmZhbHNlLCJBODEiOmZhbHNlLCJBODIiOmZhbHNlLCJBODMiOmZhbHNlLCJBODQiOnRydWUsIkE4NSI6dHJ1ZSwiQTg2Ijp0cnVlLCJBODciOnRydWUsIkE4OCI6dHJ1ZSwiQTg5IjpmYWxzZSwiQTkwIjpmYWxzZSwiQTkxIjpmYWxzZSwiQTkyIjpmYWxzZSwiQTkzIjoiMjU1LCAxOTIsIDEyOCIsIkE5NCI6IjE2OSwgMTY5LCAxNjkiLCJBOTUiOjcsIkE5NiI6MjAwLCJBOTciOmZhbHNlLCJBOTgiOjAsIkE5OSI6IkRvZGdlckJsdWUiLCJBMTAwIjoiPFBlbj48Q29sb3I+eDpmZjAwNDAwMDwvQ29sb3I+PERhc2hTdHlsZT5Tb2xpZDwvRGFzaFN0eWxlPjxXaWR0aD4zPC9XaWR0aD48L1Blbj4iLCJBMTAxIjoiPFBlbj48Q29sb3I+bjpGaXJlYnJpY2s8L0NvbG9yPjxEYXNoU3R5bGU+U29saWQ8L0Rhc2hTdHlsZT48V2lkdGg+MzwvV2lkdGg+PC9QZW4+IiwiQTEwMiI6ZmFsc2UsIkExMDMiOiIyNDUsIDI0NSwgMjQ1IiwiQTEwNCI6IjAsIDAsIDAiLCJBMTA1IjoiV2hpdGUiLCJBMTA2IjoiV2hpdGUiLCJBMTA3IjpmYWxzZSwiQTEwOCI6dHJ1ZSwiQTEwOSI6ZmFsc2UsIkExMTAiOiJUcnVlLDAsMjQsMCwwLDAsMCw1MCwwLDAiLCJBMTExIjpmYWxzZSwiQTExMiI6NSwiQTExMyI6NCwiQTExNCI6MjAwLCJBMTE1Ijp0cnVlLCJBMTE2IjoiUHVycGxlIiwiQTExNyI6ZmFsc2UsIkExMTgiOjE5LCJBMTE5Ijo5LCJBMTIwIjowLCJBMTIxIjpmYWxzZSwiQTEyMiI6ZmFsc2UsIkExMjMiOmZhbHNlLCJBMTI0IjpmYWxzZSwiQTEyNSI6ZmFsc2UsIkExMjYiOmZhbHNlLCJBMTI3IjpmYWxzZSwiQTEyOCI6ZmFsc2UsIkExMjkiOmZhbHNlLCJBMTMwIjpmYWxzZSwiQTEzMSI6ZmFsc2V9</SettingsSerialized>
           <ImbalanceThreshold>300</ImbalanceThreshold>
           <ImbalanceVolume>0</ImbalanceVolume>
           <ShowImbalances2>false</ShowImbalances2>
@@ -1149,7 +1149,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1211,7 +1211,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1298,7 +1298,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>YM 09-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1377,8 +1377,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5947.97685668016</FixedPanelMaxRight>
-      <FixedPanelMinRight>5879.9603902834</FixedPanelMinRight>
+      <FixedPanelMaxRight>22016.57693</FixedPanelMaxRight>
+      <FixedPanelMinRight>21894.27307</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1387,8 +1387,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>0.2575</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.0075</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>1.03</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.03</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -1397,8 +1397,8 @@
       <AutoScaleMarginTypeOver>Percent</AutoScaleMarginTypeOver>
       <AutoScaleMarginUpperOver>3</AutoScaleMarginUpperOver>
       <YAxisRangeTypeOver>Automatic</YAxisRangeTypeOver>
-      <FixedPanelMaxOver>0.2575</FixedPanelMaxOver>
-      <FixedPanelMinOver>-0.0075</FixedPanelMinOver>
+      <FixedPanelMaxOver>1.03</FixedPanelMaxOver>
+      <FixedPanelMinOver>-0.03</FixedPanelMinOver>
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
@@ -1410,8 +1410,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>21867.9208</FixedPanelMaxRight>
-      <FixedPanelMinRight>-11565.9208</FixedPanelMinRight>
+      <FixedPanelMaxRight>5833.3842</FixedPanelMaxRight>
+      <FixedPanelMinRight>-9300.3842</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1443,8 +1443,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>91861.1614</FixedPanelMaxRight>
-      <FixedPanelMinRight>-25356.1614</FixedPanelMinRight>
+      <FixedPanelMaxRight>-11075.262</FixedPanelMaxRight>
+      <FixedPanelMinRight>-48614.738</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1476,8 +1476,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>152.54530206</FixedPanelMaxRight>
-      <FixedPanelMinRight>-8.87860206</FixedPanelMinRight>
+      <FixedPanelMaxRight>75.17544</FixedPanelMaxRight>
+      <FixedPanelMinRight>-4.37544</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1509,8 +1509,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>8347.8716</FixedPanelMaxRight>
-      <FixedPanelMinRight>-485.8716</FixedPanelMinRight>
+      <FixedPanelMaxRight>10010.6504</FixedPanelMaxRight>
+      <FixedPanelMinRight>-582.6504</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
