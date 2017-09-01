@@ -8,12 +8,12 @@
       <AxisColorSerialize>n:ActiveCaption</AxisColorSerialize>
       <BackColorSerialize>n:DarkSlateGray</BackColorSerialize>
       <BarMarginRight>75</BarMarginRight>
-      <BarSpaceIntern>18.718619188039177</BarSpaceIntern>
+      <BarSpaceIntern>11.217610249575246</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
       <ChartCursor>CrossHair</ChartCursor>
       <ChartObjectSelection>true</ChartObjectSelection>
       <ChartOpenedInMR>false</ChartOpenedInMR>
-      <ChartTraderEnabled>false</ChartTraderEnabled>
+      <ChartTraderEnabled>true</ChartTraderEnabled>
       <ChartTraderVisible>false</ChartTraderVisible>
       <ConfirmDirectEntry>false</ConfirmDirectEntry>
       <CrossHairBuyColorSerialize>n:Lime</CrossHairBuyColorSerialize>
@@ -428,7 +428,7 @@
               <PenSerializable>
                 <Color>n:Transparent</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>18</Width>
+                <Width>11</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -439,7 +439,7 @@
               <PenSerializable>
                 <Color>n:Transparent</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>18</Width>
+                <Width>11</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -504,7 +504,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
-              <Value>5905.25</Value>
+              <Value>5960.5</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1152,7 +1152,7 @@
               <PenSerializable>
                 <Color>n:MediumSlateBlue</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>18</Width>
+                <Width>11</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -1401,8 +1401,8 @@
           <ColorQuietSer>-256</ColorQuietSer>
           <ColorMask4Ser>-16711681</ColorMask4Ser>
           <ColorMask8Ser>-23296</ColorMask8Ser>
-          <AlertsVisualEnabled>true</AlertsVisualEnabled>
-          <AlertsVoiceEnabled>true</AlertsVoiceEnabled>
+          <AlertsVisualEnabled>false</AlertsVisualEnabled>
+          <AlertsVoiceEnabled>false</AlertsVoiceEnabled>
         </VolumeAccumulationDistributionV2>
       </Indicator>
     </Indicator14>
@@ -1464,7 +1464,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjozLCJBNSI6MCwiQTYiOjAsIkE3IjozLCJBOCI6MCwiQTkiOjMwLCJBMTAiOjQsIkExMSI6MjAwLCJBMTIiOmZhbHNlLCJBMTMiOjAsIkExNSI6MC4yNSwiQTE2IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkExNyI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMTgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTE5IjoiRGFya1NlYUdyZWVuIiwiQTIwIjoiMjU1LCAwLCAwIiwiQTIxIjoiIiwiQTIyIjoiMjU1LCAyNTUsIDI1NSIsIkEyMyI6NCwiQTI0IjoyMDAsIkEyNSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMjYiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTI3IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyOCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMjkiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMwIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMzIiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMzIjpmYWxzZSwiQTM0IjpmYWxzZSwiQTM1Ijp0cnVlLCJBMzYiOiIyMTAsIDE4MCwgMTQwIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IkdyYXkiLCJBNDAiOiIyMzgsIDIzMiwgMTcwIiwiQTQxIjozLCJBNDIiOjEsIkE0MyI6MjAwLCJBNDQiOmZhbHNlLCJBNDUiOiIyNTUsIDEwNCwgMjMiLCJBNDYiOiIwLCAyMzAsIDAiLCJBNDciOiIxMjMsIDEwNCwgMjM4IiwiQTQ4IjowLCJBNDkiOmZhbHNlLCJBNTAiOiJUcmFuc3BhcmVudCIsIkE1MSI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTIiOjEsIkE1MyI6MSwiQTU0Ijp0cnVlLCJBNTUiOnRydWUsIkE1NiI6ZmFsc2UsIkE1OCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTkiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTYwIjoiQW50aXF1ZVdoaXRlIiwiQTYxIjp0cnVlLCJBNjIiOjI0LCJBNjMiOjAsIkE2NCI6ZmFsc2UsIkE2NSI6ZmFsc2UsIkE2NiI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sIkE2NyI6IlRyYW5zcGFyZW50IiwiQTY4IjoiVHJhbnNwYXJlbnQiLCJBNjkiOiJUcmFuc3BhcmVudCIsIkE3MCI6ZmFsc2UsIkE3MSI6MywiQTcyIjozMDAsIkE3MyI6ZmFsc2UsIkE3NCI6IsKYIiwiQTc1IjoiciIsIkE3NiI6IjAsIDEyOCwgMCIsIkE3NyI6IjI1NSwgMCwgMCIsIkE3OCI6ZmFsc2UsIkE3OSI6ZmFsc2UsIkE4MCI6ZmFsc2UsIkE4MSI6ZmFsc2UsIkE4MiI6ZmFsc2UsIkE4MyI6ZmFsc2UsIkE4NCI6dHJ1ZSwiQTg1Ijp0cnVlLCJBODYiOnRydWUsIkE4NyI6dHJ1ZSwiQTg4Ijp0cnVlLCJBODkiOmZhbHNlLCJBOTAiOmZhbHNlLCJBOTEiOmZhbHNlLCJBOTIiOmZhbHNlLCJBOTMiOiIyNTUsIDE5MiwgMTI4IiwiQTk0IjoiMTY5LCAxNjksIDE2OSIsIkE5NSI6NywiQTk2IjoyMDAsIkE5NyI6ZmFsc2UsIkE5OCI6MCwiQTk5IjoiMzAsIDE0NCwgMjU1IiwiQTEwMCI6IjxQZW4+PENvbG9yPng6ZmYwMDQwMDA8L0NvbG9yPjxEYXNoU3R5bGU+U29saWQ8L0Rhc2hTdHlsZT48V2lkdGg+MzwvV2lkdGg+PC9QZW4+IiwiQTEwMSI6IjxQZW4+PENvbG9yPm46RmlyZWJyaWNrPC9Db2xvcj48RGFzaFN0eWxlPlNvbGlkPC9EYXNoU3R5bGU+PFdpZHRoPjM8L1dpZHRoPjwvUGVuPiIsIkExMDIiOmZhbHNlLCJBMTAzIjoiV2hpdGVTbW9rZSIsIkExMDQiOiJCbGFjayIsIkExMDUiOiIyNTUsIDI1NSwgMjU1IiwiQTEwNiI6IlRyYW5zcGFyZW50IiwiQTEwNyI6ZmFsc2UsIkExMDgiOnRydWUsIkExMDkiOmZhbHNlLCJBMTEwIjoiVHJ1ZSwwLDI0LDAsMCwwLDAsNTAsMCwwIiwiQTExMSI6ZmFsc2UsIkExMTIiOjUsIkExMTMiOjQsIkExMTQiOjIwMCwiQTExNSI6dHJ1ZSwiQTExNiI6IjI1NSwgMjU1LCAwIiwiQTExNyI6ZmFsc2UsIkExMTgiOjE5LCJBMTE5Ijo5LCJBMTIwIjowLCJBMTIxIjpmYWxzZSwiQTEyMiI6ZmFsc2UsIkExMjMiOmZhbHNlLCJBMTI0IjpmYWxzZSwiQTEyNSI6ZmFsc2UsIkExMjYiOmZhbHNlLCJBMTI3IjpmYWxzZSwiQTEyOCI6ZmFsc2UsIkExMjkiOmZhbHNlLCJBMTMwIjpmYWxzZSwiQTEzMSI6ZmFsc2V9</SettingsSerialized>
+          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjoxMCwiQTUiOjAsIkE2IjowLCJBNyI6MywiQTgiOjAsIkE5IjozMCwiQTEwIjo0LCJBMTEiOjIwMCwiQTEyIjpmYWxzZSwiQTEzIjowLCJBMTUiOjAuMjUsIkExNiI6IlRyYW5zcGFyZW50IiwiQTE3IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkExOCI6IlRyYW5zcGFyZW50IiwiQTE5IjoiMTQzLCAxODgsIDEzOSIsIkEyMCI6IlJlZCIsIkEyMSI6IiIsIkEyMiI6IldoaXRlIiwiQTIzIjo0LCJBMjQiOjIwMCwiQTI1IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyNiI6IlRyYW5zcGFyZW50IiwiQTI3IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyOCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMjkiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMwIjoiVHJhbnNwYXJlbnQiLCJBMzEiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMyIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMyI6ZmFsc2UsIkEzNCI6ZmFsc2UsIkEzNSI6dHJ1ZSwiQTM2IjoiVGFuIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IjEyOCwgMTI4LCAxMjgiLCJBNDAiOiIyMzgsIDIzMiwgMTcwIiwiQTQxIjozLCJBNDIiOjEsIkE0MyI6MjAwLCJBNDQiOmZhbHNlLCJBNDUiOiIyNTUsIDEwNCwgMjMiLCJBNDYiOiIwLCAyMzAsIDAiLCJBNDciOiJNZWRpdW1TbGF0ZUJsdWUiLCJBNDgiOjAsIkE0OSI6ZmFsc2UsIkE1MCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTEiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTUyIjoxLCJBNTMiOjQsIkE1NCI6dHJ1ZSwiQTU1Ijp0cnVlLCJBNTYiOmZhbHNlLCJBNTgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTU5IjoiVHJhbnNwYXJlbnQiLCJBNjAiOiIyNDAsIDIzMCwgMTQwIiwiQTYxIjp0cnVlLCJBNjIiOjI0LCJBNjMiOjAsIkE2NCI6ZmFsc2UsIkE2NSI6ZmFsc2UsIkE2NiI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sIkE2NyI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNjgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTY5IjoiVHJhbnNwYXJlbnQiLCJBNzAiOmZhbHNlLCJBNzEiOjMsIkE3MiI6MzAwLCJBNzMiOmZhbHNlLCJBNzQiOiLCmCIsIkE3NSI6InIiLCJBNzYiOiJHcmVlbiIsIkE3NyI6IjI1NSwgMCwgMCIsIkE3OCI6dHJ1ZSwiQTc5IjpmYWxzZSwiQTgwIjpmYWxzZSwiQTgxIjpmYWxzZSwiQTgyIjpmYWxzZSwiQTgzIjpmYWxzZSwiQTg0Ijp0cnVlLCJBODUiOnRydWUsIkE4NiI6dHJ1ZSwiQTg3Ijp0cnVlLCJBODgiOnRydWUsIkE4OSI6ZmFsc2UsIkE5MCI6ZmFsc2UsIkE5MSI6ZmFsc2UsIkE5MiI6ZmFsc2UsIkE5MyI6IjI1NSwgMTkyLCAxMjgiLCJBOTQiOiJEYXJrR3JheSIsIkE5NSI6NywiQTk2IjoyMDAsIkE5NyI6ZmFsc2UsIkE5OCI6MCwiQTk5IjoiMzAsIDE0NCwgMjU1IiwiQTEwMCI6IjxQZW4+PENvbG9yPng6ZmYwMDQwMDA8L0NvbG9yPjxEYXNoU3R5bGU+U29saWQ8L0Rhc2hTdHlsZT48V2lkdGg+MzwvV2lkdGg+PC9QZW4+IiwiQTEwMSI6IjxQZW4+PENvbG9yPm46RmlyZWJyaWNrPC9Db2xvcj48RGFzaFN0eWxlPlNvbGlkPC9EYXNoU3R5bGU+PFdpZHRoPjM8L1dpZHRoPjwvUGVuPiIsIkExMDIiOmZhbHNlLCJBMTAzIjoiMjQ1LCAyNDUsIDI0NSIsIkExMDQiOiIwLCAwLCAwIiwiQTEwNSI6IjI1NSwgMjU1LCAyNTUiLCJBMTA2IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkExMDciOmZhbHNlLCJBMTA4Ijp0cnVlLCJBMTA5IjpmYWxzZSwiQTExMCI6IlRydWUsMCwyNCwwLDAsMCwwLDUwLDAsMCIsIkExMTEiOnRydWUsIkExMTIiOjUsIkExMTMiOjQsIkExMTQiOjIwMCwiQTExNSI6dHJ1ZSwiQTExNiI6IlllbGxvdyIsIkExMTciOmZhbHNlLCJBMTE4IjoxOSwiQTExOSI6OSwiQTEyMCI6MCwiQTEyMSI6dHJ1ZSwiQTEyMiI6ZmFsc2UsIkExMjMiOmZhbHNlLCJBMTI0IjpmYWxzZSwiQTEyNSI6ZmFsc2UsIkExMjYiOmZhbHNlLCJBMTI3IjpmYWxzZSwiQTEyOCI6ZmFsc2UsIkExMjkiOmZhbHNlLCJBMTMwIjpmYWxzZSwiQTEzMSI6ZmFsc2V9</SettingsSerialized>
           <ImbalanceThreshold>300</ImbalanceThreshold>
           <ImbalanceVolume>0</ImbalanceVolume>
           <ShowImbalances2>false</ShowImbalances2>
@@ -1473,10 +1473,10 @@
           <ColorImbalanceWeakSer>-8355712</ColorImbalanceWeakSer>
           <ColorDefaultSer>16777215</ColorDefaultSer>
           <ClusterFilter>0</ClusterFilter>
-          <ClusterSize>3</ClusterSize>
+          <ClusterSize>10</ClusterSize>
           <ClusterMode>Manual</ClusterMode>
           <ShowBrokenClusterZone>false</ShowBrokenClusterZone>
-          <ShowZoneOfInterests2>false</ShowZoneOfInterests2>
+          <ShowZoneOfInterests2>true</ShowZoneOfInterests2>
           <ColorZoneDownSer>16777215</ColorZoneDownSer>
           <ColorZoneUpSer>16777215</ColorZoneUpSer>
           <ZoneOpacity>1</ZoneOpacity>
@@ -1550,15 +1550,15 @@
           <MomThreshold>300</MomThreshold>
           <MomKeep>false</MomKeep>
           <ShowMom2>true</ShowMom2>
-          <ShowAbs2>false</ShowAbs2>
+          <ShowAbs2>true</ShowAbs2>
           <ColorMomGreenSer>-16744448</ColorMomGreenSer>
           <ColorMomRedSer>-65536</ColorMomRedSer>
           <MMTime>24</MMTime>
           <MMSize>0</MMSize>
           <MMBroken>false</MMBroken>
           <ShowMiniMagnets2>true</ShowMiniMagnets2>
-          <ColorMMSer>-332841</ColorMMSer>
-          <MMOpacity>1</MMOpacity>
+          <ColorMMSer>-989556</ColorMMSer>
+          <MMOpacity>4</MMOpacity>
           <CanOpenPositionColorSerializable>16777215</CanOpenPositionColorSerializable>
           <CanHoldPositionColorSerializable>16777215</CanHoldPositionColorSerializable>
           <MustFlattenColorSerializable>16777215</MustFlattenColorSerializable>
@@ -1581,7 +1581,7 @@
           <ShowWeakImbalances>false</ShowWeakImbalances>
           <ShowBalancedVolume>false</ShowBalancedVolume>
           <ShowMiniMagnets>true</ShowMiniMagnets>
-          <ShowZoneOfInterests>false</ShowZoneOfInterests>
+          <ShowZoneOfInterests>true</ShowZoneOfInterests>
           <ShowPawPrints>false</ShowPawPrints>
           <ShowExhausion>false</ShowExhausion>
           <ShowBlocks>false</ShowBlocks>
@@ -1589,7 +1589,7 @@
           <ShowTotalAcceleration>true</ShowTotalAcceleration>
           <ShowNetAcceleration>true</ShowNetAcceleration>
           <ShowMom>true</ShowMom>
-          <ShowAbs>false</ShowAbs>
+          <ShowAbs>true</ShowAbs>
           <ShowControlPrice>true</ShowControlPrice>
           <ShowNetVolumeDivergence>false</ShowNetVolumeDivergence>
           <ShowNetIBVolumeDivergence>false</ShowNetIBVolumeDivergence>
@@ -1630,14 +1630,14 @@
           <AlertTrappedOrders>false</AlertTrappedOrders>
           <AlertPaw>false</AlertPaw>
           <AlertExhaustion>false</AlertExhaustion>
-          <AlertBigVolumeCluster>false</AlertBigVolumeCluster>
+          <AlertBigVolumeCluster>true</AlertBigVolumeCluster>
         </SSBlockFlow>
       </Indicator>
     </Indicator15>
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.680589680589681</HeightRatio>
+      <HeightRatio>0.730519480519481</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1645,8 +1645,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>10</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5928.18776556777</FixedPanelMaxRight>
-      <FixedPanelMinRight>5857.55216117216</FixedPanelMinRight>
+      <FixedPanelMaxRight>5999.4563963964</FixedPanelMaxRight>
+      <FixedPanelMinRight>5909.81477477477</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1670,7 +1670,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.135135135135135</HeightRatio>
+      <HeightRatio>0.0725108225108225</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1678,8 +1678,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>32470.6432</FixedPanelMaxRight>
-      <FixedPanelMinRight>-8230.6432</FixedPanelMinRight>
+      <FixedPanelMaxRight>12351.8312</FixedPanelMaxRight>
+      <FixedPanelMinRight>-4371.8312</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1703,7 +1703,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.0472527472527473</HeightRatio>
+      <HeightRatio>0.0465367965367965</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1711,8 +1711,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>37057.014</FixedPanelMaxRight>
-      <FixedPanelMinRight>-9269.014</FixedPanelMinRight>
+      <FixedPanelMaxRight>30235.69</FixedPanelMaxRight>
+      <FixedPanelMinRight>-11393.69</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1736,7 +1736,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel2>
     <Panel3>
-      <HeightRatio>0.0527472527472527</HeightRatio>
+      <HeightRatio>0.0670995670995671</HeightRatio>
       <Index>3</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1744,8 +1744,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>10.24637</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.59637</FixedPanelMinRight>
+      <FixedPanelMaxRight>104.35720794</FixedPanelMaxRight>
+      <FixedPanelMinRight>-6.07390794</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1769,7 +1769,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel3>
     <Panel4>
-      <HeightRatio>0.0912087912087912</HeightRatio>
+      <HeightRatio>0.0995670995670996</HeightRatio>
       <Index>4</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1777,8 +1777,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>11847.5644</FixedPanelMaxRight>
-      <FixedPanelMinRight>-689.5644</FixedPanelMinRight>
+      <FixedPanelMaxRight>20269.762</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1179.762</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1807,7 +1807,7 @@
       <Bars>
         <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AutoScale>true</AutoScale>
-          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;5.4687896732537&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Bisque&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;2&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Transparent&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;3.27731177578853&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Bisque&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;2&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Transparent&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
           <DisplayInDataBox>true</DisplayInDataBox>
           <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
           <PaintPriceMarker>true</PaintPriceMarker>
