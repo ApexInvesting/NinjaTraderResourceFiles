@@ -8,7 +8,7 @@
       <AxisColorSerialize>n:ActiveCaption</AxisColorSerialize>
       <BackColorSerialize>n:DarkSlateGray</BackColorSerialize>
       <BarMarginRight>75</BarMarginRight>
-      <BarSpaceIntern>11.217610249575246</BarSpaceIntern>
+      <BarSpaceIntern>17.237431071740367</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
       <ChartCursor>CrossHair</ChartCursor>
       <ChartObjectSelection>true</ChartObjectSelection>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -202,7 +202,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -287,7 +287,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex|NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -378,7 +378,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex|NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -428,7 +428,7 @@
               <PenSerializable>
                 <Color>n:Transparent</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>11</Width>
+                <Width>17</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -439,7 +439,7 @@
               <PenSerializable>
                 <Color>n:Transparent</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>11</Width>
+                <Width>17</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -495,7 +495,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -504,7 +504,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>2</Width>
               </PenSerializable>
-              <Value>5960.5</Value>
+              <Value>5936.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -567,7 +567,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -665,7 +665,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -752,7 +752,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -892,7 +892,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -965,7 +965,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1050,7 +1050,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -1079,7 +1079,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30007</ZOrder>
           <SettingsSerialized>{"eTicks":1,"xTicks":1,"reversalOffsetTicks":1}</SettingsSerialized>
-          <UserSettingsSerialized>{"showETriggerPrice":false,"showReversalTriggerPrice":false,"colorBars":false,"enableVisualAlert_PotentialE":false,"enableAudioAlert_PotentialE":false,"enableWindowFlashAlert_PotentialE":false,"enableVisualAlert_ConfirmedE":false,"enableAudioAlert_ConfirmedE":false,"enableWindowFlashAlert_ConfirmedE":false,"style":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"ForestGreen","labelDownColor":"Red","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"reversalStyle":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"PaleGreen","labelDownColor":"LightCoral","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"showOldPs":true,"labelOffsetInPixels":5,"powerlinePenUp":{"color":"Green","dashStyle":0,"width":1.0},"powerlinePenDown":{"color":"Red","dashStyle":0,"width":1.0},"activePowerlinePenUp":{"color":"Green","dashStyle":0,"width":2.0},"activePowerlinePenDown":{"color":"Red","dashStyle":0,"width":2.0}}</UserSettingsSerialized>
+          <UserSettingsSerialized>{"showETriggerPrice":false,"showReversalTriggerPrice":false,"colorBars":false,"enableVisualAlert_PotentialE":false,"enableAudioAlert_PotentialE":false,"enableWindowFlashAlert_PotentialE":false,"enableVisualAlert_ConfirmedE":false,"enableAudioAlert_ConfirmedE":false,"enableWindowFlashAlert_ConfirmedE":false,"style":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"ForestGreen","labelDownColor":"Red","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"reversalStyle":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"PaleGreen","labelDownColor":"LightCoral","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"showOldPs":true,"labelOffsetInPixels":3,"powerlinePenUp":{"color":"Green","dashStyle":0,"width":1.0},"powerlinePenDown":{"color":"Red","dashStyle":0,"width":1.0},"activePowerlinePenUp":{"color":"Green","dashStyle":0,"width":2.0},"activePowerlinePenDown":{"color":"Red","dashStyle":0,"width":2.0}}</UserSettingsSerialized>
         </ApexPatternV2>
       </Indicator>
     </Indicator10>
@@ -1113,7 +1113,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1152,7 +1152,7 @@
               <PenSerializable>
                 <Color>n:MediumSlateBlue</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>11</Width>
+                <Width>17</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -1198,7 +1198,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1260,7 +1260,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1348,7 +1348,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1407,13 +1407,13 @@
       </Indicator>
     </Indicator14>
     <Indicator15>
-      <ClassName>NinjaTrader.Indicator.SSBlockFlow</ClassName>
+      <ClassName>NinjaTrader.Indicator.OrderPrintsIndicator</ClassName>
       <Input>
         <PriceType>Close</PriceType>
       </Input>
       <BarsSeriesIdx>0</BarsSeriesIdx>
       <Indicator>
-        <SSBlockFlow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <OrderPrintsIndicator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
           <AutoScale>true</AutoScale>
           <BarsPeriods>
@@ -1427,6 +1427,26 @@
               <Value>10</Value>
               <Value2>50</Value2>
             </Period>
+            <Period>
+              <BasePeriodType>Minute</BasePeriodType>
+              <BasePeriodValue>1</BasePeriodValue>
+              <Id>Minute</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>1</Value>
+              <Value2>1</Value2>
+            </Period>
+            <Period>
+              <BasePeriodType>Minute</BasePeriodType>
+              <BasePeriodValue>1</BasePeriodValue>
+              <Id>Minute</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>1</Value>
+              <Value2>1</Value2>
+            </Period>
           </BarsPeriods>
           <CalculateOnBarClose>false</CalculateOnBarClose>
           <DisableScaleBuffer>false</DisableScaleBuffer>
@@ -1436,7 +1456,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-17 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1464,174 +1484,9 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJBMSI6MzAwLCJBMiI6MCwiQTMiOjAsIkE0IjoxMCwiQTUiOjAsIkE2IjowLCJBNyI6MywiQTgiOjAsIkE5IjozMCwiQTEwIjo0LCJBMTEiOjIwMCwiQTEyIjpmYWxzZSwiQTEzIjowLCJBMTUiOjAuMjUsIkExNiI6IlRyYW5zcGFyZW50IiwiQTE3IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkExOCI6IlRyYW5zcGFyZW50IiwiQTE5IjoiMTQzLCAxODgsIDEzOSIsIkEyMCI6IlJlZCIsIkEyMSI6IiIsIkEyMiI6IldoaXRlIiwiQTIzIjo0LCJBMjQiOjIwMCwiQTI1IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyNiI6IlRyYW5zcGFyZW50IiwiQTI3IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEyOCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBMjkiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMwIjoiVHJhbnNwYXJlbnQiLCJBMzEiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTMyIjoiMCwgMjU1LCAyNTUsIDI1NSIsIkEzMyI6ZmFsc2UsIkEzNCI6ZmFsc2UsIkEzNSI6dHJ1ZSwiQTM2IjoiVGFuIiwiQTM3IjoxLCJBMzgiOnRydWUsIkEzOSI6IjEyOCwgMTI4LCAxMjgiLCJBNDAiOiIyMzgsIDIzMiwgMTcwIiwiQTQxIjozLCJBNDIiOjEsIkE0MyI6MjAwLCJBNDQiOmZhbHNlLCJBNDUiOiIyNTUsIDEwNCwgMjMiLCJBNDYiOiIwLCAyMzAsIDAiLCJBNDciOiJNZWRpdW1TbGF0ZUJsdWUiLCJBNDgiOjAsIkE0OSI6ZmFsc2UsIkE1MCI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNTEiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTUyIjoxLCJBNTMiOjQsIkE1NCI6dHJ1ZSwiQTU1Ijp0cnVlLCJBNTYiOmZhbHNlLCJBNTgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTU5IjoiVHJhbnNwYXJlbnQiLCJBNjAiOiIyNDAsIDIzMCwgMTQwIiwiQTYxIjp0cnVlLCJBNjIiOjI0LCJBNjMiOjAsIkE2NCI6ZmFsc2UsIkE2NSI6ZmFsc2UsIkE2NiI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sIkE2NyI6IjAsIDI1NSwgMjU1LCAyNTUiLCJBNjgiOiIwLCAyNTUsIDI1NSwgMjU1IiwiQTY5IjoiVHJhbnNwYXJlbnQiLCJBNzAiOmZhbHNlLCJBNzEiOjMsIkE3MiI6MzAwLCJBNzMiOmZhbHNlLCJBNzQiOiLCmCIsIkE3NSI6InIiLCJBNzYiOiJHcmVlbiIsIkE3NyI6IjI1NSwgMCwgMCIsIkE3OCI6dHJ1ZSwiQTc5IjpmYWxzZSwiQTgwIjpmYWxzZSwiQTgxIjpmYWxzZSwiQTgyIjpmYWxzZSwiQTgzIjpmYWxzZSwiQTg0Ijp0cnVlLCJBODUiOnRydWUsIkE4NiI6dHJ1ZSwiQTg3Ijp0cnVlLCJBODgiOnRydWUsIkE4OSI6ZmFsc2UsIkE5MCI6ZmFsc2UsIkE5MSI6ZmFsc2UsIkE5MiI6ZmFsc2UsIkE5MyI6IjI1NSwgMTkyLCAxMjgiLCJBOTQiOiJEYXJrR3JheSIsIkE5NSI6NywiQTk2IjoyMDAsIkE5NyI6ZmFsc2UsIkE5OCI6MCwiQTk5IjoiMzAsIDE0NCwgMjU1IiwiQTEwMCI6IjxQZW4+PENvbG9yPng6ZmYwMDQwMDA8L0NvbG9yPjxEYXNoU3R5bGU+U29saWQ8L0Rhc2hTdHlsZT48V2lkdGg+MzwvV2lkdGg+PC9QZW4+IiwiQTEwMSI6IjxQZW4+PENvbG9yPm46RmlyZWJyaWNrPC9Db2xvcj48RGFzaFN0eWxlPlNvbGlkPC9EYXNoU3R5bGU+PFdpZHRoPjM8L1dpZHRoPjwvUGVuPiIsIkExMDIiOmZhbHNlLCJBMTAzIjoiMjQ1LCAyNDUsIDI0NSIsIkExMDQiOiIwLCAwLCAwIiwiQTEwNSI6IjI1NSwgMjU1LCAyNTUiLCJBMTA2IjoiMCwgMjU1LCAyNTUsIDI1NSIsIkExMDciOmZhbHNlLCJBMTA4Ijp0cnVlLCJBMTA5IjpmYWxzZSwiQTExMCI6IlRydWUsMCwyNCwwLDAsMCwwLDUwLDAsMCIsIkExMTEiOnRydWUsIkExMTIiOjUsIkExMTMiOjQsIkExMTQiOjIwMCwiQTExNSI6dHJ1ZSwiQTExNiI6IlllbGxvdyIsIkExMTciOmZhbHNlLCJBMTE4IjoxOSwiQTExOSI6OSwiQTEyMCI6MCwiQTEyMSI6dHJ1ZSwiQTEyMiI6ZmFsc2UsIkExMjMiOmZhbHNlLCJBMTI0IjpmYWxzZSwiQTEyNSI6ZmFsc2UsIkExMjYiOmZhbHNlLCJBMTI3IjpmYWxzZSwiQTEyOCI6ZmFsc2UsIkExMjkiOmZhbHNlLCJBMTMwIjpmYWxzZSwiQTEzMSI6ZmFsc2V9</SettingsSerialized>
-          <ImbalanceThreshold>300</ImbalanceThreshold>
-          <ImbalanceVolume>0</ImbalanceVolume>
-          <ShowImbalances2>false</ShowImbalances2>
-          <ColorImbalanceAskSer>16777215</ColorImbalanceAskSer>
-          <ColorImbalanceBidSer>16777215</ColorImbalanceBidSer>
-          <ColorImbalanceWeakSer>-8355712</ColorImbalanceWeakSer>
-          <ColorDefaultSer>16777215</ColorDefaultSer>
-          <ClusterFilter>0</ClusterFilter>
-          <ClusterSize>10</ClusterSize>
-          <ClusterMode>Manual</ClusterMode>
-          <ShowBrokenClusterZone>false</ShowBrokenClusterZone>
-          <ShowZoneOfInterests2>true</ShowZoneOfInterests2>
-          <ColorZoneDownSer>16777215</ColorZoneDownSer>
-          <ColorZoneUpSer>16777215</ColorZoneUpSer>
-          <ZoneOpacity>1</ZoneOpacity>
-          <ExFilter>0</ExFilter>
-          <ExSize>3</ExSize>
-          <ExMode>Manual</ExMode>
-          <ExRelativeClose>false</ExRelativeClose>
-          <ShowExhausion2>false</ShowExhausion2>
-          <PenExNegativeSer>
-            <Color>n:Firebrick</Color>
-            <DashStyle>Solid</DashStyle>
-            <Width>3</Width>
-          </PenExNegativeSer>
-          <PenExPositiveSer>
-            <Color>x:ff004000</Color>
-            <DashStyle>Solid</DashStyle>
-            <Width>3</Width>
-          </PenExPositiveSer>
-          <PawThreshold>30</PawThreshold>
-          <PawRelativeClose>false</PawRelativeClose>
-          <ShowPawPrints2>false</ShowPawPrints2>
-          <ColorPawTopSer>-38889</ColorPawTopSer>
-          <ColorPawBottomSer>-16718336</ColorPawBottomSer>
-          <AccelerationBars>4</AccelerationBars>
-          <AccelerationThreshold>200</AccelerationThreshold>
-          <AccelearationOnBarClose>false</AccelearationOnBarClose>
-          <AccelearationVolume>0</AccelearationVolume>
-          <ShowNetVolume2>true</ShowNetVolume2>
-          <ColorNetvolumePositiveSer>-7357301</ColorNetvolumePositiveSer>
-          <ColorNetvolumeNegativeSer>-65536</ColorNetvolumeNegativeSer>
-          <ColorNetvolumeZeroSer>-5658199</ColorNetvolumeZeroSer>
-          <ColorNetvolumeSer>-1</ColorNetvolumeSer>
-          <ColorDivergenceSer>-16256</ColorDivergenceSer>
-          <TotalAccelerationBars>4</TotalAccelerationBars>
-          <TotalAccelerationThreshold>200</TotalAccelerationThreshold>
-          <ShowTotalVolume2>false</ShowTotalVolume2>
-          <ColorTotalVolumeBackgroundSer>-657931</ColorTotalVolumeBackgroundSer>
-          <ColorTotalVolumeAccelerationSer>-8689426</ColorTotalVolumeAccelerationSer>
-          <ColorTotalVolumeSer>-2968436</ColorTotalVolumeSer>
-          <TrappedVolume>200</TrappedVolume>
-          <TrappedMode>Automatic</TrappedMode>
-          <TrappedSize>3</TrappedSize>
-          <TrappedLeadingVolume>true</TrappedLeadingVolume>
-          <ShowTrapped2>false</ShowTrapped2>
-          <ColorTrappedSer>-1120086</ColorTrappedSer>
-          <ColorLabelTrappedSer>-16777216</ColorLabelTrappedSer>
-          <IBTimeZone>
-            <ZoneEnabled>true</ZoneEnabled>
-            <Zone1Start>0</Zone1Start>
-            <Zone1End>24</Zone1End>
-            <Zone2Start>0</Zone2Start>
-            <Zone2End>0</Zone2End>
-            <Zone3Start>0</Zone3Start>
-            <Zone3End>0</Zone3End>
-            <Zone1Size>50</Zone1Size>
-            <Zone2Size>0</Zone2Size>
-            <Zone3Size>0</Zone3Size>
-          </IBTimeZone>
-          <IBHighlightLevels>true</IBHighlightLevels>
-          <IBShowLine>true</IBShowLine>
-          <IBShowBrokenLine>false</IBShowBrokenLine>
-          <ShowBlocks2>false</ShowBlocks2>
-          <ColorIBBidSer>16777215</ColorIBBidSer>
-          <ColorIBAskSer>16777215</ColorIBAskSer>
-          <ColorLabelIBSer>16777215</ColorLabelIBSer>
-          <IBAccelerationBars>7</IBAccelerationBars>
-          <IBAccelerationThreshold>200</IBAccelerationThreshold>
-          <IBAccelerationOnBarClose>false</IBAccelerationOnBarClose>
-          <IBAccelerationVolume>0</IBAccelerationVolume>
-          <MomSize>3</MomSize>
-          <MomThreshold>300</MomThreshold>
-          <MomKeep>false</MomKeep>
-          <ShowMom2>true</ShowMom2>
-          <ShowAbs2>true</ShowAbs2>
-          <ColorMomGreenSer>-16744448</ColorMomGreenSer>
-          <ColorMomRedSer>-65536</ColorMomRedSer>
-          <MMTime>24</MMTime>
-          <MMSize>0</MMSize>
-          <MMBroken>false</MMBroken>
-          <ShowMiniMagnets2>true</ShowMiniMagnets2>
-          <ColorMMSer>-989556</ColorMMSer>
-          <MMOpacity>4</MMOpacity>
-          <CanOpenPositionColorSerializable>16777215</CanOpenPositionColorSerializable>
-          <CanHoldPositionColorSerializable>16777215</CanHoldPositionColorSerializable>
-          <MustFlattenColorSerializable>16777215</MustFlattenColorSerializable>
-          <EnableScheduleBackgroundColoring>false</EnableScheduleBackgroundColoring>
-          <ShowLeadingVolume2>false</ShowLeadingVolume2>
-          <ColorTrappedLeadingSer>-14774017</ColorTrappedLeadingSer>
-          <ColorLabelLeadingSer>-1</ColorLabelLeadingSer>
-          <BigBars>4</BigBars>
-          <BigThreshold>200</BigThreshold>
-          <BigVolumeFilter>0</BigVolumeFilter>
-          <ShowBig2>true</ShowBig2>
-          <Box919Low>9</Box919Low>
-          <Box919High>19</Box919High>
-          <Show919Box2>false</Show919Box2>
-          <ColorBigVolumeClustersSer>-256</ColorBigVolumeClustersSer>
-          <ShowNetVolume>true</ShowNetVolume>
-          <ShowNetBlockVolume>false</ShowNetBlockVolume>
-          <ShowTotalVolume>false</ShowTotalVolume>
-          <ShowImbalances>false</ShowImbalances>
-          <ShowWeakImbalances>false</ShowWeakImbalances>
-          <ShowBalancedVolume>false</ShowBalancedVolume>
-          <ShowMiniMagnets>true</ShowMiniMagnets>
-          <ShowZoneOfInterests>true</ShowZoneOfInterests>
-          <ShowPawPrints>false</ShowPawPrints>
-          <ShowExhausion>false</ShowExhausion>
-          <ShowBlocks>false</ShowBlocks>
-          <ShowTrapped>false</ShowTrapped>
-          <ShowTotalAcceleration>true</ShowTotalAcceleration>
-          <ShowNetAcceleration>true</ShowNetAcceleration>
-          <ShowMom>true</ShowMom>
-          <ShowAbs>true</ShowAbs>
-          <ShowControlPrice>true</ShowControlPrice>
-          <ShowNetVolumeDivergence>false</ShowNetVolumeDivergence>
-          <ShowNetIBVolumeDivergence>false</ShowNetIBVolumeDivergence>
-          <ShowLeadingVolume>false</ShowLeadingVolume>
-          <ShowActualLevels>false</ShowActualLevels>
-          <ShowBig>true</ShowBig>
-          <Show919Box>false</Show919Box>
-          <ColorVolumeControlStartSer>16777215</ColorVolumeControlStartSer>
-          <ColorVolumeControlEndSer>16777215</ColorVolumeControlEndSer>
-          <ColorNetvolumePositiveBarStartSer>16777215</ColorNetvolumePositiveBarStartSer>
-          <ColorNetvolumePositiveBarEndSer>16777215</ColorNetvolumePositiveBarEndSer>
-          <ColorNetvolumeNegativeBarStartSer>16777215</ColorNetvolumeNegativeBarStartSer>
-          <ColorNetvolumeNegativeBarEndSer>16777215</ColorNetvolumeNegativeBarEndSer>
-          <ColorBarBoxPositiveSer>16777215</ColorBarBoxPositiveSer>
-          <ColorBarBoxNegativeSer>16777215</ColorBarBoxNegativeSer>
-          <FontChartLabelSer>
-            <FontFamily>Arial</FontFamily>
-            <Size>12</Size>
-            <Style>Bold</Style>
-          </FontChartLabelSer>
-          <AutoAdjustFont>true</AutoAdjustFont>
-          <FontVolumeLabelSer>
-            <FontFamily>Arial</FontFamily>
-            <Size>12</Size>
-            <Style>Bold</Style>
-          </FontVolumeLabelSer>
-          <OffsetVolumeBlock>1</OffsetVolumeBlock>
-          <ShowSyntheticWick>false</ShowSyntheticWick>
-          <RestoreOP>true</RestoreOP>
-          <RestoreDays>5</RestoreDays>
-          <AlertZOI>false</AlertZOI>
-          <AlertMM>false</AlertMM>
-          <AlertAccelerationTotal>false</AlertAccelerationTotal>
-          <AlertAccelerationNet>false</AlertAccelerationNet>
-          <AlertMomentum>false</AlertMomentum>
-          <AlertAbsorption>false</AlertAbsorption>
-          <AlertLeadingVolume>false</AlertLeadingVolume>
-          <AlertTrappedOrders>false</AlertTrappedOrders>
-          <AlertPaw>false</AlertPaw>
-          <AlertExhaustion>false</AlertExhaustion>
-          <AlertBigVolumeCluster>true</AlertBigVolumeCluster>
-        </SSBlockFlow>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsImRheXNUb1Nob3ciOjV9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MzAwfSwiZGF0YVBlcnNpc3RlbmNlU2V0dGluZ3MiOnsibG9hZERhdGEiOnRydWUsInNhdmVEYXRhIjp0cnVlfX0=</SettingsSerialized>
+          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6ZmFsc2UsIlVwcGVyQ29sb3IiOlsyNTUsMjU1LDEwNCw1M10sIkxvd2VyQ29sb3IiOlsyNTUsMCwyMzAsMF0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImltYmFsYW5jZSI6eyJzaG93IjpmYWxzZSwiYXNrQ29sb3IiOiJTZWFHcmVlbiIsImJpZENvbG9yIjoiRGFya1JlZCIsIndlYWtDb2xvciI6IkRpbUdyYXkiLCJzaG93V2Vha0ltYmFsYW5jZXMiOmZhbHNlfSwiYmFsYW5jZWRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsImNvbG9yIjoiQmxhY2sifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6ZmFsc2UsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJkb3duQ29sb3IiOiJMaWdodFNhbG1vbiIsInVwQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm9wYWNpdHkiOjkwLCJicm9rZW5PcGFjaXR5Ijo1MH0sImV4aGF1c3Rpb24iOnsic2hvdyI6ZmFsc2UsInRvcExpbmVTdHlsZSI6eyJjb2xvciI6IkZpcmVicmljayIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjMuMH0sImJvdHRvbUxpbmVTdHlsZSI6eyJjb2xvciI6WzI1NSwwLDY0LDBdLCJkYXNoU3R5bGUiOjAsIndpZHRoIjozLjB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXdWb2x1bWVBY2NlbGVydGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvblBvc2l0aXZlQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJpY29uTmVnYXRpdmVDb2xvciI6IlJlZCIsImljb25EaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJpY29uQmFja2dyb3VuZENvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidHJhcHBlZE9yZGVycyI6eyJzaG93IjpmYWxzZSwiaGlnaGxpZ2h0Q29sb3IiOiJHb2xkIiwiZm9udENvbG9yIjoiQmxhY2siLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJibG9ja09yZGVycyI6eyJzaG93IjpmYWxzZSwiZm9udENvbG9yIjoiV2hpdGUiLCJoaWdobGlnaHRCbG9ja3MiOnRydWUsImJpZENvbG9yIjoiRGFya1NhbG1vbiIsImFza0NvbG9yIjoiTGF3bkdyZWVuIiwic2hvd0Jsb2NrTGluZSI6ZmFsc2UsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrU2FsbW9uIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYXNrTGluZVN0eWxlIjp7ImNvbG9yIjoiTGF3bkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiZGF5c1RvU2hvd1VuYnJva2VuIjoxLCJsaW5lT3BhY2l0eSI6MTAwfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkaXZlcmdlbmNlRm9udENvbG9yIjoiV2hpdGUiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJuZXRWb2x1bWVOZWdhdGl2ZUZvbnRDb2xvciI6IldoaXRlIiwicG9zaXRpdmVDb2xvciI6IkdyZWVuIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibmVnYXRpdmVDb2xvciI6IlJlZCIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiR3JlZW4iLCJkb3duQ29sb3IiOiJSZWQiLCJpY29uVXBDb2xvciI6IldoaXRlIiwiaWNvbkRvd25Db2xvciI6IldoaXRlIiwibW9tZW50dW1BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInZlcnRpY2FsT2Zmc2V0Ijo0LjAsInNjYWxlT2Zmc2V0IjoxLjB9LCJhYnNvcnB0aW9uIjp7InNob3ciOnRydWUsInVwQ29sb3IiOiJEYXJrT2xpdmVHcmVlbiIsImRvd25Db2xvciI6Ik1hcm9vbiIsImljb25VcENvbG9yIjoiQmxhY2siLCJpY29uRG93bkNvbG9yIjoiQmxhY2siLCJhYnNvcnB0aW9uQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ2ZXJ0aWNhbE9mZnNldCI6NC4wLCJzY2FsZU9mZnNldCI6MS4wfSwibWluaU1hZ25ldHMiOnsiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsInNob3ciOnRydWUsIm1vbmRheVNldHRpbmdzIjp7ImNvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6ODAsImJyb2tlbk9wYWNpdHkiOjUwfSwidHVlc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6ODAsImJyb2tlbk9wYWNpdHkiOjUwfSwid2VkbmVzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5Ijo4MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ0aHVyc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6ODAsImJyb2tlbk9wYWNpdHkiOjUwfSwiZnJpZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5Ijo4MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOmZhbHNlLCJjb2xvciI6IkRvZGdlckJsdWUiLCJmb250Q29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUJhY2tncm91bmRDb2xvciI6IkZpcmVicmljayIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJGaXJlYnJpY2siLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IldoaXRlIiwibmVnYXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsInNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUJhY2tncm91bmRDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiJXaGl0ZSJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiRGFya0dvbGRlbnJvZCIsImJhY2tncm91bmRDb2xvciI6IldoaXRlU21va2UiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQifSwiYmFyQ29udHJvbCI6eyJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyMTksMjMwLDIxOV0sInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiJEYXJrU2VhR3JlZW4iLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjU1LDI0NywyNDJdLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiUm9zeUJyb3duIiwiYmFyQ29sb3JVcCI6IkRhcmtTZWFHcmVlbiIsImJhckNvbG9yRG93biI6IlJvc3lCcm93biIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6IkFyaWFsLCAxNC4yNXB0LCBzdHlsZT1Cb2xkIiwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiU2lsdmVyIiwiR3JhZGllbnRFbmQiOiJEaW1HcmF5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6MTAwfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJzaG93Qm9yZGVyIjp0cnVlLCJmaWxsQ29sb3IiOiJZZWxsb3ciLCJib3JkZXJDb2xvciI6eyJjb2xvciI6IlllbGxvdyIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjMuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIn0sInRyYWRpbmdTY2hlZHVsZUJhY2tncm91bmRDb2xvcmluZyI6eyJzaG93IjpmYWxzZSwidHJhZGluZ1NjaGVkdWxlIjp7Ikl0ZW1zIjpbeyJTdGFydEVudGVyaW5nIjowLCJTdG9wRW50ZXJpbmciOjEwMDgwLCJGbGF0dGVuUG9zaXRpb25zIjpudWxsfV0sIkRpc3BsYXlOYW1lIjoiQ3VzdG9tIHVuc2F2ZWQgc2NoZWR1bGUifSwiY2FuT3BlblBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsImNhbkhvbGRQb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJtdXN0RmxhdHRlbkNvbG9yIjoiRGFya0dyYXkifX0=</UserSettingsSerialized>
+        </OrderPrintsIndicator>
       </Indicator>
     </Indicator15>
   </Indicators>
@@ -1645,8 +1500,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>10</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5999.4563963964</FixedPanelMaxRight>
-      <FixedPanelMinRight>5909.81477477477</FixedPanelMinRight>
+      <FixedPanelMaxRight>5952.67046502836</FixedPanelMaxRight>
+      <FixedPanelMinRight>5901.08473345936</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1678,8 +1533,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>12351.8312</FixedPanelMaxRight>
-      <FixedPanelMinRight>-4371.8312</FixedPanelMinRight>
+      <FixedPanelMaxRight>15826.1884</FixedPanelMaxRight>
+      <FixedPanelMinRight>-16576.1884</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1711,8 +1566,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>30235.69</FixedPanelMaxRight>
-      <FixedPanelMinRight>-11393.69</FixedPanelMinRight>
+      <FixedPanelMaxRight>68122.0592</FixedPanelMaxRight>
+      <FixedPanelMinRight>-17658.0592</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1744,8 +1599,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>104.35720794</FixedPanelMaxRight>
-      <FixedPanelMinRight>-6.07390794</FixedPanelMinRight>
+      <FixedPanelMaxRight>62.92938206</FixedPanelMaxRight>
+      <FixedPanelMinRight>-3.66268206</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1777,8 +1632,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>20269.762</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1179.762</FixedPanelMinRight>
+      <FixedPanelMaxRight>15057.3858</FixedPanelMaxRight>
+      <FixedPanelMinRight>-876.3858</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1807,7 +1662,7 @@
       <Bars>
         <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AutoScale>true</AutoScale>
-          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;3.27731177578853&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Bisque&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;2&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Transparent&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;5.03604908522267&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Bisque&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Bisque&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;2&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Transparent&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
           <DisplayInDataBox>true</DisplayInDataBox>
           <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
           <PaintPriceMarker>true</PaintPriceMarker>
