@@ -6,7 +6,7 @@
       <AdvancedOptions>false</AdvancedOptions>
       <AlwaysOnTop>false</AlwaysOnTop>
       <AxisColorSerialize>n:Black</AxisColorSerialize>
-      <BackColorSerialize>n:White</BackColorSerialize>
+      <BackColorSerialize>n:WhiteSmoke</BackColorSerialize>
       <BarMarginRight>70</BarMarginRight>
       <BarSpaceIntern>78.201806823435945</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
@@ -589,8 +589,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5942.868</FixedPanelMaxRight>
-      <FixedPanelMinRight>5931.632</FixedPanelMinRight>
+      <FixedPanelMaxRight>5936.47615</FixedPanelMaxRight>
+      <FixedPanelMinRight>5923.27385</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
