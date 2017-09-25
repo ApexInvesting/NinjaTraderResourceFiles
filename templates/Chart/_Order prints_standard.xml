@@ -6,18 +6,18 @@
       <AdvancedOptions>false</AdvancedOptions>
       <AlwaysOnTop>false</AlwaysOnTop>
       <AxisColorSerialize>n:Black</AxisColorSerialize>
-      <BackColorSerialize>n:WhiteSmoke</BackColorSerialize>
-      <BarMarginRight>70</BarMarginRight>
-      <BarSpaceIntern>78.201806823435945</BarSpaceIntern>
+      <BackColorSerialize>n:LightGray</BackColorSerialize>
+      <BarMarginRight>75</BarMarginRight>
+      <BarSpaceIntern>141.61632169958028</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
-      <ChartCursor>Pointer</ChartCursor>
+      <ChartCursor>CrossHair</ChartCursor>
       <ChartObjectSelection>true</ChartObjectSelection>
       <ChartOpenedInMR>false</ChartOpenedInMR>
-      <ChartTraderEnabled>true</ChartTraderEnabled>
+      <ChartTraderEnabled>false</ChartTraderEnabled>
       <ChartTraderVisible>false</ChartTraderVisible>
       <ConfirmDirectEntry>false</ConfirmDirectEntry>
       <CrossHairBuyColorSerialize>n:Lime</CrossHairBuyColorSerialize>
-      <CrossHairLabelColorSerialize>n:LightGray</CrossHairLabelColorSerialize>
+      <CrossHairLabelColorSerialize>n:DimGray</CrossHairLabelColorSerialize>
       <CrossHairSellColorSerialize>n:Red</CrossHairSellColorSerialize>
       <DirectChartEntry>false</DirectChartEntry>
       <EntryPricePenSerializable>
@@ -39,12 +39,12 @@
         <DashStyle>Solid</DashStyle>
         <Width>1</Width>
       </HorizontalGridLinesPenSerializable>
-      <LabelFormatDay>d/MM/yyyy</LabelFormatDay>
+      <LabelFormatDay>M/d/yyyy</LabelFormatDay>
       <LabelFormatMinute>HH:mm</LabelFormatMinute>
-      <LabelFormatMonth>MM</LabelFormatMonth>
+      <LabelFormatMonth>MM/yyyy</LabelFormatMonth>
       <LabelFormatSecond>HH:mm:ss</LabelFormatSecond>
       <LabelFormatTick>HH:mm</LabelFormatTick>
-      <LabelFormatYear>MM/yyyy</LabelFormatYear>
+      <LabelFormatYear>yyyy</LabelFormatYear>
       <LimitOrderPenSerializable>
         <Color>n:Cyan</Color>
         <DashStyle>Solid</DashStyle>
@@ -65,7 +65,7 @@
       <RefreshSeconds>0.5</RefreshSeconds>
       <ScaleQuantity>0</ScaleQuantity>
       <SellColorSerialize>n:LavenderBlush</SellColorSerialize>
-      <ShowRealizedProfitLoss>false</ShowRealizedProfitLoss>
+      <ShowRealizedProfitLoss>true</ShowRealizedProfitLoss>
       <ShowScrollBar>true</ShowScrollBar>
       <SimulatedOrderVolumeTrigger>0</SimulatedOrderVolumeTrigger>
       <SimulationBackColorSerialize>n:SlateGray</SimulationBackColorSerialize>
@@ -77,7 +77,7 @@
         <Width>1</Width>
       </SplitterPenSerializable>
       <StayInDrawMode>false</StayInDrawMode>
-      <StopLimitOffset>3</StopLimitOffset>
+      <StopLimitOffset>Off</StopLimitOffset>
       <StopLimitOrderPenSerializable>
         <Color>n:Violet</Color>
         <DashStyle>Solid</DashStyle>
@@ -94,9 +94,9 @@
         <DashStyle>Solid</DashStyle>
         <Width>2</Width>
       </StopMarketOrderPenSerializable>
-      <AtmStrategySelectionMode>KeepSelectedAtmStrategyTemplateOnOrderSubmission</AtmStrategySelectionMode>
+      <AtmStrategySelectionMode>SelectActiveAtmStrategyOnOrderSubmission</AtmStrategySelectionMode>
       <ToolBarEnabled>true</ToolBarEnabled>
-      <UseStopMarket>true</UseStopMarket>
+      <UseStopMarket>false</UseStopMarket>
       <VerticalGridLines>false</VerticalGridLines>
       <VerticalGridLinesPenSerializable>
         <Color>n:ControlLight</Color>
@@ -107,257 +107,6 @@
   </Layout>
   <Indicators>
     <Indicator0>
-      <ClassName>NinjaTrader.Indicator.ICE</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <ICE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>100</BasePeriodValue>
-              <Id>Custom8</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
-              <Value2>50</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>true</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic ICE Volume Zones v2</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>1. Upper ICE</Name>
-              <PenSerializable>
-                <Color>n:Green</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>4</Width>
-              </PenSerializable>
-              <PlotStyle>Square</PlotStyle>
-            </Plot>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>2. Control ICE</Name>
-              <PenSerializable>
-                <Color>n:Blue</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>4</Width>
-              </PenSerializable>
-              <PlotStyle>Square</PlotStyle>
-            </Plot>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>3. Lower ICE</Name>
-              <PenSerializable>
-                <Color>n:Red</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>4</Width>
-              </PenSerializable>
-              <PlotStyle>Square</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>true</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30003</ZOrder>
-          <SettingsSerialized>{"volumeZone":70,"maxDaysData":25}</SettingsSerialized>
-          <UserSettingsSerialized>{"showHistogram":false,"histogramColor":"DodgerBlue","histogramOpacity":40}</UserSettingsSerialized>
-        </ICE>
-      </Indicator>
-    </Indicator0>
-    <Indicator1>
-      <ClassName>NinjaTrader.Indicator.SolidDeviationLevels_03</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <SolidDeviationLevels_03 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>100</BasePeriodValue>
-              <Id>Custom8</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
-              <Value2>50</Value2>
-            </Period>
-            <Period>
-              <BasePeriodType>Minute</BasePeriodType>
-              <BasePeriodValue>1</BasePeriodValue>
-              <Id>Minute</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>1</Value>
-              <Value2>1</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30004</ZOrder>
-          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
-          <ShowLabels>true</ShowLabels>
-          <LabelAlignment>Left</LabelAlignment>
-          <AbbreviateLabels>false</AbbreviateLabels>
-          <ShowZones>true</ShowZones>
-          <ZoneSizeInDeviations>1</ZoneSizeInDeviations>
-          <ShowNegativeThree>true</ShowNegativeThree>
-          <ShowNegativeTwo>true</ShowNegativeTwo>
-          <ShowNegativeOnePointFive>true</ShowNegativeOnePointFive>
-          <ShowNegativeOne>true</ShowNegativeOne>
-          <ShowNegativeZeroPointSeven>true</ShowNegativeZeroPointSeven>
-          <ShowNegativeZeroPointFive>true</ShowNegativeZeroPointFive>
-          <ShowZero>true</ShowZero>
-          <ShowPositiveZeroPointFive>true</ShowPositiveZeroPointFive>
-          <ShowPositiveZeroPointSeven>true</ShowPositiveZeroPointSeven>
-          <ShowPositiveOne>true</ShowPositiveOne>
-          <ShowPositiveOnePointFive>true</ShowPositiveOnePointFive>
-          <ShowPositiveTwo>true</ShowPositiveTwo>
-          <ShowPositiveThree>true</ShowPositiveThree>
-          <DrawingToolsetsSerializable>{"0":{"Color":"Blue","LineWidth":2,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"-1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"-2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10}}</DrawingToolsetsSerializable>
-        </SolidDeviationLevels_03>
-      </Indicator>
-    </Indicator1>
-    <Indicator2>
-      <ClassName>NinjaTrader.Indicator.ApexDiagnosticBarRange</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <ApexDiagnosticBarRange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>true</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>100</BasePeriodValue>
-              <Id>Custom8</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
-              <Value2>50</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic Bar Range</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30005</ZOrder>
-          <UpperLinePenSerializable>
-            <Color>n:DimGray</Color>
-            <DashStyle>Solid</DashStyle>
-            <Width>3</Width>
-          </UpperLinePenSerializable>
-          <LowerLinePenSerializable>
-            <Color>n:DimGray</Color>
-            <DashStyle>Solid</DashStyle>
-            <Width>3</Width>
-          </LowerLinePenSerializable>
-          <DrawText>true</DrawText>
-          <DrawDiamondMarkers>false</DrawDiamondMarkers>
-          <MarkerLineLength>50</MarkerLineLength>
-          <RightShift>5</RightShift>
-        </ApexDiagnosticBarRange>
-      </Indicator>
-    </Indicator2>
-    <Indicator3>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticToolbarShortcut</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -414,7 +163,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30006</ZOrder>
+          <ZOrder>30004</ZOrder>
           <ShowLines>true</ShowLines>
           <ShowFibs>true</ShowFibs>
           <ShowChannels>true</ShowChannels>
@@ -422,8 +171,8 @@
           <ShowMarkers>true</ShowMarkers>
         </ApexDiagnosticToolbarShortcut>
       </Indicator>
-    </Indicator3>
-    <Indicator4>
+    </Indicator0>
+    <Indicator1>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticCurrentPrice</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -458,16 +207,16 @@
             <Line>
               <Name>Current Price</Name>
               <PenSerializable>
-                <Color>n:DarkSlateGray</Color>
+                <Color>n:Black</Color>
                 <DashStyle>Dash</DashStyle>
-                <Width>2</Width>
+                <Width>3</Width>
               </PenSerializable>
-              <Value>5936.25</Value>
+              <Value>5920.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name />
+          <Name>A.P.E.X. Diagnostic Current Price</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -490,9 +239,260 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30007</ZOrder>
+          <ZOrder>30005</ZOrder>
           <ShowPriceLabel>false</ShowPriceLabel>
         </ApexDiagnosticCurrentPrice>
+      </Indicator>
+    </Indicator1>
+    <Indicator2>
+      <ClassName>NinjaTrader.Indicator.SolidDeviationLevels_03</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <SolidDeviationLevels_03 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>false</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+            <Period>
+              <BasePeriodType>Minute</BasePeriodType>
+              <BasePeriodValue>1</BasePeriodValue>
+              <Id>Minute</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>1</Value>
+              <Value2>1</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>30006</ZOrder>
+          <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
+          <ShowLabels>true</ShowLabels>
+          <LabelAlignment>Left</LabelAlignment>
+          <AbbreviateLabels>true</AbbreviateLabels>
+          <ShowZones>false</ShowZones>
+          <ZoneSizeInDeviations>5</ZoneSizeInDeviations>
+          <ShowNegativeThree>true</ShowNegativeThree>
+          <ShowNegativeTwo>true</ShowNegativeTwo>
+          <ShowNegativeOnePointFive>true</ShowNegativeOnePointFive>
+          <ShowNegativeOne>true</ShowNegativeOne>
+          <ShowNegativeZeroPointSeven>true</ShowNegativeZeroPointSeven>
+          <ShowNegativeZeroPointFive>true</ShowNegativeZeroPointFive>
+          <ShowZero>true</ShowZero>
+          <ShowPositiveZeroPointFive>true</ShowPositiveZeroPointFive>
+          <ShowPositiveZeroPointSeven>true</ShowPositiveZeroPointSeven>
+          <ShowPositiveOne>true</ShowPositiveOne>
+          <ShowPositiveOnePointFive>true</ShowPositiveOnePointFive>
+          <ShowPositiveTwo>true</ShowPositiveTwo>
+          <ShowPositiveThree>true</ShowPositiveThree>
+          <DrawingToolsetsSerializable>{"0":{"Color":"Cyan","LineWidth":2,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"-3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10}}</DrawingToolsetsSerializable>
+        </SolidDeviationLevels_03>
+      </Indicator>
+    </Indicator2>
+    <Indicator3>
+      <ClassName>NinjaTrader.Indicator.ICE</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ICE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>false</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>true</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic ICE Volume Zones v2</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>1. Upper ICE</Name>
+              <PenSerializable>
+                <Color>n:Green</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>2</Width>
+              </PenSerializable>
+              <PlotStyle>Square</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>2. Control ICE</Name>
+              <PenSerializable>
+                <Color>n:Blue</Color>
+                <DashStyle>Dash</DashStyle>
+                <Width>2</Width>
+              </PenSerializable>
+              <PlotStyle>Square</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>3. Lower ICE</Name>
+              <PenSerializable>
+                <Color>n:Red</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>2</Width>
+              </PenSerializable>
+              <PlotStyle>Square</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>true</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>30007</ZOrder>
+          <SettingsSerialized>{"volumeZone":70,"maxDaysData":25}</SettingsSerialized>
+          <UserSettingsSerialized>{"showHistogram":true,"histogramColor":"DodgerBlue","histogramOpacity":13}</UserSettingsSerialized>
+        </ICE>
+      </Indicator>
+    </Indicator3>
+    <Indicator4>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticBarRange</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticBarRange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 12-17 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic Bar Range</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>30003</ZOrder>
+          <UpperLinePenSerializable>
+            <Color>n:Black</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>2</Width>
+          </UpperLinePenSerializable>
+          <LowerLinePenSerializable>
+            <Color>n:Black</Color>
+            <DashStyle>Solid</DashStyle>
+            <Width>2</Width>
+          </LowerLinePenSerializable>
+          <DrawText>true</DrawText>
+          <DrawDiamondMarkers>false</DrawDiamondMarkers>
+          <MarkerLineLength>50</MarkerLineLength>
+          <RightShift>10</RightShift>
+        </ApexDiagnosticBarRange>
       </Indicator>
     </Indicator4>
     <Indicator5>
@@ -574,7 +574,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
           <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsImRheXNUb1Nob3ciOjV9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJkYXRhUGVyc2lzdGVuY2VTZXR0aW5ncyI6eyJsb2FkRGF0YSI6dHJ1ZSwic2F2ZURhdGEiOnRydWV9fQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6ZmFsc2UsIlVwcGVyQ29sb3IiOlsyNTUsMjU1LDEwNCw1M10sIkxvd2VyQ29sb3IiOlsyNTUsMCwyMzAsMF0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImltYmFsYW5jZSI6eyJzaG93IjpmYWxzZSwiYXNrQ29sb3IiOiJTZWFHcmVlbiIsImJpZENvbG9yIjoiRGFya1JlZCIsIndlYWtDb2xvciI6IkRpbUdyYXkiLCJzaG93V2Vha0ltYmFsYW5jZXMiOmZhbHNlfSwiYmFsYW5jZWRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsImNvbG9yIjoiQmxhY2sifSwiem9uZU9mSW50ZXJlc3QiOnsic2hvdyI6dHJ1ZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImRvd25Db2xvciI6IkxpZ2h0U2FsbW9uIiwidXBDb2xvciI6IkRhcmtTZWFHcmVlbiIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwib3BhY2l0eSI6OTAsImJyb2tlbk9wYWNpdHkiOjUwfSwiZXhoYXVzdGlvbiI6eyJzaG93IjpmYWxzZSwidG9wTGluZVN0eWxlIjp7ImNvbG9yIjoiRmlyZWJyaWNrIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6My4wfSwiYm90dG9tTGluZVN0eWxlIjp7ImNvbG9yIjpbMjU1LDAsNjQsMF0sImRhc2hTdHlsZSI6MCwid2lkdGgiOjMuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ld1ZvbHVtZUFjY2VsZXJ0aW9uIjp7InNob3ciOnRydWUsImljb25Qb3NpdGl2ZUNvbG9yIjoiRGFya1NlYUdyZWVuIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6dHJ1ZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidHJhcHBlZE9yZGVycyI6eyJzaG93Ijp0cnVlLCJoaWdobGlnaHRDb2xvciI6IkdvbGQiLCJmb250Q29sb3IiOiJCbGFjayIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImJsb2NrT3JkZXJzIjp7InNob3ciOmZhbHNlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJEYXJrU2FsbW9uIiwiYXNrQ29sb3IiOiJMYXduR3JlZW4iLCJzaG93QmxvY2tMaW5lIjpmYWxzZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJpZExpbmVTdHlsZSI6eyJjb2xvciI6IkRhcmtTYWxtb24iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJhc2tMaW5lU3R5bGUiOnsiY29sb3IiOiJMYXduR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJkYXlzVG9TaG93VW5icm9rZW4iOjEsImxpbmVPcGFjaXR5IjoxMDB9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiJXaGl0ZSIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJwb3NpdGl2ZUNvbG9yIjoiR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUNvbG9yIjoiUmVkIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IlJlZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiV2hpdGUiLCJpY29uRG93bkNvbG9yIjoiV2hpdGUiLCJtb21lbnR1bUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjEuNSwic2NhbGVPZmZzZXQiOjEuMH0sImFic29ycHRpb24iOnsic2hvdyI6dHJ1ZSwidXBDb2xvciI6IkRhcmtPbGl2ZUdyZWVuIiwiZG93bkNvbG9yIjoiTWFyb29uIiwiaWNvblVwQ29sb3IiOiJXaGl0ZSIsImljb25Eb3duQ29sb3IiOiJXaGl0ZSIsImFic29ycHRpb25BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInZlcnRpY2FsT2Zmc2V0IjoxLjUsInNjYWxlT2Zmc2V0IjoxLjB9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwic2hvdyI6dHJ1ZSwibW9uZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwidHVlc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sIndlZG5lc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sInRodXJzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwiZnJpZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibGVhZGluZ1ZvbHVtZSI6eyJzaG93Ijp0cnVlLCJjb2xvciI6IkRvZGdlckJsdWUiLCJmb250Q29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ldFZvbHVtZSI6eyJzaG93Ijp0cnVlLCJwb3NpdGl2ZUJhY2tncm91bmRDb2xvciI6IkRhcmtTZWFHcmVlbiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sIm5lZ2F0aXZlQmFja2dyb3VuZENvbG9yIjoiRmlyZWJyaWNrIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkZpcmVicmljayIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sInBvc2l0aXZlVGV4dENvbG9yIjoiV2hpdGUiLCJuZWdhdGl2ZVRleHRDb2xvciI6IldoaXRlIiwiZm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwic2hvd0RpdmVyZ2VuY2UiOnRydWUsImRpdmVyZ2VuY2VCYWNrZ3JvdW5kQ29sb3IiOiJPcmFuZ2UiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiV2hpdGUifSwidG90YWxWb2x1bWUiOnsic2hvdyI6dHJ1ZSwidGV4dENvbG9yIjoiRGFya0dvbGRlbnJvZCIsImJhY2tncm91bmRDb2xvciI6IldoaXRlU21va2UiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQifSwiYmFyQ29udHJvbCI6eyJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6dHJ1ZSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudFN0YXJ0IjpbMjU1LDIxOSwyMzAsMjE5XSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudEVuZCI6IkRhcmtTZWFHcmVlbiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyNTUsMjQ3LDI0Ml0sInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRFbmQiOiJSb3N5QnJvd24iLCJiYXJDb2xvclVwIjoiRGFya1NlYUdyZWVuIiwiYmFyQ29sb3JEb3duIjoiUm9zeUJyb3duIiwic2hvd1ZvbHVtZXMiOnRydWUsInZvbHVtZUZvbnQiOiJBcmlhbCwgMTQuMjVwdCwgc3R5bGU9Qm9sZCIsImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IlNpbHZlciIsIkdyYWRpZW50RW5kIjoiRGltR3JheSIsIlNob3ciOnRydWUsIkdyYWRpZW50T3BhY2l0eSI6MTAwfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJzaG93Qm9yZGVyIjp0cnVlLCJmaWxsQ29sb3IiOiJNZWRpdW1QdXJwbGUiLCJib3JkZXJDb2xvciI6eyJjb2xvciI6IlB1cnBsZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIn0sInRyYWRpbmdTY2hlZHVsZUJhY2tncm91bmRDb2xvcmluZyI6eyJzaG93IjpmYWxzZSwidHJhZGluZ1NjaGVkdWxlIjp7Ikl0ZW1zIjpbeyJTdGFydEVudGVyaW5nIjowLCJTdG9wRW50ZXJpbmciOjEwMDgwLCJGbGF0dGVuUG9zaXRpb25zIjpudWxsfV0sIkRpc3BsYXlOYW1lIjoiQ3VzdG9tIHVuc2F2ZWQgc2NoZWR1bGUifSwiY2FuT3BlblBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsImNhbkhvbGRQb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJtdXN0RmxhdHRlbkNvbG9yIjoiRGFya0dyYXkifX0=</UserSettingsSerialized>
+          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6WzI1NSwyNTUsMTA0LDUzXSwiTG93ZXJDb2xvciI6WzI1NSwwLDIzMCwwXSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiaW1iYWxhbmNlIjp7InNob3ciOnRydWUsImFza0NvbG9yIjoiU2VhR3JlZW4iLCJiaWRDb2xvciI6IkRhcmtSZWQiLCJ3ZWFrQ29sb3IiOiJEaW1HcmF5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjp0cnVlfSwiYmFsYW5jZWRWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiJCbGFjayJ9LCJ6b25lT2ZJbnRlcmVzdCI6eyJzaG93Ijp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiZG93bkNvbG9yIjoiTGlnaHRTYWxtb24iLCJ1cENvbG9yIjoiRGFya1NlYUdyZWVuIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJvcGFjaXR5Ijo5MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJjb2xvciI6IkZpcmVicmljayIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImJvdHRvbUxpbmVTdHlsZSI6eyJjb2xvciI6WzI1NSwwLDY0LDBdLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXdWb2x1bWVBY2NlbGVydGlvbiI6eyJzaG93Ijp0cnVlLCJpY29uUG9zaXRpdmVDb2xvciI6IkRhcmtTZWFHcmVlbiIsImljb25OZWdhdGl2ZUNvbG9yIjoiUmVkIiwiaWNvbkRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25CYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOnRydWUsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRyYXBwZWRPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiaGlnaGxpZ2h0Q29sb3IiOiJHb2xkIiwiZm9udENvbG9yIjoiQmxhY2siLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJEYXJrU2FsbW9uIiwiYXNrQ29sb3IiOiJMYXduR3JlZW4iLCJzaG93QmxvY2tMaW5lIjpmYWxzZSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJpZExpbmVTdHlsZSI6eyJjb2xvciI6IkRhcmtTYWxtb24iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJhc2tMaW5lU3R5bGUiOnsiY29sb3IiOiJMYXduR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJkYXlzVG9TaG93VW5icm9rZW4iOjEsImxpbmVPcGFjaXR5IjoxMDB9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiJXaGl0ZSIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJwb3NpdGl2ZUNvbG9yIjoiR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUNvbG9yIjoiUmVkIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IlJlZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiV2hpdGUiLCJpY29uRG93bkNvbG9yIjoiV2hpdGUiLCJtb21lbnR1bUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjEuNSwic2NhbGVPZmZzZXQiOjAuOX0sImFic29ycHRpb24iOnsic2hvdyI6dHJ1ZSwidXBDb2xvciI6IkRhcmtPbGl2ZUdyZWVuIiwiZG93bkNvbG9yIjoiTWFyb29uIiwiaWNvblVwQ29sb3IiOiJCbGFjayIsImljb25Eb3duQ29sb3IiOiJCbGFjayIsImFic29ycHRpb25BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInZlcnRpY2FsT2Zmc2V0IjoxLjUsInNjYWxlT2Zmc2V0IjowLjl9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwic2hvdyI6dHJ1ZSwibW9uZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5Ijo5MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ0dWVzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5Ijo5MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ3ZWRuZXNkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpZ2h0R29sZGVucm9kWWVsbG93IiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjkwLCJicm9rZW5PcGFjaXR5Ijo1MH0sInRodXJzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaWdodEdvbGRlbnJvZFllbGxvdyIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5Ijo5MCwiYnJva2VuT3BhY2l0eSI6NTB9LCJmcmlkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpZ2h0R29sZGVucm9kWWVsbG93IiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjkwLCJicm9rZW5PcGFjaXR5Ijo1MH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6dHJ1ZSwiY29sb3IiOiJEb2RnZXJCbHVlIiwiZm9udENvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXRWb2x1bWUiOnsic2hvdyI6dHJ1ZSwicG9zaXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUJhY2tncm91bmRDb2xvciI6IkZpcmVicmljayIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJGaXJlYnJpY2siLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IldoaXRlIiwibmVnYXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsInNob3dEaXZlcmdlbmNlIjp0cnVlLCJkaXZlcmdlbmNlQmFja2dyb3VuZENvbG9yIjoiT3JhbmdlIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZGl2ZXJnZW5jZVRleHRDb2xvciI6IldoaXRlIn0sInRvdGFsVm9sdW1lIjp7InNob3ciOnRydWUsInRleHRDb2xvciI6IkRhcmtHb2xkZW5yb2QiLCJiYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZVNtb2tlIiwiZm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIn0sImJhckNvbnRyb2wiOnsic2hvd0Jhck91dGxpbmUiOnRydWUsInNob3dMaW5lcyI6dHJ1ZSwic2hvd0dyYWRpZW50Ijp0cnVlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjE5LDIzMCwyMTldLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiRGFya1NlYUdyZWVuIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjpbMjU1LDI1NSwyNDcsMjQyXSwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IlJvc3lCcm93biIsImJhckNvbG9yVXAiOiJEYXJrU2VhR3JlZW4iLCJiYXJDb2xvckRvd24iOiJSb3N5QnJvd24iLCJzaG93Vm9sdW1lcyI6dHJ1ZSwidm9sdW1lRm9udCI6IkFyaWFsLCAxNC4yNXB0LCBzdHlsZT1Cb2xkIiwiYmFyV2lkdGhGYWN0b3IiOjkwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiU2lsdmVyIiwiR3JhZGllbnRFbmQiOiJEaW1HcmF5IiwiU2hvdyI6dHJ1ZSwiR3JhZGllbnRPcGFjaXR5IjoxMDB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7InNob3ciOnRydWUsInNob3dCb3JkZXIiOnRydWUsImZpbGxDb2xvciI6IlB1cnBsZSIsImJvcmRlckNvbG9yIjp7ImNvbG9yIjoiUHVycGxlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5DbHVzdGVyV2lkdGhUb0V4cGFuZCI6MjV9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmREaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJpY29uRm9yZUNvbG9yIjoiV2hpdGUifSwidHJhZGluZ1NjaGVkdWxlQmFja2dyb3VuZENvbG9yaW5nIjp7InNob3ciOmZhbHNlLCJ0cmFkaW5nU2NoZWR1bGUiOnsiSXRlbXMiOlt7IlN0YXJ0RW50ZXJpbmciOjAsIlN0b3BFbnRlcmluZyI6MTAwODAsIkZsYXR0ZW5Qb3NpdGlvbnMiOm51bGx9XSwiRGlzcGxheU5hbWUiOiJDdXN0b20gdW5zYXZlZCBzY2hlZHVsZSJ9LCJjYW5PcGVuUG9zaXRpb25Db2xvciI6IldoaXRlIiwiY2FuSG9sZFBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsIm11c3RGbGF0dGVuQ29sb3IiOiJEYXJrR3JheSJ9fQ==</UserSettingsSerialized>
         </OrderPrintsIndicator>
       </Indicator>
     </Indicator5>
@@ -585,12 +585,12 @@
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
-      <AutoScaleMarginLowerRight>3</AutoScaleMarginLowerRight>
+      <AutoScaleMarginLowerRight>5</AutoScaleMarginLowerRight>
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
-      <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
+      <AutoScaleMarginUpperRight>15</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>5936.47615</FixedPanelMaxRight>
-      <FixedPanelMinRight>5923.27385</FixedPanelMinRight>
+      <FixedPanelMaxRight>5932.703</FixedPanelMaxRight>
+      <FixedPanelMinRight>5919.347</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -619,7 +619,7 @@
       <Bars>
         <BarsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AutoScale>true</AutoScale>
-          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;3&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Green&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
+          <ChartStyleSerialize>&lt;ChartStyle&gt;&lt;BarWidth&gt;1.3839193885694&lt;/BarWidth&gt;&lt;ChartStyleType&gt;Custom8&lt;/ChartStyleType&gt;&lt;DownColor&gt;n:Red&lt;/DownColor&gt;&lt;Pen&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;1&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen&gt;&lt;Pen2&gt;&amp;lt;Pen&amp;gt;&amp;lt;Color&amp;gt;n:Black&amp;lt;/Color&amp;gt;&amp;lt;DashStyle&amp;gt;Solid&amp;lt;/DashStyle&amp;gt;&amp;lt;Width&amp;gt;2&amp;lt;/Width&amp;gt;&amp;lt;/Pen&amp;gt;&lt;/Pen2&gt;&lt;UpColor&gt;n:Green&lt;/UpColor&gt;&lt;/ChartStyle&gt;</ChartStyleSerialize>
           <DisplayInDataBox>true</DisplayInDataBox>
           <LongExecutionColorSerialize>n:Blue</LongExecutionColorSerialize>
           <PaintPriceMarker>true</PaintPriceMarker>
@@ -644,7 +644,7 @@
             <DashStyle>Solid</DashStyle>
             <Width>1</Width>
           </SessionBreakPenSerializable>
-          <SessionData>&lt;Use instrument settings&gt;</SessionData>
+          <SessionData>Default 24/7</SessionData>
           <ShortExecutionColorSerialize>n:Magenta</ShortExecutionColorSerialize>
           <ShowGlobalDrawObjects>true</ShowGlobalDrawObjects>
         </BarsData>
