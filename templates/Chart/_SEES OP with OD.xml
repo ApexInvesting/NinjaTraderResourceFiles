@@ -163,7 +163,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30010</ZOrder>
+          <ZOrder>30011</ZOrder>
           <ShowLines>true</ShowLines>
           <ShowFibs>true</ShowFibs>
           <ShowChannels>false</ShowChannels>
@@ -229,7 +229,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30011</ZOrder>
+          <ZOrder>30012</ZOrder>
           <UpperLinePenSerializable>
             <Color>n:ActiveCaption</Color>
             <DashStyle>Solid</DashStyle>
@@ -314,7 +314,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30013</ZOrder>
+          <ZOrder>30014</ZOrder>
           <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
           <LabelAlignment>Left</LabelAlignment>
@@ -532,7 +532,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30012</ZOrder>
+          <ZOrder>30013</ZOrder>
           <ShowPriceLabel>false</ShowPriceLabel>
         </ApexDiagnosticCurrentPrice>
       </Indicator>
@@ -627,7 +627,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30012</ZOrder>
+          <ZOrder>30013</ZOrder>
           <ShowOpen>true</ShowOpen>
           <ShowHigh>true</ShowHigh>
           <ShowLow>true</ShowLow>
@@ -714,7 +714,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30015</ZOrder>
+          <ZOrder>30016</ZOrder>
           <ShowOpen>true</ShowOpen>
           <ShowHigh>true</ShowHigh>
           <PlotCurrentValue>false</PlotCurrentValue>
@@ -845,7 +845,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30014</ZOrder>
+          <ZOrder>30015</ZOrder>
           <SettingsSerializable>{"VolatileTrendLine":{"Period":5,"Multiplier":1.5,"OffsetTicks":10,"FlipStyle":1},"VolatileTrendLineFlip":{"RequirePredictorLine":true,"RequireMomentumPredictorLine":true},"MomentumPredictorFlip":{"MomentumLinePeriod":22,"NumConsecutiveBars":2,"Lookback":6},"Signals":{"Mode":0,"BreakoutTicks":2,"EnableSequential":true}}</SettingsSerializable>
           <Signals_Mode>InstantSignal</Signals_Mode>
           <Signals_BreakoutTicks>2</Signals_BreakoutTicks>
@@ -930,7 +930,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30009</ZOrder>
+          <ZOrder>30010</ZOrder>
           <Strength>5</Strength>
         </Swing>
       </Indicator>
@@ -1014,7 +1014,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30008</ZOrder>
+          <ZOrder>30009</ZOrder>
           <SettingsSerialized>{"volumeZone":70,"maxDaysData":25}</SettingsSerialized>
           <UserSettingsSerialized>{"showHistogram":true,"histogramColor":"DodgerBlue","histogramOpacity":13}</UserSettingsSerialized>
         </ICE>
@@ -1077,7 +1077,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30007</ZOrder>
+          <ZOrder>30008</ZOrder>
           <SettingsSerialized>{"eTicks":1,"xTicks":1,"reversalOffsetTicks":1}</SettingsSerialized>
           <UserSettingsSerialized>{"showETriggerPrice":false,"showReversalTriggerPrice":false,"colorBars":false,"enableVisualAlert_PotentialE":false,"enableAudioAlert_PotentialE":false,"enableWindowFlashAlert_PotentialE":false,"enableVisualAlert_ConfirmedE":false,"enableAudioAlert_ConfirmedE":false,"enableWindowFlashAlert_ConfirmedE":false,"style":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"ForestGreen","labelDownColor":"Red","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"reversalStyle":{"labelFont":"Arial, 16pt, style=Bold","oldLabelFont":"Arial, 8pt, style=Italic","labelUpColor":"PaleGreen","labelDownColor":"LightCoral","oldLabelUpColor":"Orange","oldLabelDownColor":"Orange"},"showOldPs":true,"labelOffsetInPixels":3,"powerlinePenUp":{"color":"Green","dashStyle":0,"width":1.0},"powerlinePenDown":{"color":"Red","dashStyle":0,"width":1.0},"activePowerlinePenUp":{"color":"Green","dashStyle":0,"width":2.0},"activePowerlinePenDown":{"color":"Red","dashStyle":0,"width":2.0}}</UserSettingsSerialized>
         </ApexPatternV2>
@@ -1162,7 +1162,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30006</ZOrder>
+          <ZOrder>30007</ZOrder>
           <SettingsSerialized>{"useFuturesVolumeForForex":true,"minuteBarSettings":{"periodLengthStyle":"AutoDetect","periodEndStyle":"Offset","periodLengthInMinutes":10,"periodOffsetInMinutes":0},"diagnosticBarSettings":{"periodEndStyle":"UseEndMinuteOfCurrentBar","periodLengthInMinutes":10,"periodOffsetInMinutes":0,"alertStyle":"PotentialAndConfirmed"},"dropSpikes":true,"dropZeros":false,"spikeFactor":2.0,"alertThreshold":1.0}</SettingsSerialized>
           <UserSettingsSerialized>{"expectedVolumePen":{"color":"Gold","dashStyle":0,"width":3.0},"alarmThresholdPen":{"color":"Black","dashStyle":1,"width":1.0},"actualVolumeColor":"LightSteelBlue","alertsVisualEnabled":false,"alertsAudibleEnabled":false,"alertsWindowFlashEnabled":false,"showVolumeLabels":true}</UserSettingsSerialized>
         </ExpectedVolume08>
@@ -1225,7 +1225,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30005</ZOrder>
+          <ZOrder>30006</ZOrder>
           <TimerPeriod>Minutes</TimerPeriod>
         </ApexDiagnosticBarTimer>
       </Indicator>
@@ -1298,7 +1298,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30003</ZOrder>
+          <ZOrder>30004</ZOrder>
           <Rever>5</Rever>
           <Prec>3</Prec>
           <ModeBStrength>22</ModeBStrength>
@@ -1386,7 +1386,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30004</ZOrder>
+          <ZOrder>30005</ZOrder>
           <Rever>5</Rever>
           <Prec>3</Prec>
           <ModeBStrength>22</ModeBStrength>
@@ -1546,7 +1546,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10002</ZOrder>
+          <ZOrder>30002</ZOrder>
           <RequireCloseBreakout>false</RequireCloseBreakout>
           <Span>4</Span>
           <Strength>4</Strength>
