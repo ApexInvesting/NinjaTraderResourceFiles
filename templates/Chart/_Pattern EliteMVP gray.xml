@@ -680,7 +680,7 @@
           <InstrumentsSerializable>YM 06-16 Globex|YM 06-16 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
@@ -825,7 +825,7 @@
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Deviation</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>

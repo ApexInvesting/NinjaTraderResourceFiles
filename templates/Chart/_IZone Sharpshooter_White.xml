@@ -225,7 +225,7 @@
           <InstrumentsSerializable>YM 06-17 Globex|YM 06-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>true</PaintPriceMarkers>

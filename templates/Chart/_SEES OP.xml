@@ -290,7 +290,7 @@
           <InstrumentsSerializable>NQ 12-17 Globex|NQ 12-17 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>

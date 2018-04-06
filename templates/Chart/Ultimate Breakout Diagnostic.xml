@@ -1,5 +1,5 @@
 <NinjaTrader>
-  <Version>7.0.1000.37</Version>
+  <Version>7.0.1000.38</Version>
   <Layout>
     <ChartData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <ActionColorSerialize>n:AntiqueWhite</ActionColorSerialize>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -163,7 +163,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10002</ZOrder>
+          <ZOrder>30002</ZOrder>
           <UpperLinePenSerializable>
             <Color>n:ActiveCaption</Color>
             <DashStyle>Solid</DashStyle>
@@ -221,10 +221,10 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex|GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex|NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
           <Name>A.P.E.X. Diagnostic Deviation Levels</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
@@ -248,7 +248,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30016</ZOrder>
+          <ZOrder>30014</ZOrder>
           <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
           <LabelAlignment>Left</LabelAlignment>
@@ -299,10 +299,10 @@
           <Displacement>0</Displacement>
           <DisplayInDataBox>true</DisplayInDataBox>
           <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
+          <Enabled>false</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -351,7 +351,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30010</ZOrder>
+          <ZOrder>30013</ZOrder>
           <SettingsSerialized>{"volumeZone":70,"maxDaysData":25}</SettingsSerialized>
           <UserSettingsSerialized>{"showHistogram":false,"histogramColor":"DodgerBlue","histogramOpacity":13}</UserSettingsSerialized>
         </ICE>
@@ -387,7 +387,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -414,7 +414,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10003</ZOrder>
+          <ZOrder>30003</ZOrder>
           <ShowLines>true</ShowLines>
           <ShowFibs>true</ShowFibs>
           <ShowChannels>true</ShowChannels>
@@ -453,7 +453,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -491,7 +491,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10004</ZOrder>
+          <ZOrder>30004</ZOrder>
           <Rever>5</Rever>
           <Prec>3</Prec>
           <ModeBStrength>22</ModeBStrength>
@@ -541,7 +541,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -550,7 +550,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>1519.4</Value>
+              <Value>6526</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -578,7 +578,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10005</ZOrder>
+          <ZOrder>30005</ZOrder>
           <ShowPriceLabel>true</ShowPriceLabel>
         </ApexDiagnosticCurrentPrice>
       </Indicator>
@@ -613,7 +613,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -640,7 +640,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10007</ZOrder>
+          <ZOrder>30006</ZOrder>
           <Price>6698</Price>
           <ShowTriggerLine>true</ShowTriggerLine>
         </ApexDiagnosticPriceAlert>
@@ -676,7 +676,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -703,7 +703,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10008</ZOrder>
+          <ZOrder>30007</ZOrder>
           <Price>6688</Price>
           <ShowTriggerLine>true</ShowTriggerLine>
         </ApexDiagnosticPriceAlert>
@@ -739,7 +739,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>GC 06-18 Nymex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-18 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -766,7 +766,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10009</ZOrder>
+          <ZOrder>30008</ZOrder>
           <TimerPeriod>Minutes</TimerPeriod>
         </ApexDiagnosticBarTimer>
       </Indicator>
@@ -782,8 +782,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1531.1506</FixedPanelMaxRight>
-      <FixedPanelMinRight>1512.0494</FixedPanelMinRight>
+      <FixedPanelMaxRight>6541.9214</FixedPanelMaxRight>
+      <FixedPanelMinRight>6516.0786</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -792,8 +792,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>0.103</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-0.003</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>0.2575</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-0.0075</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
@@ -802,8 +802,8 @@
       <AutoScaleMarginTypeOver>Percent</AutoScaleMarginTypeOver>
       <AutoScaleMarginUpperOver>3</AutoScaleMarginUpperOver>
       <YAxisRangeTypeOver>Automatic</YAxisRangeTypeOver>
-      <FixedPanelMaxOver>0.103</FixedPanelMaxOver>
-      <FixedPanelMinOver>-0.003</FixedPanelMinOver>
+      <FixedPanelMaxOver>0.2575</FixedPanelMaxOver>
+      <FixedPanelMinOver>-0.0075</FixedPanelMinOver>
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
@@ -815,8 +815,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>21625.33</FixedPanelMaxRight>
-      <FixedPanelMinRight>-8543.33</FixedPanelMinRight>
+      <FixedPanelMaxRight>1006.8982</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1463.8982</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -848,8 +848,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>16.10400206</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.93730206</FixedPanelMinRight>
+      <FixedPanelMaxRight>8.4944</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.4944</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
