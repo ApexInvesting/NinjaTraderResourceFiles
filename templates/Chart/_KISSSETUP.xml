@@ -236,7 +236,6 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30008</ZOrder>
-          <DebugBar>0</DebugBar>
           <BarStyle>Candle</BarStyle>
           <Candle_UpColor_Serializable>-16744448</Candle_UpColor_Serializable>
           <Candle_DownColor_Serializable>-65536</Candle_DownColor_Serializable>
@@ -313,7 +312,6 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30010</ZOrder>
-          <DebugBar>0</DebugBar>
           <UpperLinePenSerializable>
             <Color>n:ActiveCaption</Color>
             <DashStyle>Solid</DashStyle>
@@ -455,7 +453,6 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>9001</ZOrder>
-          <DebugBar>0</DebugBar>
           <Period>14</Period>
           <PeriodBack>2</PeriodBack>
           <ShowBrokenZones>true</ShowBrokenZones>
@@ -540,7 +537,6 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30007</ZOrder>
-          <DebugBar>0</DebugBar>
           <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
           <LabelAlignment>Left</LabelAlignment>
@@ -709,7 +705,6 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30005</ZOrder>
-          <DebugBar>0</DebugBar>
           <SettingsSerialized>{"volumeZone":70,"maxDaysData":5}</SettingsSerialized>
           <UserSettingsSerialized>{"showHistogram":false,"histogramColor":"DodgerBlue","histogramOpacity":40}</UserSettingsSerialized>
         </ICE>
