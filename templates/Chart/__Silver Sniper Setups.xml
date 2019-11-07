@@ -124,7 +124,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -201,7 +201,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -284,7 +284,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -350,7 +350,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -422,7 +422,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -515,7 +515,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -600,7 +600,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -700,7 +700,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -763,7 +763,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -826,7 +826,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -889,7 +889,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -959,7 +959,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1055,7 +1055,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1111,6 +1111,92 @@
         </ApexBarRange02>
       </Indicator>
     </Indicator12>
+    <Indicator13>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticEconomicNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>12</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic News</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>2147483647</ZOrder>
+          <TopOffset>20</TopOffset>
+          <LeftOffset>10</LeftOffset>
+          <ShowBackground>true</ShowBackground>
+          <MaxNewsItems>10</MaxNewsItems>
+          <NewsRefeshInterval>15</NewsRefeshInterval>
+          <Use24HourTimeFormat>false</Use24HourTimeFormat>
+          <Debug>false</Debug>
+          <TodaysNewsOnly>true</TodaysNewsOnly>
+          <UseAlerts>true</UseAlerts>
+          <WarningInterval>15</WarningInterval>
+          <AlertWavFileName>Alert1.wav</AlertWavFileName>
+          <HeaderFontSerialize>Arial:1:True:False:False:False</HeaderFontSerialize>
+          <DefaultFontSerialize>Arial:10:False:False:False:False</DefaultFontSerialize>
+          <WarningFontSerialize>Arial:10:True:True:False:False</WarningFontSerialize>
+          <ffNewsUrl>http://cdn-nfs.faireconomy.media/ff_calendar_thisweek.xml</ffNewsUrl>
+          <USOnlyEvents>false</USOnlyEvents>
+          <ShowLowPriority>true</ShowLowPriority>
+          <HeaderColorSerialize>n:Black</HeaderColorSerialize>
+          <HighPriorityColorSerialize>n:Red</HighPriorityColorSerialize>
+          <MediumPriorityColorSerialize>n:Yellow</MediumPriorityColorSerialize>
+          <LowPriorityColorSerialize>n:GreenYellow</LowPriorityColorSerialize>
+          <NormalColorSerialize>n:LightSkyBlue</NormalColorSerialize>
+          <BackgroundColorSerialize>n:Black</BackgroundColorSerialize>
+          <BorderColorSerialize>n:SlateBlue</BorderColorSerialize>
+          <BackgroundOpacity>255</BackgroundOpacity>
+        </ApexDiagnosticEconomicNews>
+      </Indicator>
+    </Indicator13>
   </Indicators>
   <Panels>
     <Panel0>
@@ -1122,8 +1208,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>8230.92005315789</FixedPanelMaxRight>
-      <FixedPanelMinRight>8198.42731526316</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.2575</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0075</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1155,8 +1241,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2.3130744576619</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.134627991602473</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1188,8 +1274,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>20987.80425</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1221.55425</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
