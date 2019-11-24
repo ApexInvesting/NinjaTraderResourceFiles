@@ -245,9 +245,9 @@
       <AutoScaleMarginLowerRight>3</AutoScaleMarginLowerRight>
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
-      <YAxisRangeTypeRight>Fixed</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>8426.24427818007</FixedPanelMaxRight>
-      <FixedPanelMinRight>8225.80635473132</FixedPanelMinRight>
+      <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
+      <FixedPanelMaxRight>0.2575</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0075</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
