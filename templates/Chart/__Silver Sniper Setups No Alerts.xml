@@ -7,7 +7,7 @@
       <AlwaysOnTop>false</AlwaysOnTop>
       <AxisColorSerialize>n:ActiveCaption</AxisColorSerialize>
       <BackColorSerialize>n:DarkSlateGray</BackColorSerialize>
-      <BarMarginRight>75</BarMarginRight>
+      <BarMarginRight>125</BarMarginRight>
       <BarSpaceIntern>17.650598476449222</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
       <ChartCursor>CrossHair</ChartCursor>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -163,7 +163,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30019</ZOrder>
+          <ZOrder>30013</ZOrder>
           <RequireCloseBreakout>false</RequireCloseBreakout>
           <Span>4</Span>
           <Strength>4</Strength>
@@ -233,7 +233,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex|NQ 12-19 Globex|NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex|NQ 03-20 Globex|NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -261,8 +261,8 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVUcmFwcGVkT3JkZXJzQWxlcnRzIjpmYWxzZX0sImxlYWRpbmdWb2x1bWVzIjp7Im1pblZvbHVtZSI6MTAsIm1pbkxldmVscyI6M30sImJsb2NrT3JkZXJTZXR0aW5ncyI6eyJibG9ja1NpemUiOjUwfSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJzaG93TFZTRGlhbW9uZCI6ZmFsc2UsImx2c1RocmVzaG9sZCI6MTIsImVuYWJsZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVMVlNBbGVydHMiOmZhbHNlLCJlbmFibGVBbGVydHMiOmZhbHNlLCJlbmFibGVMaXZlQWxlcnRzIjpmYWxzZX0sImFic29ycHRpb24iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMH0sIm1pbmlNYWduZXRzIjp7Im1pbmltdW1Wb2x1bWUiOjEsInRocmVzaG9sZCI6MSwiZGF5c1RvU2hvdyI6NSwiY2FsY3VsYXRlT25CYXJDbG9zZSI6ZmFsc2UsImFsbG93Qm90aEVuZHNMaXZlIjp0cnVlLCJlbmFibGVNTUFsZXJ0cyI6ZmFsc2UsImVuYWJsZU9uWk9JQWxlcnRzIjpmYWxzZSwib25aT0lCdWZmZXIiOjAsImVuYWJsZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVNaW5pTWFnbmV0c1dpdGhQYXdBbGVydHMiOmZhbHNlfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwidm9sdW1lU2NvcmVTZXR0aW5ncyI6eyJhbGVydFRocmVzaG9sZCI6MTAwMH0sImRhdGFQZXJzaXN0ZW5jZVNldHRpbmdzIjp7ImxvYWREYXRhIjp0cnVlLCJzYXZlRGF0YSI6dHJ1ZX19</SettingsSerialized>
-          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOnRydWUsInVwcGVyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJCb3JkZXJDb2xvciI6eyJjb2xvciI6IkRhcmtPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJzaG93UGF3TGluZSI6dHJ1ZSwidXBwZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJyb2tlblVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiVG9tYXRvIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYnJva2VuTG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJMaW1lIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5XaWR0aFRvRXhwYW5kIjoyNSwibGluZU9wYWNpdHkiOjEwMCwiZGF5c1RvU2hvd1Bhc3RCcm9rZW5EYXRlIjo1LCJicm9rZW5MaW5lT3BhY2l0eSI6MTAwfSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IlNlYUdyZWVuIiwiYmlkQ29sb3IiOiJEYXJrUmVkIiwid2Vha0NvbG9yIjoiRGltR3JheSIsInNob3dXZWFrSW1iYWxhbmNlcyI6ZmFsc2V9LCJiYWxhbmNlZFZvbHVtZSI6eyJzaG93IjpmYWxzZSwiY29sb3IiOiJCbGFjayJ9LCJ6b25lT2ZJbnRlcmVzdCI6eyJzaG93Ijp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiZG93bkNvbG9yIjoiTWVkaXVtT3JjaGlkIiwidXBDb2xvciI6IkRhcmtUdXJxdW9pc2UiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NDB9LCJleGhhdXN0aW9uIjp7InNob3ciOnRydWUsInRvcExpbmVTdHlsZSI6eyJjb2xvciI6IkZpcmVicmljayIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjMuMH0sImJvdHRvbUxpbmVTdHlsZSI6eyJjb2xvciI6WzI1NSwwLDY0LDBdLCJkYXNoU3R5bGUiOjAsIndpZHRoIjozLjB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXdWb2x1bWVBY2NlbGVydGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvblBvc2l0aXZlQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJpY29uTmVnYXRpdmVDb2xvciI6IlJlZCIsImljb25EaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJpY29uQmFja2dyb3VuZENvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJ0b3RhbFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidHJhcHBlZE9yZGVycyI6eyJzaG93Ijp0cnVlLCJoaWdobGlnaHRDb2xvciI6IkRvZGdlckJsdWUiLCJmb250Q29sb3IiOiJCbGFjayIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidHJhcHBlZE9yZGVyc1dpdGhFeGhhdXN0aW9uQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiV2hpdGUiLCJoaWdobGlnaHRCbG9ja3MiOnRydWUsImJpZENvbG9yIjoiUmVkIiwiYXNrQ29sb3IiOiJMaW1lR3JlZW4iLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImNvbG9yIjoiRGFya1NhbG1vbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjQuMH0sImFza0xpbmVTdHlsZSI6eyJjb2xvciI6Ikxhd25HcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjQuMH0sImRheXNUb1Nob3dVbmJyb2tlbiI6MSwibGluZU9wYWNpdHkiOjEwMH0sImJsb2NrTmV0Vm9sdW1lIjp7InNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZGl2ZXJnZW5jZUZvbnRDb2xvciI6IldoaXRlIiwic2hvd0Jsb2NrTmV0VG90YWwiOmZhbHNlLCJuZXRWb2x1bWVGb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQiLCJuZXRWb2x1bWVQb3NpdGl2ZUZvbnRDb2xvciI6IldoaXRlIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsInBvc2l0aXZlQ29sb3IiOiJHcmVlbiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sIm5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiUmVkIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sIm1vbWVudHVtIjp7InNob3dNb21lbnR1bSI6dHJ1ZSwidXBDb2xvciI6IkdyZWVuIiwiZG93bkNvbG9yIjoiUmVkIiwiaWNvblVwQ29sb3IiOiJXaGl0ZSIsImljb25Eb3duQ29sb3IiOiJXaGl0ZSIsIm1vbWVudHVtQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6MX0sImFic29ycHRpb24iOnsic2hvdyI6ZmFsc2UsInVwQ29sb3IiOiJEYXJrT2xpdmVHcmVlbiIsImRvd25Db2xvciI6Ik1hcm9vbiIsImljb25VcENvbG9yIjoiQmxhY2siLCJpY29uRG93bkNvbG9yIjoiQmxhY2siLCJhYnNvcnB0aW9uQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6MX0sIm1pbmlNYWduZXRzIjp7ImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJzaG93Ijp0cnVlLCJtb25kYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpbmVuIiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ0dWVzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaW5lbiIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwid2VkbmVzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaW5lbiIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwidGh1cnNkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpbmVuIiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJmcmlkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpbmVuIiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImxpdmVBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm1pbmlNYWduZXRzd2l0aFBhd0FsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImxlYWRpbmdWb2x1bWUiOnsic2hvdyI6ZmFsc2UsImNvbG9yIjoiRG9kZ2VyQmx1ZSIsImZvbnRDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibmV0Vm9sdW1lIjp7InNob3ciOmZhbHNlLCJwb3NpdGl2ZUJhY2tncm91bmRDb2xvciI6IkRhcmtTZWFHcmVlbiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sIm5lZ2F0aXZlQmFja2dyb3VuZENvbG9yIjoiRmlyZWJyaWNrIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkZpcmVicmljayIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sInBvc2l0aXZlVGV4dENvbG9yIjoiV2hpdGUiLCJuZWdhdGl2ZVRleHRDb2xvciI6IldoaXRlIiwiZm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQmFja2dyb3VuZENvbG9yIjoiT3JhbmdlIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZGl2ZXJnZW5jZVRleHRDb2xvciI6IldoaXRlIn0sInRvdGFsVm9sdW1lIjp7InNob3ciOmZhbHNlLCJ0ZXh0Q29sb3IiOiJEYXJrR29sZGVucm9kIiwiYmFja2dyb3VuZENvbG9yIjoiV2hpdGVTbW9rZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCJ9LCJiYXJDb250cm9sIjp7InNob3dCYXJPdXRsaW5lIjpmYWxzZSwic2hvd0xpbmVzIjpmYWxzZSwic2hvd0dyYWRpZW50IjpmYWxzZSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudFN0YXJ0IjpbMjU1LDIxOSwyMzAsMjE5XSwidm9sdW1lUG9zaXRpdmVHcmFkaWVudEVuZCI6IkRhcmtTZWFHcmVlbiIsInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyNTUsMjQ3LDI0Ml0sInZvbHVtZU5lZ2F0aXZlR3JhZGllbnRFbmQiOiJSb3N5QnJvd24iLCJiYXJDb2xvclVwIjoiRGFya1NlYUdyZWVuIiwiYmFyQ29sb3JEb3duIjoiUm9zeUJyb3duIiwic2hvd1ZvbHVtZXMiOmZhbHNlLCJ2b2x1bWVGb250IjoiQXJpYWwsIDE0LjI1cHQsIHN0eWxlPUJvbGQiLCJiYXJXaWR0aEZhY3RvciI6NzB9LCJ2b2x1bWVDb250cm9sIjp7IkdyYWRpZW50U3RhcnQiOiJTaWx2ZXIiLCJHcmFkaWVudEVuZCI6IkRpbUdyYXkiLCJTaG93IjpmYWxzZSwiR3JhZGllbnRPcGFjaXR5IjoxMDB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7InNob3ciOnRydWUsInNob3dCb3JkZXIiOnRydWUsImZpbGxDb2xvciI6IlllbGxvdyIsImJvcmRlckNvbG9yIjp7ImNvbG9yIjoiWWVsbG93IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6NS4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5DbHVzdGVyV2lkdGhUb0V4cGFuZCI6MjV9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmREaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJpY29uRm9yZUNvbG9yIjoiV2hpdGUifSwidHJhZGluZ1NjaGVkdWxlQmFja2dyb3VuZENvbG9yaW5nIjp7InNob3ciOmZhbHNlLCJ0cmFkaW5nU2NoZWR1bGUiOnsiSXRlbXMiOlt7IlN0YXJ0RW50ZXJpbmciOjAsIlN0b3BFbnRlcmluZyI6MTAwODAsIkZsYXR0ZW5Qb3NpdGlvbnMiOm51bGx9XSwiRGlzcGxheU5hbWUiOiJDdXN0b20gdW5zYXZlZCBzY2hlZHVsZSJ9LCJjYW5PcGVuUG9zaXRpb25Db2xvciI6IldoaXRlIiwiY2FuSG9sZFBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsIm11c3RGbGF0dGVuQ29sb3IiOiJEYXJrR3JheSJ9LCJ2b2x1bWVTY29yZSI6eyJzaG93Ijp0cnVlLCJ1cFN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IlRyYW5zcGFyZW50IiwidGV4dENvbG9yIjoiTGlnaHRHcmF5IiwiYm9yZGVyUGVuIjp7ImNvbG9yIjoiVHJhbnNwYXJlbnQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwiZG93blN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IlRyYW5zcGFyZW50IiwidGV4dENvbG9yIjoiTGlnaHRHcmF5IiwiYm9yZGVyUGVuIjp7ImNvbG9yIjoiVHJhbnNwYXJlbnQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwiZGl2ZXJnZW50U3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJPcmFuZ2UiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJmb250QXV0b1NjYWxlIjpmYWxzZSwiZm9udCI6IkFyaWFsLCA5Ljc1cHQiLCJ2ZXJ0aWNhbE9mZnNldCI6MCwiaGVhZHNVcGxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJjb25maXJtZWRsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX19</UserSettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVUcmFwcGVkT3JkZXJzQWxlcnRzIjpmYWxzZSwicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsInNob3dMVlNEaWFtb25kIjpmYWxzZSwibHZzVGhyZXNob2xkIjoxMiwiZW5hYmxlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVBbGVydHMiOmZhbHNlfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJkYXlzVG9TaG93Ijo1LCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiYWxsb3dCb3RoRW5kc0xpdmUiOnRydWUsImVuYWJsZU1NQWxlcnRzIjpmYWxzZSwiZW5hYmxlT25aT0lBbGVydHMiOmZhbHNlLCJvblpPSUJ1ZmZlciI6MCwiZW5hYmxlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2V9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJ2b2x1bWVTY29yZVNldHRpbmdzIjp7ImFsZXJ0VGhyZXNob2xkIjoxMDAwfSwiZGF0YVBlcnNpc3RlbmNlU2V0dGluZ3MiOnsibG9hZERhdGEiOnRydWUsInNhdmVEYXRhIjp0cnVlfX0=</SettingsSerialized>
+          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOnRydWUsInVwcGVyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJCb3JkZXJDb2xvciI6eyJjb2xvciI6IkRhcmtPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJzaG93UGF3TGluZSI6dHJ1ZSwidXBwZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJyb2tlblVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiVG9tYXRvIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYnJva2VuTG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJMaW1lIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5XaWR0aFRvRXhwYW5kIjoyNSwibGluZU9wYWNpdHkiOjEwMCwiZGF5c1RvU2hvd1Bhc3RCcm9rZW5EYXRlIjo1LCJicm9rZW5MaW5lT3BhY2l0eSI6MTAwfSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IlNlYUdyZWVuIiwiYmlkQ29sb3IiOiJEYXJrUmVkIiwid2Vha0NvbG9yIjoiRGltR3JheSIsInNob3dXZWFrSW1iYWxhbmNlcyI6ZmFsc2V9LCJiYWxhbmNlZFZvbHVtZSI6eyJzaG93IjpmYWxzZSwiY29sb3IiOiJCbGFjayJ9LCJ6b25lT2ZJbnRlcmVzdCI6eyJzaG93Ijp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiZG93bkNvbG9yIjoiTWVkaXVtT3JjaGlkIiwidXBDb2xvciI6IkRhcmtUdXJxdW9pc2UiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm9wYWNpdHkiOjkwLCJicm9rZW5PcGFjaXR5Ijo0MH0sImV4aGF1c3Rpb24iOnsic2hvdyI6dHJ1ZSwidG9wTGluZVN0eWxlIjp7ImNvbG9yIjoiUmVkIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYm90dG9tTGluZVN0eWxlIjp7ImNvbG9yIjoiTGlnaHRHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ld1ZvbHVtZUFjY2VsZXJ0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uUG9zaXRpdmVDb2xvciI6IkRhcmtTZWFHcmVlbiIsImljb25OZWdhdGl2ZUNvbG9yIjoiUmVkIiwiaWNvbkRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25CYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uRm9yZUNvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsInNob3dCb3JkZXIiOnRydWUsImhpZ2hsaWdodENvbG9yIjoiRG9kZ2VyQmx1ZSIsImZvbnRDb2xvciI6IkJsYWNrIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzV2l0aEV4aGF1c3Rpb25BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImJvcmRlckNvbG9yIjp7ImNvbG9yIjoiRGVlcFNreUJsdWUiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjo4LjB9LCJtaW5XaWR0aFRvRXhwYW5kIjozfSwiYmxvY2tPcmRlcnMiOnsic2hvdyI6dHJ1ZSwiZm9udENvbG9yIjoiV2hpdGUiLCJoaWdobGlnaHRCbG9ja3MiOnRydWUsImJpZENvbG9yIjoiUmVkIiwiYXNrQ29sb3IiOiJMaW1lR3JlZW4iLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImNvbG9yIjoiUmVkIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6NC4wfSwiYXNrTGluZVN0eWxlIjp7ImNvbG9yIjoiTGF3bkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6NC4wfSwiZGF5c1RvU2hvd1VuYnJva2VuIjoxLCJsaW5lT3BhY2l0eSI6MTAwfSwiYmxvY2tOZXRWb2x1bWUiOnsic2hvd0RpdmVyZ2VuY2UiOmZhbHNlLCJkaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkaXZlcmdlbmNlRm9udENvbG9yIjoiV2hpdGUiLCJzaG93QmxvY2tOZXRUb3RhbCI6ZmFsc2UsIm5ldFZvbHVtZUZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsIm5ldFZvbHVtZVBvc2l0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJuZXRWb2x1bWVOZWdhdGl2ZUZvbnRDb2xvciI6IldoaXRlIiwicG9zaXRpdmVDb2xvciI6IkdyZWVuIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibmVnYXRpdmVDb2xvciI6IlJlZCIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwibW9tZW50dW0iOnsic2hvd01vbWVudHVtIjp0cnVlLCJ1cENvbG9yIjoiR3JlZW4iLCJkb3duQ29sb3IiOiJSZWQiLCJpY29uVXBDb2xvciI6IldoaXRlIiwiaWNvbkRvd25Db2xvciI6IldoaXRlIiwibW9tZW50dW1BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoxfSwiYWJzb3JwdGlvbiI6eyJzaG93IjpmYWxzZSwidXBDb2xvciI6IkRhcmtPbGl2ZUdyZWVuIiwiZG93bkNvbG9yIjoiTWFyb29uIiwiaWNvblVwQ29sb3IiOiJCbGFjayIsImljb25Eb3duQ29sb3IiOiJCbGFjayIsImFic29ycHRpb25BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoxfSwibWluaU1hZ25ldHMiOnsiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsInNob3ciOnRydWUsIm1vbmRheVNldHRpbmdzIjp7ImNvbG9yIjoiTGluZW4iLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sInR1ZXNkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpbmVuIiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ3ZWRuZXNkYXlTZXR0aW5ncyI6eyJjb2xvciI6IkxpbmVuIiwiYnJva2VuQ29sb3IiOiJMaW5lbiIsInNob3ciOnRydWUsIm9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJ0aHVyc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGluZW4iLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sImZyaWRheVNldHRpbmdzIjp7ImNvbG9yIjoiTGluZW4iLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibWluaU1hZ25ldHN3aXRoUGF3QWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibGVhZGluZ1ZvbHVtZSI6eyJzaG93Ijp0cnVlLCJjb2xvciI6IkxpZ2h0U2xhdGVHcmF5IiwiZm9udENvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInBvc2l0aXZlQmFja2dyb3VuZENvbG9yIjoiRGFya1NlYUdyZWVuIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibmVnYXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJGaXJlYnJpY2siLCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiRmlyZWJyaWNrIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwicG9zaXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsIm5lZ2F0aXZlVGV4dENvbG9yIjoiV2hpdGUiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQiLCJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VCYWNrZ3JvdW5kQ29sb3IiOiJPcmFuZ2UiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiV2hpdGUifSwidG90YWxWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInRleHRDb2xvciI6IkRhcmtHb2xkZW5yb2QiLCJiYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZVNtb2tlIiwiZm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIn0sImJhckNvbnRyb2wiOnsic2hvd0Jhck91dGxpbmUiOmZhbHNlLCJzaG93TGluZXMiOmZhbHNlLCJzaG93R3JhZGllbnQiOmZhbHNlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjE5LDIzMCwyMTldLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiRGFya1NlYUdyZWVuIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjpbMjU1LDI1NSwyNDcsMjQyXSwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IlJvc3lCcm93biIsImJhckNvbG9yVXAiOiJEYXJrU2VhR3JlZW4iLCJiYXJDb2xvckRvd24iOiJSb3N5QnJvd24iLCJzaG93Vm9sdW1lcyI6ZmFsc2UsInZvbHVtZUZvbnQiOiJBcmlhbCwgMTQuMjVwdCwgc3R5bGU9Qm9sZCIsImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IlNpbHZlciIsIkdyYWRpZW50RW5kIjoiRGltR3JheSIsIlNob3ciOmZhbHNlLCJHcmFkaWVudE9wYWNpdHkiOjEwMH0sImJpZ1ZvbHVtZUNsdXN0ZXIiOnsic2hvdyI6dHJ1ZSwic2hvd0JvcmRlciI6dHJ1ZSwiZmlsbENvbG9yIjoiWWVsbG93IiwiYm9yZGVyQ29sb3IiOnsiY29sb3IiOiJZZWxsb3ciLCJkYXNoU3R5bGUiOjAsIndpZHRoIjo1LjB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImxpdmVBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSJ9LCJ0cmFkaW5nU2NoZWR1bGVCYWNrZ3JvdW5kQ29sb3JpbmciOnsic2hvdyI6ZmFsc2UsInRyYWRpbmdTY2hlZHVsZSI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sImNhbk9wZW5Qb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJjYW5Ib2xkUG9zaXRpb25Db2xvciI6IldoaXRlIiwibXVzdEZsYXR0ZW5Db2xvciI6IkRhcmtHcmF5In0sInZvbHVtZVNjb3JlIjp7InNob3ciOnRydWUsInVwU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkb3duU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkaXZlcmdlbnRTdHlsZSI6eyJiYWNrZ3JvdW5kQ29sb3IiOiJUcmFuc3BhcmVudCIsInRleHRDb2xvciI6Ik9yYW5nZSIsImJvcmRlclBlbiI6eyJjb2xvciI6IlRyYW5zcGFyZW50IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sImZvbnRBdXRvU2NhbGUiOmZhbHNlLCJmb250IjoiQXJpYWwsIDkuNzVwdCIsInZlcnRpY2FsT2Zmc2V0IjowLCJoZWFkc1VwbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZGxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fX0=</UserSettingsSerialized>
         </OrderPrintsIndicator>
       </Indicator>
     </Indicator1>
@@ -296,7 +296,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -323,7 +323,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30022</ZOrder>
+          <ZOrder>30015</ZOrder>
           <ShowLines>true</ShowLines>
           <ShowFibs>true</ShowFibs>
           <ShowChannels>true</ShowChannels>
@@ -362,7 +362,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -371,7 +371,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>8361.25</Value>
+              <Value>9261.75</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -399,8 +399,8 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30020</ZOrder>
-          <ShowPriceLabel>true</ShowPriceLabel>
+          <ZOrder>30014</ZOrder>
+          <ShowPriceLabel>false</ShowPriceLabel>
         </ApexDiagnosticCurrentPrice>
       </Indicator>
     </Indicator3>
@@ -444,7 +444,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex|NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex|NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -471,7 +471,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30018</ZOrder>
+          <ZOrder>30012</ZOrder>
           <SettingsSerializable>{"MultiplierForAverageDeviation":1.0,"AlertsEnableVisual":false,"AlertsEnableAudio":false}</SettingsSerializable>
           <ShowLabels>true</ShowLabels>
           <LabelAlignment>Left</LabelAlignment>
@@ -527,7 +527,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -576,7 +576,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30015</ZOrder>
+          <ZOrder>30011</ZOrder>
           <SettingsSerialized>{"volumeZone":70,"maxDaysData":5}</SettingsSerialized>
           <UserSettingsSerialized>{"showHistogram":true,"histogramColor":"DodgerBlue","histogramOpacity":13}</UserSettingsSerialized>
         </ICE>
@@ -612,7 +612,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>0</Name>
@@ -666,7 +666,7 @@
               <PenSerializable>
                 <Color>n:Black</Color>
                 <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
+                <Width>17</Width>
               </PenSerializable>
               <PlotStyle>Bar</PlotStyle>
             </Plot>
@@ -676,9 +676,9 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30014</ZOrder>
+          <ZOrder>30010</ZOrder>
           <SettingsSerialized>{"strength":22,"level1":1.17,"level2":1.5}</SettingsSerialized>
-          <UserSettingsSerialized>{"upColor":"LimeGreen","downColor":"Red","autoBarWidth":false,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
+          <UserSettingsSerialized>{"upColor":"LimeGreen","downColor":"Red","autoBarWidth":true,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
         </DiagnosticReversal>
       </Indicator>
     </Indicator6>
@@ -712,7 +712,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -739,7 +739,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30010</ZOrder>
+          <ZOrder>30007</ZOrder>
           <SettingsSerializable>eyJzdWJncmFwaFNldHRpbmdzIjp7ImxvZ2ljIjowLCJtb2RlMVBlcmlvZCI6MTQsIm1vZGUyUGVyaW9kIjoxNH0sInJlZ3VsYXJEaXZlcmdlbmNlRW5hYmxlZCI6dHJ1ZSwiaGlkZGVuRGl2ZXJnZW5jZUVuYWJsZWQiOnRydWV9</SettingsSerializable>
           <UserSettingsSerializable>eyJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInJlZ3VsYXJEaXZlcmdlbmNlSWNvbkNvbG9yIjoiWWVsbG93IiwiaGlkZGVuRGl2ZXJnZW5jZUljb25Db2xvciI6IlllbGxvdyIsInN5bWJvbFNpemVQaXhlbHMiOjEwLCJzeW1ib2xQb3NpdGlvbk9mZnNldFRpY2tzIjozfQ==</UserSettingsSerializable>
         </ApexDivergenceWarningIcons>
@@ -775,7 +775,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -802,7 +802,7 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30011</ZOrder>
+          <ZOrder>30008</ZOrder>
           <SettingsSerialized>eyJpbnB1dE1vZGUiOjB9</SettingsSerialized>
           <UserSettingsSerialized>eyJzeW1ib2xDb2xvciI6Ik9yYW5nZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwic3ltYm9sU2l6ZVBpeGVscyI6MTAsInN5bWJvbFBvc2l0aW9uT2Zmc2V0VGlja3MiOjZ9</UserSettingsSerialized>
         </HiddenDivergenceIndicator>
@@ -817,7 +817,7 @@
       <Indicator>
         <HiddenDivergenceIndicator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
+          <AutoScale>true</AutoScale>
           <BarsPeriods>
             <Period>
               <BasePeriodType>Tick</BasePeriodType>
@@ -838,7 +838,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -865,83 +865,13 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30012</ZOrder>
+          <ZOrder>30009</ZOrder>
           <SettingsSerialized>eyJpbnB1dE1vZGUiOjJ9</SettingsSerialized>
           <UserSettingsSerialized>eyJzeW1ib2xDb2xvciI6IkxpbWVHcmVlbiIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwic3ltYm9sU2l6ZVBpeGVscyI6MTAsInN5bWJvbFBvc2l0aW9uT2Zmc2V0VGlja3MiOjl9</UserSettingsSerialized>
         </HiddenDivergenceIndicator>
       </Indicator>
     </Indicator9>
     <Indicator10>
-      <ClassName>NinjaTrader.Indicator.FluxPivotLevel</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <FluxPivotLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>100</BasePeriodValue>
-              <Id>Custom8</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
-              <Value2>50</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic Flux Pivot Levels</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30013</ZOrder>
-          <MaxLevels>3</MaxLevels>
-          <MaxLookBackBars>200</MaxLookBackBars>
-          <PivotStrength>5</PivotStrength>
-          <PivotTickDiff>10</PivotTickDiff>
-          <ZoneTickSize>2</ZoneTickSize>
-          <ColorBelow />
-          <ColorBelowSerialize>n:Blue</ColorBelowSerialize>
-          <ColorAbove />
-          <ColorAboveSerialize>n:Red</ColorAboveSerialize>
-        </FluxPivotLevel>
-      </Indicator>
-    </Indicator10>
-    <Indicator11>
       <ClassName>NinjaTrader.Indicator.ExpectedVolume09</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -971,7 +901,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1031,13 +961,13 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30009</ZOrder>
-          <SettingsSerialized>{"useFuturesVolumeForForex":true,"minuteBarSettings":{"periodLengthStyle":"AutoDetect","periodEndStyle":"Offset","periodLengthInMinutes":10,"periodOffsetInMinutes":0},"diagnosticBarSettings":{"periodEndStyle":"UseEndMinuteOfCurrentBar","periodLengthInMinutes":10,"periodOffsetInMinutes":0,"alertStyle":"PotentialAndConfirmed"},"dropSpikes":true,"dropZeros":false,"spikeFactor":2.0,"alertThreshold":0.75,"alertThreshold2":1.25}</SettingsSerialized>
+          <ZOrder>30006</ZOrder>
+          <SettingsSerialized>{"useFuturesVolumeForForex":true,"minuteBarSettings":{"periodLengthStyle":"AutoDetect","periodEndStyle":"Offset","periodLengthInMinutes":10,"periodOffsetInMinutes":0},"diagnosticBarSettings":{"periodEndStyle":"UseEndMinuteOfCurrentBar","periodLengthInMinutes":10,"periodOffsetInMinutes":0,"alertStyle":"PotentialAndConfirmed"},"dropSpikes":true,"dropZeros":false,"spikeFactor":2.0,"alertThreshold":0.75,"alertThreshold2":1.25,"displayAsPercentage":false}</SettingsSerialized>
           <UserSettingsSerialized>{"expectedVolumePen":{"color":"Gold","dashStyle":0,"width":3.0},"alarmThresholdPen":{"color":"Black","dashStyle":1,"width":1.0},"actualVolumeColor":"LightSteelBlue","alertsVisualEnabled":false,"alertsAudibleEnabled":false,"alertsWindowFlashEnabled":false,"alertsVisualEnabled2":false,"alertsAudibleEnabled2":false,"alertsWindowFlashEnabled2":false,"showVolumeLabels":true}</UserSettingsSerialized>
         </ExpectedVolume09>
       </Indicator>
-    </Indicator11>
-    <Indicator12>
+    </Indicator10>
+    <Indicator11>
       <ClassName>NinjaTrader.Indicator.ApexBarRange02</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1067,7 +997,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1105,13 +1035,13 @@
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>10002</ZOrder>
+          <ZOrder>30003</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MX0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoxMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJNZWRpdW1TZWFHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjEwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
-    </Indicator12>
-    <Indicator13>
+    </Indicator11>
+    <Indicator12>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1141,7 +1071,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1176,7 +1106,6 @@
           <NewsRefeshInterval>15</NewsRefeshInterval>
           <Use24HourTimeFormat>false</Use24HourTimeFormat>
           <ShowHeader>false</ShowHeader>
-          <Debug>false</Debug>
           <TodaysNewsOnly>true</TodaysNewsOnly>
           <UseAlerts>true</UseAlerts>
           <WarningInterval>15</WarningInterval>
@@ -1197,8 +1126,8 @@
           <BackgroundOpacity>255</BackgroundOpacity>
         </ApexDiagnosticEconomicNews>
       </Indicator>
-    </Indicator13>
-    <Indicator14>
+    </Indicator12>
+    <Indicator13>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -1228,7 +1157,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 12-19 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1258,11 +1187,159 @@
           <ZOrder>2147483647</ZOrder>
         </ApexDiagnosticNQWalls>
       </Indicator>
+    </Indicator13>
+    <Indicator14>
+      <ClassName>NinjaTrader.Indicator.ApexBarRange02</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexBarRange02 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>true</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic Bar Range v2</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Highs</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Lows</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>true</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>30004</ZOrder>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NX0=</SettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoyMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
+        </ApexBarRange02>
+      </Indicator>
     </Indicator14>
+    <Indicator15>
+      <ClassName>NinjaTrader.Indicator.ApexBarRange02</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexBarRange02 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>true</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 03-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic Bar Range v2</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Highs</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Lows</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>true</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>30005</ZOrder>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MTB9</SettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjp0cnVlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6NDAsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
+        </ApexBarRange02>
+      </Indicator>
+    </Indicator15>
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.748344370860927</HeightRatio>
+      <HeightRatio>0.801324503311258</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1270,8 +1347,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>35</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>8375.053988006</FixedPanelMaxRight>
-      <FixedPanelMinRight>8339.87573463268</FixedPanelMinRight>
+      <FixedPanelMaxRight>9283.83450765864</FixedPanelMaxRight>
+      <FixedPanelMinRight>9243.69831509847</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1295,7 +1372,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.113686534216336</HeightRatio>
+      <HeightRatio>0.098233995584989</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1303,8 +1380,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2.28779587629683</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.133156701031403</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.93424046684962</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.112578697354781</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1328,7 +1405,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.149006622516556</HeightRatio>
+      <HeightRatio>0.111479028697572</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -1336,8 +1413,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>13289.4888</FixedPanelMaxRight>
-      <FixedPanelMinRight>-773.4888</FixedPanelMinRight>
+      <FixedPanelMaxRight>6123.4006</FixedPanelMaxRight>
+      <FixedPanelMinRight>-356.4006</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
