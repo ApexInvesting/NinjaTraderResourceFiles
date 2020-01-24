@@ -124,7 +124,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -201,7 +201,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -261,7 +261,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZVRyYXBwZWRPcmRlcnNBbGVydHMiOnRydWUsInJldmVyc2FsT25seUFsZXJ0Ijp0cnVlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsInNob3dMVlNEaWFtb25kIjpmYWxzZSwibHZzVGhyZXNob2xkIjoxMiwiZW5hYmxlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVBbGVydHMiOmZhbHNlfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJkYXlzVG9TaG93Ijo1LCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiYWxsb3dCb3RoRW5kc0xpdmUiOnRydWUsImVuYWJsZU1NQWxlcnRzIjpmYWxzZSwiZW5hYmxlT25aT0lBbGVydHMiOmZhbHNlLCJvblpPSUJ1ZmZlciI6MCwiZW5hYmxlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6dHJ1ZX0sImRpc3BsYXlNaXNjIjp7InZvbHVtZU9mZnNldCI6MH0sImJpZ1ZvbHVtZUNsdXN0ZXIiOnsiZ3JlYXRlclRoYW5NdWx0aXBsaWVyIjoyLjAsInBlcmlvZCI6NCwibWluaW11bVRvdGFsVm9sdW1lIjoxMH0sInZvbHVtZVNjb3JlU2V0dGluZ3MiOnsiYWxlcnRUaHJlc2hvbGQiOjEwMDB9LCJkYXRhUGVyc2lzdGVuY2VTZXR0aW5ncyI6eyJsb2FkRGF0YSI6dHJ1ZSwic2F2ZURhdGEiOnRydWV9fQ==</SettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZVRyYXBwZWRPcmRlcnNBbGVydHMiOnRydWUsInJldmVyc2FsT25seUFsZXJ0Ijp0cnVlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsInNob3dMVlNEaWFtb25kIjpmYWxzZSwibHZzVGhyZXNob2xkIjoxMiwiZW5hYmxlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVBbGVydHMiOmZhbHNlfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJkYXlzVG9TaG93Ijo1LCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiYWxsb3dCb3RoRW5kc0xpdmUiOnRydWUsImVuYWJsZU1NQWxlcnRzIjpmYWxzZSwiZW5hYmxlT25aT0lBbGVydHMiOmZhbHNlLCJvblpPSUJ1ZmZlciI6MCwiZW5hYmxlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2V9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJ2b2x1bWVTY29yZVNldHRpbmdzIjp7ImFsZXJ0VGhyZXNob2xkIjoxMDAwfSwiZGF0YVBlcnNpc3RlbmNlU2V0dGluZ3MiOnsibG9hZERhdGEiOnRydWUsInNhdmVEYXRhIjp0cnVlfX0=</SettingsSerialized>
           <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOnRydWUsInVwcGVyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJCb3JkZXJDb2xvciI6eyJjb2xvciI6IkRhcmtPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJzaG93UGF3TGluZSI6dHJ1ZSwidXBwZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJyb2tlblVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiVG9tYXRvIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYnJva2VuTG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJMaW1lIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5XaWR0aFRvRXhwYW5kIjoyNSwibGluZU9wYWNpdHkiOjEwMCwiZGF5c1RvU2hvd1Bhc3RCcm9rZW5EYXRlIjo1LCJicm9rZW5MaW5lT3BhY2l0eSI6MTAwfSwiaW1iYWxhbmNlIjp7InNob3ciOmZhbHNlLCJhc2tDb2xvciI6IlNlYUdyZWVuIiwiYmlkQ29sb3IiOiJEYXJrUmVkIiwid2Vha0NvbG9yIjoiRGltR3JheSIsInNob3dXZWFrSW1iYWxhbmNlcyI6ZmFsc2V9LCJiYWxhbmNlZFZvbHVtZSI6eyJzaG93IjpmYWxzZSwiY29sb3IiOiJCbGFjayJ9LCJ6b25lT2ZJbnRlcmVzdCI6eyJzaG93Ijp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiZG93bkNvbG9yIjoiTWVkaXVtT3JjaGlkIiwidXBDb2xvciI6IkRhcmtUdXJxdW9pc2UiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm9wYWNpdHkiOjkwLCJicm9rZW5PcGFjaXR5Ijo0MH0sImV4aGF1c3Rpb24iOnsic2hvdyI6dHJ1ZSwidG9wTGluZVN0eWxlIjp7ImNvbG9yIjoiUmVkIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYm90dG9tTGluZVN0eWxlIjp7ImNvbG9yIjoiTGlnaHRHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ld1ZvbHVtZUFjY2VsZXJ0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uUG9zaXRpdmVDb2xvciI6IkRhcmtTZWFHcmVlbiIsImljb25OZWdhdGl2ZUNvbG9yIjoiUmVkIiwiaWNvbkRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25CYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uRm9yZUNvbG9yIjoiV2hpdGUiLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJ0cmFwcGVkT3JkZXJzIjp7InNob3ciOnRydWUsInNob3dCb3JkZXIiOnRydWUsImhpZ2hsaWdodENvbG9yIjoiRG9kZ2VyQmx1ZSIsImZvbnRDb2xvciI6IkJsYWNrIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ0cmFwcGVkT3JkZXJzV2l0aEV4aGF1c3Rpb25BbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiYm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEZWVwU2t5Qmx1ZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjguMH0sIm1pbldpZHRoVG9FeHBhbmQiOjN9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJSZWQiLCJhc2tDb2xvciI6IkxpbWVHcmVlbiIsInNob3dCbG9ja0xpbmUiOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjo0LjB9LCJhc2tMaW5lU3R5bGUiOnsiY29sb3IiOiJMYXduR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjo0LjB9LCJkYXlzVG9TaG93VW5icm9rZW4iOjEsImxpbmVPcGFjaXR5IjoxMDB9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiJXaGl0ZSIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJwb3NpdGl2ZUNvbG9yIjoiR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUNvbG9yIjoiUmVkIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IlJlZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiV2hpdGUiLCJpY29uRG93bkNvbG9yIjoiV2hpdGUiLCJtb21lbnR1bUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJhYnNvcnB0aW9uIjp7InNob3ciOmZhbHNlLCJ1cENvbG9yIjoiRGFya09saXZlR3JlZW4iLCJkb3duQ29sb3IiOiJNYXJvb24iLCJpY29uVXBDb2xvciI6IkJsYWNrIiwiaWNvbkRvd25Db2xvciI6IkJsYWNrIiwiYWJzb3JwdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwic2hvdyI6dHJ1ZSwibW9uZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaW5lbiIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwidHVlc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGluZW4iLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sIndlZG5lc2RheVNldHRpbmdzIjp7ImNvbG9yIjoiTGluZW4iLCJicm9rZW5Db2xvciI6IkxpbmVuIiwic2hvdyI6dHJ1ZSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo1MH0sInRodXJzZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaW5lbiIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwiZnJpZGF5U2V0dGluZ3MiOnsiY29sb3IiOiJMaW5lbiIsImJyb2tlbkNvbG9yIjoiTGluZW4iLCJzaG93Ijp0cnVlLCJvcGFjaXR5IjoxMDAsImJyb2tlbk9wYWNpdHkiOjUwfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5pTWFnbmV0c3dpdGhQYXdBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiTGlnaHRTbGF0ZUdyYXkiLCJmb250Q29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUJhY2tncm91bmRDb2xvciI6IkZpcmVicmljayIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJGaXJlYnJpY2siLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IldoaXRlIiwibmVnYXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsInNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUJhY2tncm91bmRDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiJXaGl0ZSJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiRGFya0dvbGRlbnJvZCIsImJhY2tncm91bmRDb2xvciI6IldoaXRlU21va2UiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQifSwiYmFyQ29udHJvbCI6eyJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyMTksMjMwLDIxOV0sInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiJEYXJrU2VhR3JlZW4iLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjU1LDI0NywyNDJdLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiUm9zeUJyb3duIiwiYmFyQ29sb3JVcCI6IkRhcmtTZWFHcmVlbiIsImJhckNvbG9yRG93biI6IlJvc3lCcm93biIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6IkFyaWFsLCAxNC4yNXB0LCBzdHlsZT1Cb2xkIiwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiU2lsdmVyIiwiR3JhZGllbnRFbmQiOiJEaW1HcmF5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6MTAwfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJzaG93Qm9yZGVyIjp0cnVlLCJmaWxsQ29sb3IiOiJZZWxsb3ciLCJib3JkZXJDb2xvciI6eyJjb2xvciI6IlllbGxvdyIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjUuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibWluQ2x1c3RlcldpZHRoVG9FeHBhbmQiOjI1fSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkZvcmVDb2xvciI6IldoaXRlIn0sInRyYWRpbmdTY2hlZHVsZUJhY2tncm91bmRDb2xvcmluZyI6eyJzaG93IjpmYWxzZSwidHJhZGluZ1NjaGVkdWxlIjp7Ikl0ZW1zIjpbeyJTdGFydEVudGVyaW5nIjowLCJTdG9wRW50ZXJpbmciOjEwMDgwLCJGbGF0dGVuUG9zaXRpb25zIjpudWxsfV0sIkRpc3BsYXlOYW1lIjoiQ3VzdG9tIHVuc2F2ZWQgc2NoZWR1bGUifSwiY2FuT3BlblBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsImNhbkhvbGRQb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJtdXN0RmxhdHRlbkNvbG9yIjoiRGFya0dyYXkifSwidm9sdW1lU2NvcmUiOnsic2hvdyI6dHJ1ZSwidXBTdHlsZSI6eyJiYWNrZ3JvdW5kQ29sb3IiOiJUcmFuc3BhcmVudCIsInRleHRDb2xvciI6IkxpZ2h0R3JheSIsImJvcmRlclBlbiI6eyJjb2xvciI6IlRyYW5zcGFyZW50IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sImRvd25TdHlsZSI6eyJiYWNrZ3JvdW5kQ29sb3IiOiJUcmFuc3BhcmVudCIsInRleHRDb2xvciI6IkxpZ2h0R3JheSIsImJvcmRlclBlbiI6eyJjb2xvciI6IlRyYW5zcGFyZW50IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sImRpdmVyZ2VudFN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IlRyYW5zcGFyZW50IiwidGV4dENvbG9yIjoiT3JhbmdlIiwiYm9yZGVyUGVuIjp7ImNvbG9yIjoiVHJhbnNwYXJlbnQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwiZm9udEF1dG9TY2FsZSI6ZmFsc2UsImZvbnQiOiJBcmlhbCwgOS43NXB0IiwidmVydGljYWxPZmZzZXQiOjAsImhlYWRzVXBsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19fQ==</UserSettingsSerialized>
         </OrderPrintsIndicator>
       </Indicator>
@@ -284,7 +284,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -350,7 +350,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -422,7 +422,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -515,7 +515,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -600,7 +600,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -700,7 +700,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -763,7 +763,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -826,7 +826,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -889,7 +889,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -985,7 +985,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1059,7 +1059,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1106,6 +1106,7 @@
           <NewsRefeshInterval>15</NewsRefeshInterval>
           <Use24HourTimeFormat>false</Use24HourTimeFormat>
           <ShowHeader>false</ShowHeader>
+          <Debug>false</Debug>
           <TodaysNewsOnly>true</TodaysNewsOnly>
           <UseAlerts>true</UseAlerts>
           <WarningInterval>15</WarningInterval>
@@ -1145,7 +1146,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1206,7 +1207,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1280,7 +1281,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>12</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1347,8 +1348,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>35</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9286.36551422319</FixedPanelMaxRight>
-      <FixedPanelMinRight>9237.26687089715</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.2575</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0075</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1380,8 +1381,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.93424046684962</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.112578697354781</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1413,8 +1414,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>22726.7672</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1322.7672</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
