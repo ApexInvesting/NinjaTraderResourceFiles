@@ -1443,7 +1443,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>OP Componets</Name>
+          <Name>OP Components</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>3</Panel>
@@ -2156,20 +2156,14 @@
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>2191</ATM_Name>
-          <Operation_Mode>Semi</Operation_Mode>
+          <Operation_Mode>OFF</Operation_Mode>
           <Show_PnL>true</Show_PnL>
           <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
           <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
           <MM_PnL_Reset>false</MM_PnL_Reset>
           <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>93500</W1_Time_Begin>
-          <W2_Time_Begin>110000</W2_Time_Begin>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W1_Time_Stop>120000</W1_Time_Stop>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Stop>160700</W3_Time_Stop>
           <Enable_Longs>false</Enable_Longs>
-          <Enable_Shorts>true</Enable_Shorts>
+          <Enable_Shorts>false</Enable_Shorts>
           <Use_Exit_Conditions>false</Use_Exit_Conditions>
           <Tag_Contains_Up_Exit />
           <Type_Contains_Up_Exit>ArrowDown</Type_Contains_Up_Exit>
