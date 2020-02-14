@@ -2162,12 +2162,6 @@
           <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
           <MM_PnL_Reset>false</MM_PnL_Reset>
           <Time_Windows>0</Time_Windows>
-          <W1_Time_Begin>0</W1_Time_Begin>
-          <W2_Time_Begin>120000</W2_Time_Begin>
-          <W3_Time_Begin>140000</W3_Time_Begin>
-          <W1_Time_Stop>235959</W1_Time_Stop>
-          <W2_Time_Stop>123000</W2_Time_Stop>
-          <W3_Time_Stop>144500</W3_Time_Stop>
           <Enable_Longs>false</Enable_Longs>
           <Enable_Shorts>false</Enable_Shorts>
           <Use_Exit_Conditions>false</Use_Exit_Conditions>
@@ -2198,7 +2192,7 @@
           <Entry_S_Type>Low</Entry_S_Type>
           <Entry_S_Mode>Limit</Entry_S_Mode>
           <Entry_Offset>-1</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
+          <Entry_Bars_Life>1</Entry_Bars_Life>
           <Ref_Bars_Back>1</Ref_Bars_Back>
         </_Markers_Plus>
       </Indicator>

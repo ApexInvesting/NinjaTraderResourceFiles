@@ -2192,7 +2192,7 @@
           <Entry_S_Type>Low</Entry_S_Type>
           <Entry_S_Mode>Limit</Entry_S_Mode>
           <Entry_Offset>-1</Entry_Offset>
-          <Entry_Bars_Life>2</Entry_Bars_Life>
+          <Entry_Bars_Life>1</Entry_Bars_Life>
           <Ref_Bars_Back>1</Ref_Bars_Back>
         </_Markers_Plus>
       </Indicator>
