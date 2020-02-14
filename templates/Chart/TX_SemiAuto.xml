@@ -371,7 +371,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>9603.25</Value>
+              <Value>9612</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1884,7 +1884,7 @@
           <Enable_Audio_Alerts>false</Enable_Audio_Alerts>
           <Sound_File>C:\Program Files (x86)\NinjaTrader 7\sounds\Alert2.wav</Sound_File>
           <Enable_Speech_Alerts>false</Enable_Speech_Alerts>
-          <Speech_Text>Señal Confirmada</Speech_Text>
+          <Speech_Text>Se??al Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
@@ -2012,7 +2012,7 @@
           <Enable_Audio_Alerts>false</Enable_Audio_Alerts>
           <Sound_File>C:\Program Files (x86)\NinjaTrader 7\sounds\Alert2.wav</Sound_File>
           <Enable_Speech_Alerts>false</Enable_Speech_Alerts>
-          <Speech_Text>Señal Confirmada</Speech_Text>
+          <Speech_Text>Se??al Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
@@ -2162,6 +2162,12 @@
           <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
           <MM_PnL_Reset>false</MM_PnL_Reset>
           <Time_Windows>0</Time_Windows>
+          <W1_Time_Begin>0</W1_Time_Begin>
+          <W2_Time_Begin>120000</W2_Time_Begin>
+          <W3_Time_Begin>140000</W3_Time_Begin>
+          <W1_Time_Stop>235959</W1_Time_Stop>
+          <W2_Time_Stop>123000</W2_Time_Stop>
+          <W3_Time_Stop>144500</W3_Time_Stop>
           <Enable_Longs>false</Enable_Longs>
           <Enable_Shorts>false</Enable_Shorts>
           <Use_Exit_Conditions>false</Use_Exit_Conditions>
@@ -2207,9 +2213,9 @@
       <AutoScaleMarginLowerRight>5</AutoScaleMarginLowerRight>
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>35</AutoScaleMarginUpperRight>
-      <YAxisRangeTypeRight>Fixed</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9615.9280951139</FixedPanelMaxRight>
-      <FixedPanelMinRight>9579.84085225452</FixedPanelMinRight>
+      <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
+      <FixedPanelMaxRight>9636.6708967033</FixedPanelMaxRight>
+      <FixedPanelMinRight>9598.00454285714</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2241,8 +2247,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2.12996952607474</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.123970725853663</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.8816833031397</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.109519710052772</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2274,8 +2280,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>10044.628</FixedPanelMaxRight>
-      <FixedPanelMinRight>-584.628</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.03</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.03</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2340,8 +2346,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.1236</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.1236</FixedPanelMinRight>
+      <FixedPanelMaxRight>-0.9999994</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.0000006</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2350,8 +2356,8 @@
       <AutoScaleMarginTypeLeft>Percent</AutoScaleMarginTypeLeft>
       <AutoScaleMarginUpperLeft>3</AutoScaleMarginUpperLeft>
       <YAxisRangeTypeLeft>Automatic</YAxisRangeTypeLeft>
-      <FixedPanelMaxLeft>1.1236</FixedPanelMaxLeft>
-      <FixedPanelMinLeft>-1.1236</FixedPanelMinLeft>
+      <FixedPanelMaxLeft>-0.9999994</FixedPanelMaxLeft>
+      <FixedPanelMinLeft>-1.0000006</FixedPanelMinLeft>
       <YAxisScalingTypeLeft>Linear</YAxisScalingTypeLeft>
       <HorizontalGridLinesIntervalLeft>0</HorizontalGridLinesIntervalLeft>
       <HorizontalGridLinesIntervalTypeLeft>Points</HorizontalGridLinesIntervalTypeLeft>
