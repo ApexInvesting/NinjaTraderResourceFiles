@@ -1951,7 +1951,7 @@
             </Plot>
           </Plots>
           <PlotsConfigurable>true</PlotsConfigurable>
-          <ScaleJustification>Left</ScaleJustification>
+          <ScaleJustification>Right</ScaleJustification>
           <SelectedSeries>0</SelectedSeries>
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
