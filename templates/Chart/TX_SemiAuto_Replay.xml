@@ -1347,7 +1347,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>OP Componets</Name>
+          <Name>OP Components</Name>
           <Overlay>false</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>2</Panel>
