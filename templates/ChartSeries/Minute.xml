@@ -22,7 +22,7 @@
         <MarketDataType>Last</MarketDataType>
         <PointAndFigurePriceType>Close</PointAndFigurePriceType>
         <ReversalType>Tick</ReversalType>
-        <Value>4</Value>
+        <Value>5</Value>
         <Value2>50</Value2>
       </Period>
       <PlotExecutions>TextAndMarker</PlotExecutions>
