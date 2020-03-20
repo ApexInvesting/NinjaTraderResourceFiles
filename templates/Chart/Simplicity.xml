@@ -191,69 +191,6 @@
       </Indicator>
     </Indicator0>
     <Indicator1>
-      <ClassName>NinjaTrader.Indicator.ApexKISSSetup</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <ApexKISSSetup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>true</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Minute</BasePeriodType>
-              <BasePeriodValue>1</BasePeriodValue>
-              <Id>Second</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>30</Value>
-              <Value2>1</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic KISS Setup</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>30011</ZOrder>
-          <SettingsSerializable>eyJhbGxvd1NlcXVlbnRpYWxTaWduYWxzIjp0cnVlLCJhbGxvd1NlcXVlbnRpYWxOZXh0QmFyU2lnbmFscyI6ZmFsc2UsInJlcXVpcmVCYXJDbG9zZURpcmVjdGlvbk1hdGNoIjp0cnVlLCJyZXF1aXJlVHJlbmRCYW5kc0RpcmVjdGlvbk1hdGNoIjp0cnVlLCJyZXF1aXJlQ2FuZGxlQm9keUluc2lkZVRyZW5kQmFuZHMiOnRydWUsInJlcXVpcmVOb3RJbkNob3AiOnRydWUsInZhZFJlcXVpcmVtZW50IjoyLCJyZXF1aXJlVm9sYXRpbGVUcmVuZExpbmVEaXJlY3Rpb25NYXRjaCI6dHJ1ZSwidm9sYXRpbGVUcmVuZExpbmVQcm94aW1pdHlSZXF1aXJlbWVudCI6eyJzdHlsZSI6MSwicHJveGltaXR5Ijo2fSwiY2hvcEJyZWFrb3V0UHJveGltaXR5UmVxdWlyZW1lbnQiOnsic3R5bGUiOjEsInByb3hpbWl0eSI6M30sInJldmVyc2FsQmFyUHJveGltaXR5UmVxdWlyZW1lbnQiOnsic3R5bGUiOjEsInByb3hpbWl0eSI6M30sInZhZENTZXR0aW5ncyI6eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOmZhbHNlLCJwZXJpb2QiOjE1LCJzbW9vdGhpbmdUaWNrcyI6MX0sInZhZERTZXR0aW5ncyI6eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOmZhbHNlLCJwZXJpb2QiOjEwLCJmYWN0b3IiOjAuOH0sImNob3BEZXRlY3RvclNldHRpbmdzIjp7ImNob3BQZXJpb2QiOjMsInRyZW5kUGVyaW9kIjoyfSwidm9sYXRpbGVUcmVuZExpbmUiOnsibW9tZW50dW1TZXR0aW5ncyI6eyJtb21lbnR1bUxpbmVQZXJpb2QiOjIxLCJtb21lbnR1bUxpbmVOdW1Db25zZWN1dGl2ZUJhcnMiOjIsIm1vbWVudHVtTGluZUxvb2tiYWNrIjo2fSwidm9sYXRpbGVSYW5nZVNldHRpbmdzIjp7ImZsaXBTdHlsZSI6MCwicGVyaW9kIjo1LCJtdWx0aXBsaWVyIjoxLjB9LCJyZXF1aXJlUHJlZGljdG9yTGluZVRvRmxpcCI6ZmFsc2UsInJlcXVpcmVNb21lbnR1bVByZWRpY3RvckxpbmVUb0ZsaXAiOmZhbHNlfSwidHJlbmRCYW5kc1NldHRpbmdzIjp7ImZhc3RQZXJpb2QiOjMsInNsb3dQZXJpb2QiOjIxfSwiYmFuZE9wZW5Qcm94aW1pdHkiOjN9</SettingsSerializable>
-          <UserSettingsSerializable>eyJhbGVydFN0eWxlIjoiRWFybHlXYXJuaW5nIiwiY29uZmlybWVkQWxlcnRzIjp7InZpc3VhbCI6dHJ1ZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInNob3dBcnJvd3MiOnRydWUsImFycm93T2Zmc2V0U3R5bGUiOjAsInVwQXJyb3dDb2xvciI6IkdyZWVuIiwiZG93bkFycm93Q29sb3IiOiJSZWQiLCJzaG93RWFybHlXYXJuaW5nQXJyb3dzIjp0cnVlLCJlYXJseVdhcm5pbmdVcEFycm93Q29sb3IiOiJUdXJxdW9pc2UiLCJlYXJseVdhcm5pbmdEb3duQXJyb3dDb2xvciI6IlR1cnF1b2lzZSIsImFycm93T2Zmc2V0VGlja3MiOjIwfQ==</UserSettingsSerializable>
-        </ApexKISSSetup>
-      </Indicator>
-    </Indicator1>
-    <Indicator2>
       <ClassName>NinjaTrader.Indicator.SolidDeviationLevels_03</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -345,8 +282,8 @@
           <DrawingToolsetsSerializable>{"0":{"Color":"Blue","LineWidth":2,"DashStyle":0,"ZoneOpacity":3,"LineOpacity":10},"0.25":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-0.25":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-0.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-0.7":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-1":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"-1.5":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":2,"LineOpacity":10},"-2":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10},"-3":{"Color":"Blue","LineWidth":1,"DashStyle":0,"ZoneOpacity":1,"LineOpacity":10}}</DrawingToolsetsSerializable>
         </SolidDeviationLevels_03>
       </Indicator>
-    </Indicator2>
-    <Indicator3>
+    </Indicator1>
+    <Indicator2>
       <ClassName>NinjaTrader.Indicator.FluxPivotLevel</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -415,8 +352,8 @@
           <ColorAboveSerialize>n:Red</ColorAboveSerialize>
         </FluxPivotLevel>
       </Indicator>
-    </Indicator3>
-    <Indicator4>
+    </Indicator2>
+    <Indicator3>
       <ClassName>NinjaTrader.Indicator.ICE</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -500,68 +437,7 @@
           <UserSettingsSerialized>{"showHistogram":false,"histogramColor":"DodgerBlue","histogramOpacity":40}</UserSettingsSerialized>
         </ICE>
       </Indicator>
-    </Indicator4>
-    <Indicator5>
-      <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <ApexDiagnosticNQWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Minute</BasePeriodType>
-              <BasePeriodValue>1</BasePeriodValue>
-              <Id>Second</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>30</Value>
-              <Value2>1</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>true</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic NQ Walls</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>2147483647</ZOrder>
-        </ApexDiagnosticNQWalls>
-      </Indicator>
-    </Indicator5>
+    </Indicator3>
   </Indicators>
   <Panels>
     <Panel0>
@@ -573,8 +449,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>7235.23049328125</FixedPanelMaxRight>
-      <FixedPanelMinRight>7062.76403796875</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.2575</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0075</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
