@@ -1134,7 +1134,6 @@
             <string>close2&lt;open2</string>
             <string>trapped=1</string>
             <string>boxup=1</string>
-            <string>dc=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1264,7 +1263,6 @@
             <string>close2&gt;open2</string>
             <string>trapped=1</string>
             <string>boxdown=-1</string>
-            <string>dc=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1436,10 +1434,12 @@
           <Enable_Long_Conditions>
             <string>dr=1</string>
             <string>dr1=1</string>
+            <string>dc=0</string>
           </Enable_Long_Conditions>
           <Enable_Short_Conditions>
             <string>dr=-1</string>
             <string>dr1=-1</string>
+            <string>dc=0</string>
           </Enable_Short_Conditions>
           <Sustain_Bars>0</Sustain_Bars>
           <Aux_Plot_1_Min>0</Aux_Plot_1_Min>
@@ -1920,7 +1920,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2832</Value>
+              <Value>2869</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -2432,8 +2432,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2839.68671770335</FixedPanelMaxRight>
-      <FixedPanelMinRight>2818.11073046252</FixedPanelMinRight>
+      <FixedPanelMaxRight>2876.12282252836</FixedPanelMaxRight>
+      <FixedPanelMinRight>2850.59597811993</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2465,8 +2465,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.99023180091501</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.115837563850582</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.94787798380091</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.113372442455167</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
