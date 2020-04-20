@@ -14,7 +14,7 @@
       <ChartObjectSelection>true</ChartObjectSelection>
       <ChartOpenedInMR>false</ChartOpenedInMR>
       <ChartTraderEnabled>true</ChartTraderEnabled>
-      <ChartTraderVisible>false</ChartTraderVisible>
+      <ChartTraderVisible>true</ChartTraderVisible>
       <ConfirmDirectEntry>false</ConfirmDirectEntry>
       <CrossHairBuyColorSerialize>n:Lime</CrossHairBuyColorSerialize>
       <CrossHairLabelColorSerialize>n:Black</CrossHairLabelColorSerialize>
@@ -124,7 +124,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -156,7 +156,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex|ES 06-20 Globex|ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex|NQ 06-20 Globex|NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -210,7 +210,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -222,7 +222,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -279,7 +279,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -291,7 +291,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -347,7 +347,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -359,7 +359,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -427,7 +427,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -439,7 +439,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -495,7 +495,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -507,7 +507,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -575,7 +575,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -587,7 +587,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -643,7 +643,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -655,7 +655,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines />
               <LinesConfigurable>true</LinesConfigurable>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -702,7 +702,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -714,7 +714,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -770,7 +770,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -782,7 +782,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines />
               <LinesConfigurable>true</LinesConfigurable>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -829,7 +829,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -841,7 +841,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -897,7 +897,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -909,7 +909,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -966,7 +966,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -978,7 +978,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1031,7 +1031,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1043,7 +1043,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1127,7 +1127,7 @@
           <Enable_Audio_Alerts>false</Enable_Audio_Alerts>
           <Sound_File>C:\Program Files (x86)\NinjaTrader 7\sounds\Alert2.wav</Sound_File>
           <Enable_Speech_Alerts>false</Enable_Speech_Alerts>
-          <Speech_Text>Señal Confirmada</Speech_Text>
+          <Speech_Text>Se??al Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt; open1</string>
@@ -1160,7 +1160,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1172,7 +1172,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1256,7 +1256,7 @@
           <Enable_Audio_Alerts>false</Enable_Audio_Alerts>
           <Sound_File>C:\Program Files (x86)\NinjaTrader 7\sounds\Alert2.wav</Sound_File>
           <Enable_Speech_Alerts>false</Enable_Speech_Alerts>
-          <Speech_Text>Señal Confirmada</Speech_Text>
+          <Speech_Text>Se??al Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
@@ -1289,7 +1289,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1301,11 +1301,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>TX Apex Trade Assistant</Name>
+          <Name>TX Apex Trade Assistant SemiAuto Advanced 2  NQ</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -1400,8 +1400,8 @@
           <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
-          <ATM_Name>17_7</ATM_Name>
-          <Operation_Mode>Auto</Operation_Mode>
+          <ATM_Name>Select ATM</ATM_Name>
+          <Operation_Mode>OFF</Operation_Mode>
           <Show_PnL>true</Show_PnL>
           <MM_Max_Daily_Profit>9999</MM_Max_Daily_Profit>
           <MM_Max_Daily_Loss>-9999</MM_Max_Daily_Loss>
@@ -1428,7 +1428,7 @@
           <Text_Match_Dnx>Contains</Text_Match_Dnx>
           <Color_Dn_Exit />
           <Color_Dn_Serialize_Exit>n:Turquoise</Color_Dn_Serialize_Exit>
-          <Use_Plot_Conditions>true</Use_Plot_Conditions>
+          <Use_Plot_Conditions>false</Use_Plot_Conditions>
           <Up_Aux_Plot>filter_variable_name</Up_Aux_Plot>
           <Dn_Aux_Plot>filter_variable_name</Dn_Aux_Plot>
           <Enable_Long_Conditions>
@@ -1437,8 +1437,8 @@
             <string>dc1=0</string>
           </Enable_Long_Conditions>
           <Enable_Short_Conditions>
-            <string>dr=-1</string>
-            <string>dr1=-1</string>
+            <string>dra=-1</string>
+            <string>dr1a=-1</string>
             <string>dc1=0</string>
           </Enable_Short_Conditions>
           <Sustain_Bars>0</Sustain_Bars>
@@ -1474,7 +1474,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1486,7 +1486,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -1537,7 +1537,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1549,7 +1549,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -1600,7 +1600,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1612,7 +1612,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1677,7 +1677,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1689,7 +1689,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1751,7 +1751,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1763,7 +1763,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1802,7 +1802,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10050</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NH0=</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NX0=</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoyMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -1825,7 +1825,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1837,7 +1837,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1876,7 +1876,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10051</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6OH0=</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MTB9</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjp0cnVlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6NDAsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -1899,7 +1899,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1911,7 +1911,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -1920,7 +1920,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2869</Value>
+              <Value>7690.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -1971,7 +1971,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1983,7 +1983,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2037,7 +2037,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -2059,7 +2059,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex|ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex|NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -2130,7 +2130,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2142,7 +2142,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2215,7 +2215,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2227,7 +2227,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>0</Name>
@@ -2315,7 +2315,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2327,7 +2327,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2378,7 +2378,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2390,7 +2390,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2421,6 +2421,92 @@
         </ApexDiagnosticESWalls>
       </Indicator>
     </Indicator22>
+    <Indicator23>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticEconomicNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic News</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>2147483647</ZOrder>
+          <TopOffset>20</TopOffset>
+          <LeftOffset>10</LeftOffset>
+          <ShowBackground>true</ShowBackground>
+          <MaxNewsItems>10</MaxNewsItems>
+          <NewsRefeshInterval>15</NewsRefeshInterval>
+          <Use24HourTimeFormat>false</Use24HourTimeFormat>
+          <ShowHeader>false</ShowHeader>
+          <TodaysNewsOnly>true</TodaysNewsOnly>
+          <UseAlerts>true</UseAlerts>
+          <WarningInterval>15</WarningInterval>
+          <AlertWavFileName>Alert1.wav</AlertWavFileName>
+          <HeaderFontSerialize>Arial:10:True:False:False:False</HeaderFontSerialize>
+          <DefaultFontSerialize>Arial:10:False:False:False:False</DefaultFontSerialize>
+          <WarningFontSerialize>Arial:10:True:True:False:False</WarningFontSerialize>
+          <ffNewsUrl>http://cdn-nfs.faireconomy.media/ff_calendar_thisweek.xml</ffNewsUrl>
+          <USOnlyEvents>false</USOnlyEvents>
+          <ShowLowPriority>true</ShowLowPriority>
+          <HeaderColorSerialize>n:Black</HeaderColorSerialize>
+          <HighPriorityColorSerialize>n:Red</HighPriorityColorSerialize>
+          <MediumPriorityColorSerialize>n:Yellow</MediumPriorityColorSerialize>
+          <LowPriorityColorSerialize>n:GreenYellow</LowPriorityColorSerialize>
+          <NormalColorSerialize>n:LightSkyBlue</NormalColorSerialize>
+          <BackgroundColorSerialize>n:Black</BackgroundColorSerialize>
+          <BorderColorSerialize>n:SlateBlue</BorderColorSerialize>
+          <BackgroundOpacity>255</BackgroundOpacity>
+        </ApexDiagnosticEconomicNews>
+      </Indicator>
+    </Indicator23>
   </Indicators>
   <Panels>
     <Panel0>
@@ -2432,8 +2518,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2876.12282252836</FixedPanelMaxRight>
-      <FixedPanelMinRight>2850.59597811993</FixedPanelMinRight>
+      <FixedPanelMaxRight>7697.06885</FixedPanelMaxRight>
+      <FixedPanelMinRight>7682.18115</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2465,8 +2551,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.94787798380091</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.113372442455167</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.96700169407189</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.11448550074745</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2531,8 +2617,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.1236</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.1236</FixedPanelMinRight>
+      <FixedPanelMaxRight>-0.9999994</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.0000006</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
