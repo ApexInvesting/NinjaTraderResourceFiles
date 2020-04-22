@@ -1305,7 +1305,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>TX Apex Trade Assistant SemiAuto 2 NQ</Name>
+          <Name>TX Apex Trade Assistant SemiAuto 2  NQ</Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -1920,7 +1920,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>7688</Value>
+              <Value>8441</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -2139,7 +2139,7 @@
           <Displacement>0</Displacement>
           <DisplayInDataBox>true</DisplayInDataBox>
           <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
+          <Enabled>false</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
           <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
@@ -2293,7 +2293,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30055</ZOrder>
           <SettingsSerialized>{"strength":22,"level1":1.17,"level2":1.5}</SettingsSerialized>
-          <UserSettingsSerialized>{"upColor":"Green","downColor":"Red","autoBarWidth":true,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
+          <UserSettingsSerialized>{"upColor":"LimeGreen","downColor":"Red","autoBarWidth":true,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
         </DiagnosticReversal>
       </Indicator>
     </Indicator20>
@@ -2361,13 +2361,13 @@
       </Indicator>
     </Indicator21>
     <Indicator22>
-      <ClassName>NinjaTrader.Indicator.ApexDiagnosticESWalls</ClassName>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
       <Input>
         <PriceType>Close</PriceType>
       </Input>
       <BarsSeriesIdx>0</BarsSeriesIdx>
       <Indicator>
-        <ApexDiagnosticESWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ApexDiagnosticNQWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
           <AutoScale>false</AutoScale>
           <BarsPeriods>
@@ -2382,7 +2382,7 @@
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
-          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <CalculateOnBarClose>true</CalculateOnBarClose>
           <DisableScaleBuffer>false</DisableScaleBuffer>
           <Displacement>0</Displacement>
           <DisplayInDataBox>false</DisplayInDataBox>
@@ -2394,9 +2394,9 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic ES Walls</Name>
+          <Name>A.P.E.X. Diagnostic NQ Walls</Name>
           <Overlay>true</Overlay>
-          <PaintPriceMarkers>false</PaintPriceMarkers>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
           <Panel>-2</Panel>
           <PanelUI>-1</PanelUI>
           <Plots>
@@ -2418,7 +2418,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>2147483647</ZOrder>
-        </ApexDiagnosticESWalls>
+        </ApexDiagnosticNQWalls>
       </Indicator>
     </Indicator22>
   </Indicators>
@@ -2432,8 +2432,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>7697.06885</FixedPanelMaxRight>
-      <FixedPanelMinRight>7682.18115</FixedPanelMinRight>
+      <FixedPanelMaxRight>8451.09695</FixedPanelMaxRight>
+      <FixedPanelMinRight>8431.15305</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2465,8 +2465,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.3403049180333</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0780098360656034</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.70604590374506</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0992970774641595</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

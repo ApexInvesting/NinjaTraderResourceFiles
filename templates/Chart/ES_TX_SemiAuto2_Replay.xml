@@ -1920,7 +1920,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2739.5</Value>
+              <Value>2733.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -2293,7 +2293,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30055</ZOrder>
           <SettingsSerialized>{"strength":22,"level1":1.17,"level2":1.5}</SettingsSerialized>
-          <UserSettingsSerialized>{"upColor":"Green","downColor":"Red","autoBarWidth":true,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
+          <UserSettingsSerialized>{"upColor":"LimeGreen","downColor":"Red","autoBarWidth":true,"enableVisualAlert_Level1":false,"enableAudioAlert_Level1":false,"enableWindowFlashAlert_Level1":false,"enableVisualAlert_Level2":false,"enableAudioAlert_Level2":false,"enableWindowFlashAlert_Level2":false}</UserSettingsSerialized>
         </DiagnosticReversal>
       </Indicator>
     </Indicator20>
@@ -2432,8 +2432,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2747.53244371069</FixedPanelMaxRight>
-      <FixedPanelMinRight>2733.3066548218</FixedPanelMinRight>
+      <FixedPanelMaxRight>2737.64549411765</FixedPanelMaxRight>
+      <FixedPanelMinRight>2721.36430980392</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2465,8 +2465,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.93907065527039</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.112859829059814</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.01717335655934</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.117405644599141</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -2531,8 +2531,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>-0.9999994</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.0000006</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.1236</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.1236</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
