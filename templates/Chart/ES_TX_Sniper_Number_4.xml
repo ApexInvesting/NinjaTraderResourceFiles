@@ -1534,7 +1534,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Red</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -1975,7 +1975,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Black</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
