@@ -50,7 +50,7 @@
         <DashStyle>Solid</DashStyle>
         <Width>2</Width>
       </LimitOrderPenSerializable>
-      <OpenedRealtime>false</OpenedRealtime>
+      <OpenedRealtime>true</OpenedRealtime>
       <OrderEntryMode>0</OrderEntryMode>
       <OrderPercent>25</OrderPercent>
       <OrderPositionAutoScale>true</OrderPositionAutoScale>
@@ -2102,7 +2102,7 @@
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2229,7 +2229,7 @@
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2585,7 +2585,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10106</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MX0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjEwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJNZWRpdW1TZWFHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjEwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator18>
@@ -2659,7 +2659,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10107</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NH0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjIwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoyMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator19>
@@ -2733,7 +2733,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10108</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6OH0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjQwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjp0cnVlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6NDAsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator20>
@@ -3221,7 +3221,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2844</Value>
+              <Value>2841.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -3479,8 +3479,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2863.10516519824</FixedPanelMaxRight>
-      <FixedPanelMinRight>2840.76928414097</FixedPanelMinRight>
+      <FixedPanelMaxRight>2845.53515</FixedPanelMaxRight>
+      <FixedPanelMinRight>2826.71485</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -3512,8 +3512,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.62299072205591</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0944630124534328</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.81773168724254</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.105797530864183</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -3647,7 +3647,7 @@
           <PaintPriceMarker>true</PaintPriceMarker>
           <Panel>0</Panel>
           <PanelUI>1</PanelUI>
-          <PlotExecutions>TextAndMarker</PlotExecutions>
+          <PlotExecutions>DoNotPlot</PlotExecutions>
           <PlotSessionBreaks>true</PlotSessionBreaks>
           <PositionPenLooserSerializable>
             <Color>n:Crimson</Color>

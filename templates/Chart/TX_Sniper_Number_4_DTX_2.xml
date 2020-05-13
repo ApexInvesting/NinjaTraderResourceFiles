@@ -2585,7 +2585,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10106</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MX0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjEwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJNZWRpdW1TZWFHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjEwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator18>
@@ -2659,7 +2659,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10107</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NX0=</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjIwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoyMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator19>
@@ -2733,7 +2733,7 @@
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10108</ZOrder>
           <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MTB9</SettingsSerializable>
-          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRyYXdEaWFtb25kTWFya2VycyI6dHJ1ZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjQwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
+          <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjp0cnVlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6NDAsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
     </Indicator20>
@@ -3221,7 +3221,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>9247</Value>
+              <Value>9039.75</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -3479,8 +3479,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9258.1893777533</FixedPanelMaxRight>
-      <FixedPanelMinRight>9236.56502753304</FixedPanelMinRight>
+      <FixedPanelMaxRight>9057.87671751101</FixedPanelMaxRight>
+      <FixedPanelMinRight>9032.84630011013</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -3512,8 +3512,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.75502361250994</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.102147729565939</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.17039157709816</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.126323412567966</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
