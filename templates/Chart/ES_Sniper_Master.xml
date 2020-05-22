@@ -2549,6 +2549,7 @@
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
+            <string>close2&lt;open2</string>
             <string>trapped=1</string>
             <string>boxup=1</string>
           </Enable_Conditions>
@@ -2677,6 +2678,7 @@
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
+            <string>close2&gt;open2</string>
             <string>trapped=1</string>
             <string>boxdown=-1</string>
           </Enable_Conditions>
@@ -4965,7 +4967,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2950.75</Value>
+              <Value>2920</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -5223,8 +5225,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2957.95084128878</FixedPanelMaxRight>
-      <FixedPanelMinRight>2941.3886575179</FixedPanelMinRight>
+      <FixedPanelMaxRight>2937.35735799523</FixedPanelMaxRight>
+      <FixedPanelMinRight>2912.17008830549</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5256,8 +5258,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2.3701888858035</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.137952225600543</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.60478383550531</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.093403316099292</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

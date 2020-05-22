@@ -1859,7 +1859,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX Filtered ES [Arrow]                       </Name>
+          <Name>Apex Sniper TX Filtered [Arrow]                       </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2288,7 +2288,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper DTX ES [Triangle UP]                        </Name>
+          <Name>Apex Sniper DTX [Triangle UP]                        </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2549,6 +2549,7 @@
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
+            <string>close2&lt;open2</string>
             <string>trapped=1</string>
             <string>boxup=1</string>
           </Enable_Conditions>
@@ -2677,6 +2678,7 @@
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
+            <string>close2&gt;open2</string>
             <string>trapped=1</string>
             <string>boxdown=-1</string>
           </Enable_Conditions>
@@ -2721,7 +2723,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX ODD DRD ETX ES [Diamond]    </Name>
+          <Name>Apex Sniper TX ODD DRD ETX [Diamond]    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3150,7 +3152,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper ELEV ES [Square]                             </Name>
+          <Name>Apex Sniper ELEV [Square]                             </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3587,7 +3589,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TBS ES [Triangle Down]                    </Name>
+          <Name>Apex Sniper TBS [Triangle Down]                    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -4016,7 +4018,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper Setup 4 ES [Dot]                                 </Name>
+          <Name>Apex Sniper Setup 4 [Dot]                                 </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -4965,7 +4967,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>9412.75</Value>
+              <Value>9305.5</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -5065,6 +5067,67 @@
       </Indicator>
     </Indicator40>
     <Indicator41>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticNQWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>false</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>true</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic NQ Walls</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>-2</Panel>
+          <PanelUI>-1</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>2147483647</ZOrder>
+        </ApexDiagnosticNQWalls>
+      </Indicator>
+    </Indicator41>
+    <Indicator42>
       <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
       <Input>
         <PriceType>Close</PriceType>
@@ -5150,72 +5213,11 @@
           <BackgroundOpacity>255</BackgroundOpacity>
         </ApexDiagnosticEconomicNews>
       </Indicator>
-    </Indicator41>
-    <Indicator42>
-      <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
-      <Input>
-        <PriceType>Close</PriceType>
-      </Input>
-      <BarsSeriesIdx>0</BarsSeriesIdx>
-      <Indicator>
-        <ApexDiagnosticNQWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
-          <AutoScale>false</AutoScale>
-          <BarsPeriods>
-            <Period>
-              <BasePeriodType>Tick</BasePeriodType>
-              <BasePeriodValue>100</BasePeriodValue>
-              <Id>Custom8</Id>
-              <MarketDataType>Last</MarketDataType>
-              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
-              <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
-              <Value2>50</Value2>
-            </Period>
-          </BarsPeriods>
-          <CalculateOnBarClose>true</CalculateOnBarClose>
-          <DisableScaleBuffer>false</DisableScaleBuffer>
-          <Displacement>0</Displacement>
-          <DisplayInDataBox>false</DisplayInDataBox>
-          <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
-          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
-          <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
-          <Lines />
-          <LinesConfigurable>true</LinesConfigurable>
-          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic NQ Walls</Name>
-          <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
-          <Panel>-2</Panel>
-          <PanelUI>-1</PanelUI>
-          <Plots>
-            <Plot>
-              <Max>1.7976931348623157E+308</Max>
-              <Min>-1.7976931348623157E+308</Min>
-              <Name>Dummy</Name>
-              <PenSerializable>
-                <Color>n:Orange</Color>
-                <DashStyle>Solid</DashStyle>
-                <Width>1</Width>
-              </PenSerializable>
-              <PlotStyle>Line</PlotStyle>
-            </Plot>
-          </Plots>
-          <PlotsConfigurable>false</PlotsConfigurable>
-          <ScaleJustification>Right</ScaleJustification>
-          <SelectedSeries>0</SelectedSeries>
-          <SessionBreakLines>true</SessionBreakLines>
-          <VerticalGridLines>true</VerticalGridLines>
-          <ZOrder>2147483647</ZOrder>
-        </ApexDiagnosticNQWalls>
-      </Indicator>
     </Indicator42>
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.8203125</HeightRatio>
+      <HeightRatio>0.811965811965812</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5223,8 +5225,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9427.37615990454</FixedPanelMaxRight>
-      <FixedPanelMinRight>9406.67276610978</FixedPanelMinRight>
+      <FixedPanelMaxRight>9316.11850120482</FixedPanelMaxRight>
+      <FixedPanelMinRight>9292.39595662651</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5248,7 +5250,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.0833333333333333</HeightRatio>
+      <HeightRatio>0.0783475783475783</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5256,8 +5258,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.68025192983994</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0977957894745795</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.95639475674562</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.113868144628818</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5281,7 +5283,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.0611664295874822</HeightRatio>
+      <HeightRatio>0.0612535612535613</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5314,7 +5316,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel2>
     <Panel3>
-      <HeightRatio>0.067515923566879</HeightRatio>
+      <HeightRatio>0.0626780626780627</HeightRatio>
       <Index>3</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5322,8 +5324,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>-0.9999994</FixedPanelMaxRight>
-      <FixedPanelMinRight>-1.0000006</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.1236</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.1236</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

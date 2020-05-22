@@ -1951,7 +1951,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Red</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -2380,7 +2380,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:DarkRed</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -2549,6 +2549,7 @@
           <Enable_Conditions>
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
+            <string>close2&lt;open2</string>
             <string>trapped=1</string>
             <string>boxup=1</string>
           </Enable_Conditions>
@@ -2677,6 +2678,7 @@
           <Enable_Conditions>
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
+            <string>close2&gt;open2</string>
             <string>trapped=1</string>
             <string>boxdown=-1</string>
           </Enable_Conditions>
@@ -2813,7 +2815,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Maroon</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -3242,7 +3244,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Firebrick</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -3679,7 +3681,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:Coral</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -4108,7 +4110,7 @@
           <Text_Match_Dn>Contains</Text_Match_Dn>
           <Color_Dn />
           <Color_Dn_Serialize>n:IndianRed</Color_Dn_Serialize>
-          <Account_Name>Replay101</Account_Name>
+          <Account_Name>Sim101</Account_Name>
           <Show_Account_Name>true</Show_Account_Name>
           <Show_Status>true</Show_Status>
           <ATM_Name>Select ATM</ATM_Name>
@@ -4965,7 +4967,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>2880.25</Value>
+              <Value>2922</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -5136,8 +5138,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>2889.654</FixedPanelMaxRight>
-      <FixedPanelMinRight>2871.846</FixedPanelMinRight>
+      <FixedPanelMaxRight>2932.37615990453</FixedPanelMaxRight>
+      <FixedPanelMinRight>2911.67276610979</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5169,8 +5171,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.94289699296356</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.113082533589328</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.60095605138801</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0931805273834797</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5202,8 +5204,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.0618</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.0618</FixedPanelMinRight>
+      <FixedPanelMaxRight>0.0618</FixedPanelMaxRight>
+      <FixedPanelMinRight>-1.0618</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
