@@ -156,7 +156,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex|NQ 06-20 Globex|NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex|ES 06-20 Globex|ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -184,7 +184,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJlbmFibGVPUFJlamVjdGlvbkFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZU9QUmVqZWN0aW9uQWxlcnRzIjpmYWxzZSwic2V0dXBCYXJNdWx0aXBsaWVyIjo1LjAsInNldHVwQmFyRGVwdGgiOjIsInNldHVwQmFyVGhyZXNob2xkIjoxMCwicHJldmlvdXNCYXJNdWx0aXBsaWVyIjo1LjAsInByZXZpb3VzQmFyRGVwdGgiOjIsInByZXZpb3VzQmFyVGhyZXNob2xkIjoxMCwicGVyaW9kIjo1LCJyZXF1aXJlUEFXIjpmYWxzZSwicmVxdWlyZVRyYXBwZWRPcmRlciI6ZmFsc2UsInJlcXVpcmVFeGhhdXN0aW9uIjpmYWxzZX0sIm9wZGl2ZXJnZW5jZSI6eyJlbmFibGVPUERpdmVyZ2VuY2VBbGVydHMiOnRydWUsImVuYWJsZUxpdmVPUERpdmVyZ2VuY2VBbGVydHMiOmZhbHNlLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjAuMCwicHJldmlvdXNCYXJEZXB0aCI6MCwicGVyaW9kIjo0fSwidGhpcmRCYXJTbGluZyI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyfSwiZWxldmF0b3IiOnsibWluaU1hZ25ldFBhd1JlcXVpcmVtZW50cyI6MiwiY2x1c3RlclJlcXVpcmVtZW50cyI6Mn0sImRvdWJsZVRYIjp7InBlcmlvZCI6MzAsInN0cmVuZ3RoIjo1fSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXN1dGlvbkJveFJlcXVpcmVtZW50IjpmYWxzZX0sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnt9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVUcmFwcGVkT3JkZXJzQWxlcnRzIjpmYWxzZSwicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6NTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsInNob3dMVlNEaWFtb25kIjpmYWxzZSwibHZzVGhyZXNob2xkIjoxMywiZW5hYmxlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVBbGVydHMiOmZhbHNlfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJkYXlzVG9TaG93Ijo1LCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiYWxsb3dCb3RoRW5kc0xpdmUiOnRydWUsImVuYWJsZU1NQWxlcnRzIjpmYWxzZSwiZW5hYmxlT25aT0lBbGVydHMiOmZhbHNlLCJvblpPSUJ1ZmZlciI6MCwiZW5hYmxlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2V9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJ2b2x1bWVTY29yZVNldHRpbmdzIjp7ImFsZXJ0VGhyZXNob2xkIjoxMDAwfSwiZGF0YVBlcnNpc3RlbmNlU2V0dGluZ3MiOnsibG9hZERhdGEiOnRydWUsInNhdmVEYXRhIjp0cnVlfX0=</SettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJlbmFibGVPUFJlamVjdGlvbkFsZXJ0cyI6dHJ1ZSwiZW5hYmxlTGl2ZU9QUmVqZWN0aW9uQWxlcnRzIjpmYWxzZSwic2V0dXBCYXJNdWx0aXBsaWVyIjo1LjAsInNldHVwQmFyRGVwdGgiOjIsInNldHVwQmFyVGhyZXNob2xkIjoxMCwicHJldmlvdXNCYXJNdWx0aXBsaWVyIjo1LjAsInByZXZpb3VzQmFyRGVwdGgiOjIsInByZXZpb3VzQmFyVGhyZXNob2xkIjoxMCwicGVyaW9kIjo1LCJyZXF1aXJlUEFXIjpmYWxzZSwicmVxdWlyZVRyYXBwZWRPcmRlciI6ZmFsc2UsInJlcXVpcmVFeGhhdXN0aW9uIjpmYWxzZX0sIm9wZGl2ZXJnZW5jZSI6eyJlbmFibGVPUERpdmVyZ2VuY2VBbGVydHMiOnRydWUsImVuYWJsZUxpdmVPUERpdmVyZ2VuY2VBbGVydHMiOmZhbHNlLCJzZXR1cEJhck11bHRpcGxpZXIiOjMuMCwic2V0dXBCYXJEZXB0aCI6Miwic2V0dXBCYXJUaHJlc2hvbGQiOjEwLCJwcmV2aW91c0Jhck11bHRpcGxpZXIiOjAuMCwicHJldmlvdXNCYXJEZXB0aCI6MCwicGVyaW9kIjo0fSwidGhpcmRCYXJTbGluZyI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyfSwiZWxldmF0b3IiOnsibWluaU1hZ25ldFBhd1JlcXVpcmVtZW50cyI6MiwiY2x1c3RlclJlcXVpcmVtZW50cyI6Mn0sImRvdWJsZVRYIjp7InBlcmlvZCI6MzAsInN0cmVuZ3RoIjo1fSwic3RhckxWU1pPSSI6eyJ0cmFwcGVkT3JkZXJzQW5kRXhoYXN1dGlvbkJveFJlcXVpcmVtZW50IjpmYWxzZX0sImRpdmVyZ2VudExvd1JldmVyc2FsR28iOnt9LCJpbWJhbGFuY2UiOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwiem9uZU9mSW50ZXJlc3QiOnsibWluVm9sdW1lIjowLCJtaW5MZXZlbHMiOjN9LCJleGhhdXN0aW9uIjp7InN0cmVuZ3RoIjozLjAsInZvbHVtZUZpbHRlciI6MH0sIm5ldFZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjQsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sInRvdGFsVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMH0sInRyYXBwZWRPcmRlcnMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozLCJlbmFibGVMaXZlRXhoYXN1dGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVUcmFwcGVkT3JkZXJzQWxlcnRzIjpmYWxzZSwicmV2ZXJzYWxPbmx5QWxlcnQiOmZhbHNlfSwibGVhZGluZ1ZvbHVtZXMiOnsibWluVm9sdW1lIjoxMCwibWluTGV2ZWxzIjozfSwiYmxvY2tPcmRlclNldHRpbmdzIjp7ImJsb2NrU2l6ZSI6MjUwfSwiYmxvY2tWb2x1bWVBY2NlbGVyYXRpb24iOnsicGVyaW9kIjo3LCJzdHJlbmd0aCI6Mi4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJtb21lbnR1bSI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwLCJzaG93TFZTRGlhbW9uZCI6ZmFsc2UsImx2c1RocmVzaG9sZCI6MTMsImVuYWJsZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVMVlNBbGVydHMiOmZhbHNlLCJlbmFibGVBbGVydHMiOmZhbHNlLCJlbmFibGVMaXZlQWxlcnRzIjpmYWxzZX0sImFic29ycHRpb24iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMH0sIm1pbmlNYWduZXRzIjp7Im1pbmltdW1Wb2x1bWUiOjEsInRocmVzaG9sZCI6MSwiZGF5c1RvU2hvdyI6NSwiY2FsY3VsYXRlT25CYXJDbG9zZSI6ZmFsc2UsImFsbG93Qm90aEVuZHNMaXZlIjp0cnVlLCJlbmFibGVNTUFsZXJ0cyI6ZmFsc2UsImVuYWJsZU9uWk9JQWxlcnRzIjpmYWxzZSwib25aT0lCdWZmZXIiOjAsImVuYWJsZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVNaW5pTWFnbmV0c1dpdGhQYXdBbGVydHMiOmZhbHNlfSwiZGlzcGxheU1pc2MiOnsidm9sdW1lT2Zmc2V0IjowfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJncmVhdGVyVGhhbk11bHRpcGxpZXIiOjIuMCwicGVyaW9kIjo0LCJtaW5pbXVtVG90YWxWb2x1bWUiOjEwfSwidm9sdW1lU2NvcmVTZXR0aW5ncyI6eyJhbGVydFRocmVzaG9sZCI6MTAwMH0sImRhdGFQZXJzaXN0ZW5jZVNldHRpbmdzIjp7ImxvYWREYXRhIjp0cnVlLCJzYXZlRGF0YSI6dHJ1ZX19</SettingsSerialized>
           <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOmZhbHNlLCJ1cHBlckJvcmRlckNvbG9yIjp7ImNvbG9yIjoiRGFya09yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjUuMH0sImxvd2VyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6NS4wfSwic2hvd1Bhd0xpbmUiOnRydWUsInVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiRGFya09yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImxvd2VyTGluZVN0eWxlIjp7ImNvbG9yIjoiRGFya09yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJicm9rZW5VcHBlckxpbmVTdHlsZSI6eyJjb2xvciI6Ik1lZGl1bVZpb2xldFJlZCIsImRhc2hTdHlsZSI6MSwid2lkdGgiOjEuMH0sImJyb2tlbkxvd2VyTGluZVN0eWxlIjp7ImNvbG9yIjoiT2xpdmUiLCJkYXNoU3R5bGUiOjEsIndpZHRoIjoxLjB9LCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm1pbldpZHRoVG9FeHBhbmQiOjMsImxpbmVPcGFjaXR5IjoxMDAsImRheXNUb1Nob3dQYXN0QnJva2VuRGF0ZSI6NSwiYnJva2VuTGluZU9wYWNpdHkiOjEwMH0sIm9wUmVqZWN0aW9uIjp7Im9QUmVqZWN0aW9uYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJzaG93T1BSZWplY3Rpb24iOmZhbHNlLCJpY29uVXBDb2xvciI6IkdyZWVuIiwiaWNvbkRvd25Db2xvciI6IlJlZCIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoxfSwib3BEaXZlcmdlbmNlIjp7Im9QRGl2ZXJnZW5jZWFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwic2hvd09QRGl2ZXJnZW5jZSI6ZmFsc2UsImljb25VcENvbG9yIjoiR3JlZW4iLCJpY29uRG93bkNvbG9yIjoiUmVkIiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJ0aGlyZEJhclNsaW5nIjp7ImxpdmVUaGlyZEJhclNsaW5nYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZFRoaXJkQmFyU2xpbmdhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInN0YXJMVlNaT0kiOnsibGl2ZVN0YXJMVlNaT0lhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkU3RhckxWU1pPSWFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiZWxldmF0b3IiOnsibGl2ZUVsZXZhdG9yYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZEVsZXZhdG9yYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7ImxpdmVEaXZlcmdlbnRMb3dSZXZlcnNhbEdvYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJjb25maXJtZWREaXZlcmdlbnRMb3dSZXZlcnNhbEdvYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiZG91YmxlVFgiOnsibGl2ZURvdWJsZVRYYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZERvdWJsZVRYYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJpbWJhbGFuY2UiOnsic2hvdyI6ZmFsc2UsImFza0NvbG9yIjoiU2VhR3JlZW4iLCJiaWRDb2xvciI6IkRhcmtSZWQiLCJ3ZWFrQ29sb3IiOiJEaW1HcmF5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7InNob3ciOmZhbHNlLCJjb2xvciI6IkJsYWNrIn0sInpvbmVPZkludGVyZXN0Ijp7InNob3ciOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJkb3duQ29sb3IiOiJNZWRpdW1PcmNoaWQiLCJ1cENvbG9yIjoiRGFya1R1cnF1b2lzZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwib3BhY2l0eSI6MTAwLCJicm9rZW5PcGFjaXR5Ijo0MH0sImV4aGF1c3Rpb24iOnsic2hvdyI6dHJ1ZSwidG9wTGluZVN0eWxlIjp7ImNvbG9yIjoiRmlyZWJyaWNrIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6My4wfSwiYm90dG9tTGluZVN0eWxlIjp7ImNvbG9yIjoiTGltZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6My4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiRGFya1NlYUdyZWVuIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRyYXBwZWRPcmRlcnMiOnsic2hvdyI6dHJ1ZSwic2hvd0JvcmRlciI6dHJ1ZSwiaGlnaGxpZ2h0Q29sb3IiOiJEb2RnZXJCbHVlIiwiZm9udENvbG9yIjoiQmxhY2siLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInRyYXBwZWRPcmRlcnNXaXRoRXhoYXVzdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiYm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEZWVwU2t5Qmx1ZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjguMH0sIm1pbldpZHRoVG9FeHBhbmQiOjN9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJEYXJrU2FsbW9uIiwiYXNrQ29sb3IiOiJMYXduR3JlZW4iLCJzaG93QmxvY2tMaW5lIjp0cnVlLCJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwiYmlkTGluZVN0eWxlIjp7ImNvbG9yIjoiRGFya1NhbG1vbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImFza0xpbmVTdHlsZSI6eyJjb2xvciI6Ikxhd25HcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjIuMH0sImRheXNUb1Nob3dVbmJyb2tlbiI6MSwibGluZU9wYWNpdHkiOjEwMH0sImJsb2NrTmV0Vm9sdW1lIjp7InNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiZGl2ZXJnZW5jZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZGl2ZXJnZW5jZUZvbnRDb2xvciI6IldoaXRlIiwic2hvd0Jsb2NrTmV0VG90YWwiOmZhbHNlLCJuZXRWb2x1bWVGb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQiLCJuZXRWb2x1bWVQb3NpdGl2ZUZvbnRDb2xvciI6IldoaXRlIiwibmV0Vm9sdW1lTmVnYXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsInBvc2l0aXZlQ29sb3IiOiJHcmVlbiIsInBvc2l0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJHcmVlbiIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sIm5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiUmVkIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sIm1vbWVudHVtIjp7InNob3dNb21lbnR1bSI6dHJ1ZSwidXBDb2xvciI6IkdyZWVuIiwiZG93bkNvbG9yIjoiUmVkIiwiaWNvblVwQ29sb3IiOiJXaGl0ZSIsImljb25Eb3duQ29sb3IiOiJXaGl0ZSIsIm1vbWVudHVtQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ2ZXJ0aWNhbE9mZnNldCI6Mi4wLCJzY2FsZU9mZnNldCI6Mn0sImFic29ycHRpb24iOnsic2hvdyI6ZmFsc2UsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiQmxhY2siLCJpY29uRG93bkNvbG9yIjoiQmxhY2siLCJhYnNvcnB0aW9uQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJ2ZXJ0aWNhbE9mZnNldCI6Mi4wLCJzY2FsZU9mZnNldCI6M30sIm1pbmlNYWduZXRzIjp7ImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJzaG93Ijp0cnVlLCJsaXZlQ29sb3IiOiJCbGFjayIsImNsb3NlZENvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5pTWFnbmV0c3dpdGhQYXdBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImxpdmVPcGFjaXR5IjoxMDAsImNsb3NlZE9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiQ3JpbXNvbiIsImZvbnRDb2xvciI6IkNyaW1zb24iLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJuZXRWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInBvc2l0aXZlQmFja2dyb3VuZENvbG9yIjoiRGFya1NlYUdyZWVuIiwicG9zaXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IkdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibmVnYXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJGaXJlYnJpY2siLCJuZWdhdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiRmlyZWJyaWNrIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwicG9zaXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsIm5lZ2F0aXZlVGV4dENvbG9yIjoiV2hpdGUiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQiLCJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VCYWNrZ3JvdW5kQ29sb3IiOiJPcmFuZ2UiLCJkaXZlcmdlbmNlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkaXZlcmdlbmNlVGV4dENvbG9yIjoiV2hpdGUifSwidG90YWxWb2x1bWUiOnsic2hvdyI6ZmFsc2UsInRleHRDb2xvciI6IkRhcmtHb2xkZW5yb2QiLCJiYWNrZ3JvdW5kQ29sb3IiOiJXaGl0ZVNtb2tlIiwiZm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIn0sImJhckNvbnRyb2wiOnsic2hvd0Jhck91dGxpbmUiOmZhbHNlLCJzaG93TGluZXMiOmZhbHNlLCJzaG93R3JhZGllbnQiOmZhbHNlLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjE5LDIzMCwyMTldLCJ2b2x1bWVQb3NpdGl2ZUdyYWRpZW50RW5kIjoiRGFya1NlYUdyZWVuIiwidm9sdW1lTmVnYXRpdmVHcmFkaWVudFN0YXJ0IjpbMjU1LDI1NSwyNDcsMjQyXSwidm9sdW1lTmVnYXRpdmVHcmFkaWVudEVuZCI6IlJvc3lCcm93biIsImJhckNvbG9yVXAiOiJEYXJrU2VhR3JlZW4iLCJiYXJDb2xvckRvd24iOiJSb3N5QnJvd24iLCJzaG93Vm9sdW1lcyI6ZmFsc2UsInZvbHVtZUZvbnQiOiJBcmlhbCwgMTQuMjVwdCwgc3R5bGU9Qm9sZCIsImJhcldpZHRoRmFjdG9yIjo3MH0sInZvbHVtZUNvbnRyb2wiOnsiR3JhZGllbnRTdGFydCI6IlNpbHZlciIsIkdyYWRpZW50RW5kIjoiRGltR3JheSIsIlNob3ciOmZhbHNlLCJHcmFkaWVudE9wYWNpdHkiOjEwMH0sImJpZ1ZvbHVtZUNsdXN0ZXIiOnsic2hvdyI6dHJ1ZSwic2hvd0JvcmRlciI6dHJ1ZSwiZmlsbENvbG9yIjoiR29sZCIsImJvcmRlckNvbG9yIjp7ImNvbG9yIjoiR29sZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjMuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiZG91YmxlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSJ9LCJ0cmFkaW5nU2NoZWR1bGVCYWNrZ3JvdW5kQ29sb3JpbmciOnsic2hvdyI6ZmFsc2UsInRyYWRpbmdTY2hlZHVsZSI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sImNhbk9wZW5Qb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJjYW5Ib2xkUG9zaXRpb25Db2xvciI6IldoaXRlIiwibXVzdEZsYXR0ZW5Db2xvciI6IkRhcmtHcmF5In0sInZvbHVtZVNjb3JlIjp7InNob3ciOnRydWUsInVwU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkb3duU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkaXZlcmdlbnRTdHlsZSI6eyJiYWNrZ3JvdW5kQ29sb3IiOiJUcmFuc3BhcmVudCIsInRleHRDb2xvciI6Ik9yYW5nZSIsImJvcmRlclBlbiI6eyJjb2xvciI6IlRyYW5zcGFyZW50IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sImZvbnRBdXRvU2NhbGUiOmZhbHNlLCJmb250IjoiQXJpYWwsIDkuNzVwdCIsInZlcnRpY2FsT2Zmc2V0IjowLCJoZWFkc1VwbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZGxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fX0=</UserSettingsSerialized>
         </OrderPrintsIndicator>
       </Indicator>
@@ -222,7 +222,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -291,7 +291,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -321,7 +321,7 @@
           <ZOrder>10054</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>trapped</Aux_Line_Name>
+          <Aux_Line_Name>trapped1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -359,7 +359,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -439,7 +439,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -469,7 +469,7 @@
           <ZOrder>10058</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>boxup</Aux_Line_Name>
+          <Aux_Line_Name>boxup1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -507,7 +507,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -587,7 +587,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -617,7 +617,7 @@
           <ZOrder>10059</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>boxdown</Aux_Line_Name>
+          <Aux_Line_Name>boxdown1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -655,7 +655,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines />
               <LinesConfigurable>true</LinesConfigurable>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -714,7 +714,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -744,7 +744,7 @@
           <ZOrder>10060</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dr</Aux_Line_Name>
+          <Aux_Line_Name>dra</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -782,7 +782,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines />
               <LinesConfigurable>true</LinesConfigurable>
               <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -841,7 +841,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -871,7 +871,7 @@
           <ZOrder>10061</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dr1</Aux_Line_Name>
+          <Aux_Line_Name>dra1</Aux_Line_Name>
           <Aux_Line_Displacement>1</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -909,7 +909,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -978,7 +978,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1008,7 +1008,7 @@
           <ZOrder>10070</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dc</Aux_Line_Name>
+          <Aux_Line_Name>dc1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1046,7 +1046,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -1115,7 +1115,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1145,7 +1145,7 @@
           <ZOrder>10080</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>play4</Aux_Line_Name>
+          <Aux_Line_Name>play4a</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1183,7 +1183,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -1252,7 +1252,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1282,7 +1282,7 @@
           <ZOrder>10081</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dtx</Aux_Line_Name>
+          <Aux_Line_Name>dtx1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1320,7 +1320,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -1389,7 +1389,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1419,7 +1419,7 @@
           <ZOrder>10082</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>elev</Aux_Line_Name>
+          <Aux_Line_Name>elev1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1457,7 +1457,7 @@
               <Enabled>true</Enabled>
               <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
               <HorizontalGridLines>true</HorizontalGridLines>
-              <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+              <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
               <Lines>
                 <Line>
                   <Name>Zero</Name>
@@ -1526,7 +1526,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1556,7 +1556,7 @@
           <ZOrder>10083</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>tbs</Aux_Line_Name>
+          <Aux_Line_Name>tbs1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1591,7 +1591,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1680,11 +1680,11 @@
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
             <string>close2&lt;open2</string>
-            <string>trapped=1</string>
-            <string>boxup=1</string>
-            <string>dr=1</string>
-            <string>dr1=1</string>
-            <string>dc=0</string>
+            <string>trapped1=1</string>
+            <string>boxup1=1</string>
+            <string>dra=1</string>
+            <string>dra1=1</string>
+            <string>dc1=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1723,7 +1723,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1812,11 +1812,11 @@
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
             <string>close2&gt;open2</string>
-            <string>trapped=1</string>
-            <string>boxdown=-1</string>
-            <string>dr=-1</string>
-            <string>dr1=-1</string>
-            <string>dc=0</string>
+            <string>trapped1=1</string>
+            <string>boxdown1=-1</string>
+            <string>dra=-1</string>
+            <string>dra1=-1</string>
+            <string>dc1=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1855,11 +1855,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX Filtered [Arrow]                       </Name>
+          <Name>Apex Sniper2 TX Filtered ES [Arrow]                       </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2032,7 +2032,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2119,7 +2119,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2158,7 +2158,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2245,7 +2245,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2284,11 +2284,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper DTX [Triangle UP]                        </Name>
+          <Name>Apex Sniper2 DTX ES [Triangle UP]                        </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2461,7 +2461,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2550,8 +2550,8 @@
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
             <string>close2&lt;open2</string>
-            <string>trapped=1</string>
-            <string>boxup=1</string>
+            <string>trapped1=1</string>
+            <string>boxup1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2590,7 +2590,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2679,8 +2679,8 @@
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
             <string>close2&gt;open2</string>
-            <string>trapped=1</string>
-            <string>boxdown=-1</string>
+            <string>trapped1=1</string>
+            <string>boxdown1=-1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2719,11 +2719,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX ODD DRD ETX [Diamond]    </Name>
+          <Name>Apex Sniper2 TX ODD DRD ETX ES [Diamond]    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2896,7 +2896,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -2983,7 +2983,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>elev=1</string>
+            <string>elev1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3022,7 +3022,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -3109,7 +3109,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>elev=1</string>
+            <string>elev1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3148,11 +3148,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper ELEV [Square]                             </Name>
+          <Name>Apex Sniper2 ELEV ES [Square]                             </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3325,7 +3325,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -3412,7 +3412,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>tbs=1</string>
+            <string>tbs1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string>close0&gt;open0</string>
@@ -3455,7 +3455,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -3542,7 +3542,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>tbs=1</string>
+            <string>tbs1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string>close0&lt;open0</string>
@@ -3585,11 +3585,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TBS [Triangle Down]                    </Name>
+          <Name>Apex Sniper2 TBS ES [Triangle Down]                    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3762,7 +3762,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -3849,7 +3849,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>play4=1</string>
+            <string>play4a=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3888,7 +3888,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -3975,7 +3975,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>play4=1</string>
+            <string>play4a=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -4014,11 +4014,11 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper Setup 4 [Dot]                                 </Name>
+          <Name>Apex Sniper2 Setup 4 ES [Dot]                                 </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -4191,7 +4191,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>0</Name>
@@ -4291,7 +4291,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -4354,7 +4354,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -4417,7 +4417,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4480,7 +4480,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4554,7 +4554,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4593,7 +4593,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10119</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NX0=</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NH0=</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOmZhbHNlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6MjUsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -4628,7 +4628,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4667,7 +4667,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>10120</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MTB9</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6OH0=</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjpmYWxzZSwiZHJhd1RleHQiOnRydWUsInBsb3RIaXN0b3JpY2FsVmFsdWVzIjpmYWxzZSwibWFya2VyTGluZUxlbmd0aCI6MTAsInJpZ2h0U2hpZnQiOjQwLCJkaWFtb25kU2l6ZSI6NH0=</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -4702,7 +4702,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4790,7 +4790,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex|NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex|ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -4873,7 +4873,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -4958,7 +4958,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -4967,7 +4967,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>9542.75</Value>
+              <Value>3028.75</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -5030,7 +5030,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -5067,13 +5067,100 @@
       </Indicator>
     </Indicator40>
     <Indicator41>
-      <ClassName>NinjaTrader.Indicator.ApexDiagnosticNQWalls</ClassName>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
       <Input>
         <PriceType>Close</PriceType>
       </Input>
       <BarsSeriesIdx>0</BarsSeriesIdx>
       <Indicator>
-        <ApexDiagnosticNQWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ApexDiagnosticEconomicNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>8</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic News</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>1</Panel>
+          <PanelUI>2</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>2147483647</ZOrder>
+          <TopOffset>20</TopOffset>
+          <LeftOffset>10</LeftOffset>
+          <ShowBackground>true</ShowBackground>
+          <MaxNewsItems>10</MaxNewsItems>
+          <NewsRefeshInterval>15</NewsRefeshInterval>
+          <Use24HourTimeFormat>false</Use24HourTimeFormat>
+          <ShowHeader>false</ShowHeader>
+          <Debug>false</Debug>
+          <TodaysNewsOnly>true</TodaysNewsOnly>
+          <UseAlerts>true</UseAlerts>
+          <WarningInterval>15</WarningInterval>
+          <AlertWavFileName>Alert1.wav</AlertWavFileName>
+          <HeaderFontSerialize>Arial:10:True:False:False:False</HeaderFontSerialize>
+          <DefaultFontSerialize>Arial:10:False:False:False:False</DefaultFontSerialize>
+          <WarningFontSerialize>Arial:10:True:True:False:False</WarningFontSerialize>
+          <ffNewsUrl>http://cdn-nfs.faireconomy.media/ff_calendar_thisweek.xml</ffNewsUrl>
+          <USOnlyEvents>false</USOnlyEvents>
+          <ShowLowPriority>true</ShowLowPriority>
+          <HeaderColorSerialize>n:Black</HeaderColorSerialize>
+          <HighPriorityColorSerialize>n:Red</HighPriorityColorSerialize>
+          <MediumPriorityColorSerialize>n:Yellow</MediumPriorityColorSerialize>
+          <LowPriorityColorSerialize>n:GreenYellow</LowPriorityColorSerialize>
+          <NormalColorSerialize>n:LightSkyBlue</NormalColorSerialize>
+          <BackgroundColorSerialize>n:Black</BackgroundColorSerialize>
+          <BorderColorSerialize>n:SlateBlue</BorderColorSerialize>
+          <BackgroundOpacity>255</BackgroundOpacity>
+        </ApexDiagnosticEconomicNews>
+      </Indicator>
+    </Indicator41>
+    <Indicator42>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticESWalls</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticESWalls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
           <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
           <AutoScale>false</AutoScale>
           <BarsPeriods>
@@ -5096,13 +5183,13 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 06-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>A.P.E.X. Diagnostic NQ Walls</Name>
+          <Name>A.P.E.X. Diagnostic ES Walls</Name>
           <Overlay>true</Overlay>
-          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
           <PanelUI>-1</PanelUI>
           <Plots>
@@ -5124,13 +5211,13 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>2147483647</ZOrder>
-        </ApexDiagnosticNQWalls>
+        </ApexDiagnosticESWalls>
       </Indicator>
-    </Indicator41>
+    </Indicator42>
   </Indicators>
   <Panels>
     <Panel0>
-      <HeightRatio>0.811965811965812</HeightRatio>
+      <HeightRatio>0.8203125</HeightRatio>
       <Index>0</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5138,8 +5225,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9553.291</FixedPanelMaxRight>
-      <FixedPanelMinRight>9537.709</FixedPanelMinRight>
+      <FixedPanelMaxRight>3034.99213365155</FixedPanelMaxRight>
+      <FixedPanelMinRight>3010.51144630072</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5163,7 +5250,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel0>
     <Panel1>
-      <HeightRatio>0.0783475783475783</HeightRatio>
+      <HeightRatio>0.0833333333333333</HeightRatio>
       <Index>1</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5171,8 +5258,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.72650638380312</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.1004879398371</FixedPanelMinRight>
+      <FixedPanelMaxRight>2.22415944528979</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.129452866565181</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5196,7 +5283,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel1>
     <Panel2>
-      <HeightRatio>0.0612535612535613</HeightRatio>
+      <HeightRatio>0.0611664295874822</HeightRatio>
       <Index>2</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>
@@ -5229,7 +5316,7 @@
       <YAxisScalingTypeOver>Linear</YAxisScalingTypeOver>
     </Panel2>
     <Panel3>
-      <HeightRatio>0.0626780626780627</HeightRatio>
+      <HeightRatio>0.067515923566879</HeightRatio>
       <Index>3</Index>
       <Maximized>False</Maximized>
       <AutoScaleDateRangeTypeRight>ScreenDateRange</AutoScaleDateRangeTypeRight>

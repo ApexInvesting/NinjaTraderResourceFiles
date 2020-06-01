@@ -124,7 +124,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -210,7 +210,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -279,7 +279,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -321,7 +321,7 @@
           <ZOrder>10054</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>trapped</Aux_Line_Name>
+          <Aux_Line_Name>trapped1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -347,7 +347,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -427,7 +427,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -469,7 +469,7 @@
           <ZOrder>10058</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>boxup</Aux_Line_Name>
+          <Aux_Line_Name>boxup1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -495,7 +495,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -575,7 +575,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -617,7 +617,7 @@
           <ZOrder>10059</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>boxdown</Aux_Line_Name>
+          <Aux_Line_Name>boxdown1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -643,7 +643,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -702,7 +702,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -744,7 +744,7 @@
           <ZOrder>10060</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dr</Aux_Line_Name>
+          <Aux_Line_Name>dra</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -770,7 +770,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -829,7 +829,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -871,7 +871,7 @@
           <ZOrder>10061</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dr1</Aux_Line_Name>
+          <Aux_Line_Name>dra1</Aux_Line_Name>
           <Aux_Line_Displacement>1</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -897,7 +897,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -966,7 +966,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1008,7 +1008,7 @@
           <ZOrder>10070</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dc</Aux_Line_Name>
+          <Aux_Line_Name>dc1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1034,7 +1034,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -1103,7 +1103,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1145,7 +1145,7 @@
           <ZOrder>10080</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>play4</Aux_Line_Name>
+          <Aux_Line_Name>play4a</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1171,7 +1171,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -1240,7 +1240,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1282,7 +1282,7 @@
           <ZOrder>10081</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>dtx</Aux_Line_Name>
+          <Aux_Line_Name>dtx1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1308,7 +1308,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -1377,7 +1377,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1419,7 +1419,7 @@
           <ZOrder>10082</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>elev</Aux_Line_Name>
+          <Aux_Line_Name>elev1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1445,7 +1445,7 @@
                   <MarketDataType>Last</MarketDataType>
                   <PointAndFigurePriceType>Close</PointAndFigurePriceType>
                   <ReversalType>Tick</ReversalType>
-                  <Value>8</Value>
+                  <Value>10</Value>
                   <Value2>50</Value2>
                 </Period>
               </BarsPeriods>
@@ -1514,7 +1514,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1556,7 +1556,7 @@
           <ZOrder>10083</ZOrder>
           <Copy_Offset>0</Copy_Offset>
           <Show_Line>true</Show_Line>
-          <Aux_Line_Name>tbs</Aux_Line_Name>
+          <Aux_Line_Name>tbs1</Aux_Line_Name>
           <Aux_Line_Displacement>0</Aux_Line_Displacement>
         </_Markers_Plus_Copy>
       </Indicator>
@@ -1579,7 +1579,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1680,11 +1680,11 @@
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
             <string>close2&lt;open2</string>
-            <string>trapped=1</string>
-            <string>boxup=1</string>
-            <string>dr=1</string>
-            <string>dr1=1</string>
-            <string>dc=0</string>
+            <string>trapped1=1</string>
+            <string>boxup1=1</string>
+            <string>dra=1</string>
+            <string>dra1=1</string>
+            <string>dc1=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1711,7 +1711,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1812,11 +1812,11 @@
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
             <string>close2&gt;open2</string>
-            <string>trapped=1</string>
-            <string>boxdown=-1</string>
-            <string>dr=-1</string>
-            <string>dr1=-1</string>
-            <string>dc=0</string>
+            <string>trapped1=1</string>
+            <string>boxdown1=-1</string>
+            <string>dra=-1</string>
+            <string>dra1=-1</string>
+            <string>dc1=0</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -1843,7 +1843,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1859,7 +1859,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX Filtered [Arrow]                       </Name>
+          <Name>Apex Sniper2 TX Filtered [Arrow]                       </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2020,7 +2020,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2119,7 +2119,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2146,7 +2146,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2245,7 +2245,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>dtx=1</string>
+            <string>dtx1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2272,7 +2272,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2288,7 +2288,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper DTX [Triangle UP]                        </Name>
+          <Name>Apex Sniper2 DTX [Triangle UP]                        </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2449,7 +2449,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2550,8 +2550,8 @@
             <string>close0&gt;open0</string>
             <string>close1&lt;open1</string>
             <string>close2&lt;open2</string>
-            <string>trapped=1</string>
-            <string>boxup=1</string>
+            <string>trapped1=1</string>
+            <string>boxup1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2578,7 +2578,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2679,8 +2679,8 @@
             <string>close0&lt;open0</string>
             <string>close1&gt;open1</string>
             <string>close2&gt;open2</string>
-            <string>trapped=1</string>
-            <string>boxdown=-1</string>
+            <string>trapped1=1</string>
+            <string>boxdown1=-1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -2707,7 +2707,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2723,7 +2723,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TX ODD DRD ETX [Diamond]    </Name>
+          <Name>Apex Sniper2 TX ODD DRD ETX [Diamond]    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -2884,7 +2884,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -2983,7 +2983,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>elev=1</string>
+            <string>elev1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3010,7 +3010,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3109,7 +3109,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>elev=1</string>
+            <string>elev1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3136,7 +3136,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3152,7 +3152,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper ELEV [Square]                             </Name>
+          <Name>Apex Sniper2 ELEV [Square]                             </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3313,7 +3313,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3412,7 +3412,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>tbs=1</string>
+            <string>tbs1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string>close0&gt;open0</string>
@@ -3443,7 +3443,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3542,7 +3542,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>tbs=1</string>
+            <string>tbs1=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string>close0&lt;open0</string>
@@ -3573,7 +3573,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3589,7 +3589,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper TBS [Triangle Down]                    </Name>
+          <Name>Apex Sniper2 TBS [Triangle Down]                    </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -3750,7 +3750,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3849,7 +3849,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&gt;open0</string>
-            <string>play4=1</string>
+            <string>play4a=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -3876,7 +3876,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -3975,7 +3975,7 @@
           <Speech_Text>Señal Confirmada</Speech_Text>
           <Enable_Conditions>
             <string>close0&lt;open0</string>
-            <string>play4=1</string>
+            <string>play4a=1</string>
           </Enable_Conditions>
           <Disable_Conditions>
             <string />
@@ -4002,7 +4002,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4018,7 +4018,7 @@
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
-          <Name>Apex Sniper Setup 4 [Dot]                                 </Name>
+          <Name>Apex Sniper2 Setup 4 [Dot]                                 </Name>
           <Overlay>true</Overlay>
           <PaintPriceMarkers>false</PaintPriceMarkers>
           <Panel>-2</Panel>
@@ -4179,7 +4179,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4279,7 +4279,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4342,7 +4342,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4405,7 +4405,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4468,7 +4468,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4542,7 +4542,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4616,7 +4616,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4690,7 +4690,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4768,7 +4768,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -4861,7 +4861,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4946,7 +4946,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -4967,7 +4967,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>9542.75</Value>
+              <Value>9535</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -5018,7 +5018,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -5084,7 +5084,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>8</Value>
+              <Value>10</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -5127,6 +5127,93 @@
         </ApexDiagnosticNQWalls>
       </Indicator>
     </Indicator41>
+    <Indicator42>
+      <ClassName>NinjaTrader.Indicator.ApexDiagnosticEconomicNews</ClassName>
+      <Input>
+        <PriceType>Close</PriceType>
+      </Input>
+      <BarsSeriesIdx>0</BarsSeriesIdx>
+      <Indicator>
+        <ApexDiagnosticEconomicNews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <AllowRemovalOfDrawObjects>false</AllowRemovalOfDrawObjects>
+          <AutoScale>true</AutoScale>
+          <BarsPeriods>
+            <Period>
+              <BasePeriodType>Tick</BasePeriodType>
+              <BasePeriodValue>100</BasePeriodValue>
+              <Id>Custom8</Id>
+              <MarketDataType>Last</MarketDataType>
+              <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+              <ReversalType>Tick</ReversalType>
+              <Value>10</Value>
+              <Value2>50</Value2>
+            </Period>
+          </BarsPeriods>
+          <CalculateOnBarClose>false</CalculateOnBarClose>
+          <DisableScaleBuffer>false</DisableScaleBuffer>
+          <Displacement>0</Displacement>
+          <DisplayInDataBox>false</DisplayInDataBox>
+          <DrawOnPricePanel>true</DrawOnPricePanel>
+          <Enabled>true</Enabled>
+          <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
+          <HorizontalGridLines>true</HorizontalGridLines>
+          <InstrumentsSerializable>NQ 06-20 Globex</InstrumentsSerializable>
+          <Lines />
+          <LinesConfigurable>true</LinesConfigurable>
+          <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+          <Name>A.P.E.X. Diagnostic News</Name>
+          <Overlay>true</Overlay>
+          <PaintPriceMarkers>true</PaintPriceMarkers>
+          <Panel>1</Panel>
+          <PanelUI>2</PanelUI>
+          <Plots>
+            <Plot>
+              <Max>1.7976931348623157E+308</Max>
+              <Min>-1.7976931348623157E+308</Min>
+              <Name>Dummy</Name>
+              <PenSerializable>
+                <Color>n:Orange</Color>
+                <DashStyle>Solid</DashStyle>
+                <Width>1</Width>
+              </PenSerializable>
+              <PlotStyle>Line</PlotStyle>
+            </Plot>
+          </Plots>
+          <PlotsConfigurable>false</PlotsConfigurable>
+          <ScaleJustification>Right</ScaleJustification>
+          <SelectedSeries>0</SelectedSeries>
+          <SessionBreakLines>true</SessionBreakLines>
+          <VerticalGridLines>true</VerticalGridLines>
+          <ZOrder>2147483647</ZOrder>
+          <TopOffset>20</TopOffset>
+          <LeftOffset>10</LeftOffset>
+          <ShowBackground>true</ShowBackground>
+          <MaxNewsItems>10</MaxNewsItems>
+          <NewsRefeshInterval>15</NewsRefeshInterval>
+          <Use24HourTimeFormat>false</Use24HourTimeFormat>
+          <ShowHeader>false</ShowHeader>
+          <Debug>false</Debug>
+          <TodaysNewsOnly>true</TodaysNewsOnly>
+          <UseAlerts>true</UseAlerts>
+          <WarningInterval>15</WarningInterval>
+          <AlertWavFileName>Alert1.wav</AlertWavFileName>
+          <HeaderFontSerialize>Arial:10:True:False:False:False</HeaderFontSerialize>
+          <DefaultFontSerialize>Arial:10:False:False:False:False</DefaultFontSerialize>
+          <WarningFontSerialize>Arial:10:True:True:False:False</WarningFontSerialize>
+          <ffNewsUrl>http://cdn-nfs.faireconomy.media/ff_calendar_thisweek.xml</ffNewsUrl>
+          <USOnlyEvents>false</USOnlyEvents>
+          <ShowLowPriority>true</ShowLowPriority>
+          <HeaderColorSerialize>n:Black</HeaderColorSerialize>
+          <HighPriorityColorSerialize>n:Red</HighPriorityColorSerialize>
+          <MediumPriorityColorSerialize>n:Yellow</MediumPriorityColorSerialize>
+          <LowPriorityColorSerialize>n:GreenYellow</LowPriorityColorSerialize>
+          <NormalColorSerialize>n:LightSkyBlue</NormalColorSerialize>
+          <BackgroundColorSerialize>n:Black</BackgroundColorSerialize>
+          <BorderColorSerialize>n:SlateBlue</BorderColorSerialize>
+          <BackgroundOpacity>255</BackgroundOpacity>
+        </ApexDiagnosticEconomicNews>
+      </Indicator>
+    </Indicator42>
   </Indicators>
   <Panels>
     <Panel0>
@@ -5138,8 +5225,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>9553.291</FixedPanelMaxRight>
-      <FixedPanelMinRight>9537.709</FixedPanelMinRight>
+      <FixedPanelMaxRight>9546.00896385542</FixedPanelMaxRight>
+      <FixedPanelMinRight>9527.55730120482</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -5171,8 +5258,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.72650638380312</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.1004879398371</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.4728960816701</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.0857270463808743</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
