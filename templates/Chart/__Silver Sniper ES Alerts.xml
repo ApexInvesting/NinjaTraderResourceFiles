@@ -7,7 +7,7 @@
       <AlwaysOnTop>false</AlwaysOnTop>
       <AxisColorSerialize>n:ActiveCaption</AxisColorSerialize>
       <BackColorSerialize>n:DarkSlateGray</BackColorSerialize>
-      <BarMarginRight>120</BarMarginRight>
+      <BarMarginRight>105</BarMarginRight>
       <BarSpaceIntern>17.650598476449222</BarSpaceIntern>
       <BuyColorSerialize>n:Honeydew</BuyColorSerialize>
       <ChartCursor>CrossHair</ChartCursor>
@@ -124,7 +124,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -136,7 +136,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -170,14 +170,14 @@
           <MoveSameLowHigh>false</MoveSameLowHigh>
           <ColorDoubleSer>-10496</ColorDoubleSer>
           <ColorHHLLSer>-1</ColorHHLLSer>
-          <ColorHLLHSer>-16777216</ColorHLLHSer>
+          <ColorHLLHSer>-8355712</ColorHLLHSer>
           <FontChartLabelSer>
             <FontFamily>Microsoft Sans Serif</FontFamily>
             <Size>12</Size>
             <Style>Bold</Style>
           </FontChartLabelSer>
           <LabelOffset>6</LabelOffset>
-          <ShowPercentage>false</ShowPercentage>
+          <ShowPercentage>true</ShowPercentage>
           <AlertsVisualEnabled>false</AlertsVisualEnabled>
           <AlertsVoiceEnabled>false</AlertsVoiceEnabled>
           <AlertsFilter>false</AlertsFilter>
@@ -202,7 +202,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -234,7 +234,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex|NQ 09-20 Globex|NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex|ES 09-20 Globex|ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -262,8 +262,8 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>1</ZOrder>
-          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJlbmFibGVPUFJlamVjdGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVPUFJlamVjdGlvbkFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6My4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6Mi41LCJwcmV2aW91c0JhckRlcHRoIjoxLCJwcmV2aW91c0JhclRocmVzaG9sZCI6MTAsInBlcmlvZCI6MywicmVxdWlyZVBBVyI6ZmFsc2UsInJlcXVpcmVUcmFwcGVkT3JkZXIiOmZhbHNlLCJyZXF1aXJlRXhoYXVzdGlvbiI6ZmFsc2V9LCJvcGRpdmVyZ2VuY2UiOnsiZW5hYmxlT1BEaXZlcmdlbmNlQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJ0aGlyZEJhclNsaW5nIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjJ9LCJlbGV2YXRvciI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyLCJjbHVzdGVyUmVxdWlyZW1lbnRzIjoyfSwiZG91YmxlVFgiOnsicGVyaW9kIjozMCwic3RyZW5ndGgiOjV9LCJzdGFyTFZTWk9JIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhc3V0aW9uQm94UmVxdWlyZW1lbnQiOmZhbHNlfSwiZGl2ZXJnZW50TG93UmV2ZXJzYWxHbyI6e30sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ6b25lT2ZJbnRlcmVzdCI6eyJtaW5Wb2x1bWUiOjAsIm1pbkxldmVscyI6M30sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wfSwidHJhcHBlZE9yZGVycyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjMsImVuYWJsZUxpdmVFeGhhc3V0aW9uQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZVRyYXBwZWRPcmRlcnNBbGVydHMiOmZhbHNlLCJyZXZlcnNhbE9ubHlBbGVydCI6ZmFsc2V9LCJsZWFkaW5nVm9sdW1lcyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjN9LCJibG9ja09yZGVyU2V0dGluZ3MiOnsiYmxvY2tTaXplIjo1MH0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6Nywic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwibW9tZW50dW0iOnsic3RyZW5ndGgiOjMuMCwic2l6ZSI6MywibWluaW11bVRvdGFsVm9sdW1lVGhyZXNob2xkIjoxMCwic2hvd0xWU0RpYW1vbmQiOmZhbHNlLCJsdnNUaHJlc2hvbGQiOjEyLCJlbmFibGVMVlNBbGVydHMiOmZhbHNlLCJlbmFibGVMaXZlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUFsZXJ0cyI6ZmFsc2V9LCJhYnNvcnB0aW9uIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTB9LCJtaW5pTWFnbmV0cyI6eyJtaW5pbXVtVm9sdW1lIjoxLCJ0aHJlc2hvbGQiOjEsImRheXNUb1Nob3ciOjUsImNhbGN1bGF0ZU9uQmFyQ2xvc2UiOmZhbHNlLCJhbGxvd0JvdGhFbmRzTGl2ZSI6dHJ1ZSwiZW5hYmxlTU1BbGVydHMiOmZhbHNlLCJlbmFibGVPblpPSUFsZXJ0cyI6ZmFsc2UsIm9uWk9JQnVmZmVyIjowLCJlbmFibGVNaW5pTWFnbmV0c1dpdGhQYXdBbGVydHMiOmZhbHNlLCJlbmFibGVMaXZlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZX0sImRpc3BsYXlNaXNjIjp7InZvbHVtZU9mZnNldCI6MH0sImJpZ1ZvbHVtZUNsdXN0ZXIiOnsiZ3JlYXRlclRoYW5NdWx0aXBsaWVyIjoyLjAsInBlcmlvZCI6NCwibWluaW11bVRvdGFsVm9sdW1lIjoxMH0sInZvbHVtZVNjb3JlU2V0dGluZ3MiOnsiYWxlcnRUaHJlc2hvbGQiOjEwMDB9LCJkYXRhUGVyc2lzdGVuY2VTZXR0aW5ncyI6eyJsb2FkRGF0YSI6dHJ1ZSwic2F2ZURhdGEiOnRydWV9fQ==</SettingsSerialized>
-          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOnRydWUsInVwcGVyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJCb3JkZXJDb2xvciI6eyJjb2xvciI6IkRhcmtPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJzaG93UGF3TGluZSI6dHJ1ZSwidXBwZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJyb2tlblVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiVG9tYXRvIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYnJva2VuTG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJMaW1lIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5XaWR0aFRvRXhwYW5kIjoyNSwibGluZU9wYWNpdHkiOjEwMCwiZGF5c1RvU2hvd1Bhc3RCcm9rZW5EYXRlIjo1LCJicm9rZW5MaW5lT3BhY2l0eSI6MTAwfSwib3BSZWplY3Rpb24iOnsib1BSZWplY3Rpb25hbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInNob3dPUFJlamVjdGlvbiI6dHJ1ZSwiaWNvblVwQ29sb3IiOiJHcmVlbiIsImljb25Eb3duQ29sb3IiOiJSZWQiLCJ2ZXJ0aWNhbE9mZnNldCI6MC4wLCJzY2FsZU9mZnNldCI6Mn0sIm9wRGl2ZXJnZW5jZSI6eyJvUERpdmVyZ2VuY2VhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInNob3dPUERpdmVyZ2VuY2UiOmZhbHNlLCJpY29uVXBDb2xvciI6IkdyZWVuIiwiaWNvbkRvd25Db2xvciI6IlJlZCIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjoyfSwidGhpcmRCYXJTbGluZyI6eyJsaXZlVGhpcmRCYXJTbGluZ2FsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkVGhpcmRCYXJTbGluZ2FsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInN0YXJMVlNaT0kiOnsibGl2ZVN0YXJMVlNaT0lhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZFN0YXJMVlNaT0lhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJlbGV2YXRvciI6eyJsaXZlRWxldmF0b3JhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZEVsZXZhdG9yYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiZGl2ZXJnZW50TG93UmV2ZXJzYWxHbyI6eyJsaXZlRGl2ZXJnZW50TG93UmV2ZXJzYWxHb2FsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkRGl2ZXJnZW50TG93UmV2ZXJzYWxHb2FsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sImRvdWJsZVRYIjp7ImxpdmVEb3VibGVUWGFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkRG91YmxlVFhhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJpbWJhbGFuY2UiOnsic2hvdyI6ZmFsc2UsImFza0NvbG9yIjoiU2VhR3JlZW4iLCJiaWRDb2xvciI6IkRhcmtSZWQiLCJ3ZWFrQ29sb3IiOiJEaW1HcmF5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7InNob3ciOmZhbHNlLCJjb2xvciI6IkJsYWNrIn0sInpvbmVPZkludGVyZXN0Ijp7InNob3ciOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJkb3duQ29sb3IiOiJNZWRpdW1PcmNoaWQiLCJ1cENvbG9yIjoiRGFya1R1cnF1b2lzZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwib3BhY2l0eSI6OTAsImJyb2tlbk9wYWNpdHkiOjQwfSwiZXhoYXVzdGlvbiI6eyJzaG93Ijp0cnVlLCJ0b3BMaW5lU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJib3R0b21MaW5lU3R5bGUiOnsiY29sb3IiOiJMaWdodEdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiRGFya1NlYUdyZWVuIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRyYXBwZWRPcmRlcnMiOnsic2hvdyI6dHJ1ZSwic2hvd0JvcmRlciI6dHJ1ZSwiaGlnaGxpZ2h0Q29sb3IiOiJEb2RnZXJCbHVlIiwiZm9udENvbG9yIjoiQmxhY2siLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInRyYXBwZWRPcmRlcnNXaXRoRXhoYXVzdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiYm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEZWVwU2t5Qmx1ZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjguMH0sIm1pbldpZHRoVG9FeHBhbmQiOjN9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJSZWQiLCJhc2tDb2xvciI6IkxpbWVHcmVlbiIsInNob3dCbG9ja0xpbmUiOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJhc2tMaW5lU3R5bGUiOnsiY29sb3IiOiJMYXduR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJkYXlzVG9TaG93VW5icm9rZW4iOjEsImxpbmVPcGFjaXR5IjoxMDB9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiJXaGl0ZSIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJwb3NpdGl2ZUNvbG9yIjoiR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUNvbG9yIjoiUmVkIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IlJlZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiV2hpdGUiLCJpY29uRG93bkNvbG9yIjoiV2hpdGUiLCJtb21lbnR1bUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJhYnNvcnB0aW9uIjp7InNob3ciOmZhbHNlLCJ1cENvbG9yIjoiRGFya09saXZlR3JlZW4iLCJkb3duQ29sb3IiOiJNYXJvb24iLCJpY29uVXBDb2xvciI6IkJsYWNrIiwiaWNvbkRvd25Db2xvciI6IkJsYWNrIiwiYWJzb3JwdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwic2hvdyI6dHJ1ZSwibGl2ZUNvbG9yIjoiUGluayIsImNsb3NlZENvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5pTWFnbmV0c3dpdGhQYXdBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImxpdmVPcGFjaXR5IjoxMDAsImNsb3NlZE9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiTGlnaHRTbGF0ZUdyYXkiLCJmb250Q29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUJhY2tncm91bmRDb2xvciI6IkZpcmVicmljayIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJGaXJlYnJpY2siLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IldoaXRlIiwibmVnYXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsInNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUJhY2tncm91bmRDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiJXaGl0ZSJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiRGFya0dvbGRlbnJvZCIsImJhY2tncm91bmRDb2xvciI6IldoaXRlU21va2UiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQifSwiYmFyQ29udHJvbCI6eyJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyMTksMjMwLDIxOV0sInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiJEYXJrU2VhR3JlZW4iLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjU1LDI0NywyNDJdLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiUm9zeUJyb3duIiwiYmFyQ29sb3JVcCI6IkRhcmtTZWFHcmVlbiIsImJhckNvbG9yRG93biI6IlJvc3lCcm93biIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6IkFyaWFsLCAxNC4yNXB0LCBzdHlsZT1Cb2xkIiwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiU2lsdmVyIiwiR3JhZGllbnRFbmQiOiJEaW1HcmF5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6MTAwfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJzaG93Qm9yZGVyIjp0cnVlLCJmaWxsQ29sb3IiOiJZZWxsb3ciLCJib3JkZXJDb2xvciI6eyJjb2xvciI6IlllbGxvdyIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjUuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiZG91YmxlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5DbHVzdGVyV2lkdGhUb0V4cGFuZCI6MjV9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJzaG93IjpmYWxzZSwiaWNvbkJhY2tncm91bmRQb3NpdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmROZWdhdGl2ZUNvbG9yIjoiTWVkaXVtU2xhdGVCbHVlIiwiaWNvbkJhY2tncm91bmREaXZlcmdlbmNlQ29sb3IiOiJPcmFuZ2UiLCJpY29uRm9yZUNvbG9yIjoiV2hpdGUifSwidHJhZGluZ1NjaGVkdWxlQmFja2dyb3VuZENvbG9yaW5nIjp7InNob3ciOmZhbHNlLCJ0cmFkaW5nU2NoZWR1bGUiOnsiSXRlbXMiOlt7IlN0YXJ0RW50ZXJpbmciOjAsIlN0b3BFbnRlcmluZyI6MTAwODAsIkZsYXR0ZW5Qb3NpdGlvbnMiOm51bGx9XSwiRGlzcGxheU5hbWUiOiJDdXN0b20gdW5zYXZlZCBzY2hlZHVsZSJ9LCJjYW5PcGVuUG9zaXRpb25Db2xvciI6IldoaXRlIiwiY2FuSG9sZFBvc2l0aW9uQ29sb3IiOiJXaGl0ZSIsIm11c3RGbGF0dGVuQ29sb3IiOiJEYXJrR3JheSJ9LCJ2b2x1bWVTY29yZSI6eyJzaG93Ijp0cnVlLCJ1cFN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IlRyYW5zcGFyZW50IiwidGV4dENvbG9yIjoiTGlnaHRHcmF5IiwiYm9yZGVyUGVuIjp7ImNvbG9yIjoiVHJhbnNwYXJlbnQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwiZG93blN0eWxlIjp7ImJhY2tncm91bmRDb2xvciI6IlRyYW5zcGFyZW50IiwidGV4dENvbG9yIjoiTGlnaHRHcmF5IiwiYm9yZGVyUGVuIjp7ImNvbG9yIjoiVHJhbnNwYXJlbnQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9fSwiZGl2ZXJnZW50U3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJPcmFuZ2UiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJmb250QXV0b1NjYWxlIjpmYWxzZSwiZm9udCI6IkFyaWFsLCA5Ljc1cHQiLCJ2ZXJ0aWNhbE9mZnNldCI6MCwiaGVhZHNVcGxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJjb25maXJtZWRsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX19</UserSettingsSerialized>
+          <SettingsSerialized>eyJ1c2VGdXR1cmVzVm9sdW1lRm9yRm9yZXgiOnRydWUsInBhdyI6eyJzdHJlbmd0aCI6MzAuMCwib25seVNob3dPbldpY2siOnRydWV9LCJvcHJlamVjdGlvbiI6eyJzZXR1cEJhckNhbGN1bGF0aW9ucyI6MSwiUHJldmlvdXNCYXJDYWxjdWxhdGlvbnMiOjEsInNldHVwQmFyRGVwdGhNaW5pbnVtVm9sdW1lIjowLCJlbmFibGVPUFJlamVjdGlvbkFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVPUFJlamVjdGlvbkFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6My4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6My4wLCJwcmV2aW91c0JhckRlcHRoIjoxLCJwcmV2aW91c0JhclRocmVzaG9sZCI6MTAsInBlcmlvZCI6MywicmVxdWlyZVBBVyI6ZmFsc2UsInJlcXVpcmVUcmFwcGVkT3JkZXIiOmZhbHNlLCJyZXF1aXJlRXhoYXVzdGlvbiI6ZmFsc2V9LCJvcGRpdmVyZ2VuY2UiOnsiZW5hYmxlT1BEaXZlcmdlbmNlQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU9QRGl2ZXJnZW5jZUFsZXJ0cyI6ZmFsc2UsInNldHVwQmFyTXVsdGlwbGllciI6Mi4wLCJzZXR1cEJhckRlcHRoIjoyLCJzZXR1cEJhclRocmVzaG9sZCI6MTAsInByZXZpb3VzQmFyTXVsdGlwbGllciI6MC4wLCJwcmV2aW91c0JhckRlcHRoIjowLCJwZXJpb2QiOjN9LCJ0aGlyZEJhclNsaW5nIjp7Im1pbmlNYWduZXRQYXdSZXF1aXJlbWVudHMiOjJ9LCJlbGV2YXRvciI6eyJtaW5pTWFnbmV0UGF3UmVxdWlyZW1lbnRzIjoyLCJjbHVzdGVyUmVxdWlyZW1lbnRzIjoyfSwiZG91YmxlVFgiOnsicGVyaW9kIjozMCwic3RyZW5ndGgiOjV9LCJzdGFyTFZTWk9JIjp7InRyYXBwZWRPcmRlcnNBbmRFeGhhc3V0aW9uQm94UmVxdWlyZW1lbnQiOmZhbHNlfSwiZGl2ZXJnZW50TG93UmV2ZXJzYWxHbyI6e30sImltYmFsYW5jZSI6eyJzdHJlbmd0aCI6My4wLCJ2b2x1bWVGaWx0ZXIiOjB9LCJ6b25lT2ZJbnRlcmVzdCI6eyJtaW5Wb2x1bWUiOjAsIm1pbkxldmVscyI6M30sImV4aGF1c3Rpb24iOnsic3RyZW5ndGgiOjMuMCwidm9sdW1lRmlsdGVyIjowfSwibmV0Vm9sdW1lQWNjZWxlcmF0aW9uIjp7InBlcmlvZCI6NCwic3RyZW5ndGgiOjIuMCwidm9sdW1lRmlsdGVyIjowfSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsicGVyaW9kIjo0LCJzdHJlbmd0aCI6Mi4wfSwidHJhcHBlZE9yZGVycyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjMsImVuYWJsZUxpdmVFeGhhc3V0aW9uQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZVRyYXBwZWRPcmRlcnNBbGVydHMiOmZhbHNlLCJyZXZlcnNhbE9ubHlBbGVydCI6ZmFsc2V9LCJsZWFkaW5nVm9sdW1lcyI6eyJtaW5Wb2x1bWUiOjEwLCJtaW5MZXZlbHMiOjN9LCJibG9ja09yZGVyU2V0dGluZ3MiOnsiYmxvY2tTaXplIjoyNTB9LCJibG9ja1ZvbHVtZUFjY2VsZXJhdGlvbiI6eyJwZXJpb2QiOjcsInN0cmVuZ3RoIjoyLjAsInZvbHVtZUZpbHRlciI6MH0sIm1vbWVudHVtIjp7InN0cmVuZ3RoIjozLjAsInNpemUiOjMsIm1pbmltdW1Ub3RhbFZvbHVtZVRocmVzaG9sZCI6MTAsInNob3dMVlNEaWFtb25kIjpmYWxzZSwibHZzVGhyZXNob2xkIjoxMiwiZW5hYmxlTFZTQWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZUxWU0FsZXJ0cyI6ZmFsc2UsImVuYWJsZUFsZXJ0cyI6ZmFsc2UsImVuYWJsZUxpdmVBbGVydHMiOmZhbHNlfSwiYWJzb3JwdGlvbiI6eyJzdHJlbmd0aCI6My4wLCJzaXplIjozLCJtaW5pbXVtVG90YWxWb2x1bWVUaHJlc2hvbGQiOjEwfSwibWluaU1hZ25ldHMiOnsibWluaW11bVZvbHVtZSI6MSwidGhyZXNob2xkIjoxLCJkYXlzVG9TaG93Ijo1LCJjYWxjdWxhdGVPbkJhckNsb3NlIjpmYWxzZSwiYWxsb3dCb3RoRW5kc0xpdmUiOnRydWUsImVuYWJsZU1NQWxlcnRzIjpmYWxzZSwiZW5hYmxlT25aT0lBbGVydHMiOmZhbHNlLCJvblpPSUJ1ZmZlciI6MCwiZW5hYmxlTWluaU1hZ25ldHNXaXRoUGF3QWxlcnRzIjpmYWxzZSwiZW5hYmxlTGl2ZU1pbmlNYWduZXRzV2l0aFBhd0FsZXJ0cyI6ZmFsc2V9LCJkaXNwbGF5TWlzYyI6eyJ2b2x1bWVPZmZzZXQiOjB9LCJiaWdWb2x1bWVDbHVzdGVyIjp7ImdyZWF0ZXJUaGFuTXVsdGlwbGllciI6Mi4wLCJwZXJpb2QiOjQsIm1pbmltdW1Ub3RhbFZvbHVtZSI6MTB9LCJ2b2x1bWVTY29yZVNldHRpbmdzIjp7ImFsZXJ0VGhyZXNob2xkIjoxMDAwfSwiZGF0YVBlcnNpc3RlbmNlU2V0dGluZ3MiOnsibG9hZERhdGEiOnRydWUsInNhdmVEYXRhIjp0cnVlfX0=</SettingsSerialized>
+          <UserSettingsSerialized>eyJwYXdQcmludHMiOnsic2hvdyI6dHJ1ZSwiVXBwZXJDb2xvciI6IkRhcmtPcmFuZ2UiLCJMb3dlckNvbG9yIjoiRGFya09yYW5nZSIsInNob3dCb3JkZXIiOnRydWUsInVwcGVyQm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJCb3JkZXJDb2xvciI6eyJjb2xvciI6IkRhcmtPcmFuZ2UiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJzaG93UGF3TGluZSI6dHJ1ZSwidXBwZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwibG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJEYXJrT3JhbmdlIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZXh0ZW5kUGFzdEJyb2tlbiI6ZmFsc2UsImJyb2tlblVwcGVyTGluZVN0eWxlIjp7ImNvbG9yIjoiVG9tYXRvIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYnJva2VuTG93ZXJMaW5lU3R5bGUiOnsiY29sb3IiOiJMaW1lIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5XaWR0aFRvRXhwYW5kIjoyNSwibGluZU9wYWNpdHkiOjEwMCwiZGF5c1RvU2hvd1Bhc3RCcm9rZW5EYXRlIjo1LCJicm9rZW5MaW5lT3BhY2l0eSI6MTAwfSwib3BSZWplY3Rpb24iOnsib1BSZWplY3Rpb25hbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwic2hvd09QUmVqZWN0aW9uIjp0cnVlLCJpY29uVXBDb2xvciI6IkdyZWVuIiwiaWNvbkRvd25Db2xvciI6IlJlZCIsInZlcnRpY2FsT2Zmc2V0IjowLjAsInNjYWxlT2Zmc2V0IjozfSwib3BEaXZlcmdlbmNlIjp7Im9QRGl2ZXJnZW5jZWFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwic2hvd09QRGl2ZXJnZW5jZSI6ZmFsc2UsImljb25VcENvbG9yIjoiR3JlZW4iLCJpY29uRG93bkNvbG9yIjoiUmVkIiwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjN9LCJ0aGlyZEJhclNsaW5nIjp7ImxpdmVUaGlyZEJhclNsaW5nYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZFRoaXJkQmFyU2xpbmdhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInN0YXJMVlNaT0kiOnsibGl2ZVN0YXJMVlNaT0lhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6dHJ1ZSwid2luZG93Rmxhc2giOmZhbHNlfSwiY29uZmlybWVkU3RhckxWU1pPSWFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjp0cnVlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiZWxldmF0b3IiOnsibGl2ZUVsZXZhdG9yYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZEVsZXZhdG9yYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJkaXZlcmdlbnRMb3dSZXZlcnNhbEdvIjp7ImxpdmVEaXZlcmdlbnRMb3dSZXZlcnNhbEdvYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJjb25maXJtZWREaXZlcmdlbnRMb3dSZXZlcnNhbEdvYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwiZG91YmxlVFgiOnsibGl2ZURvdWJsZVRYYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZERvdWJsZVRYYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX19LCJpbWJhbGFuY2UiOnsic2hvdyI6ZmFsc2UsImFza0NvbG9yIjoiU2VhR3JlZW4iLCJiaWRDb2xvciI6IkRhcmtSZWQiLCJ3ZWFrQ29sb3IiOiJEaW1HcmF5Iiwic2hvd1dlYWtJbWJhbGFuY2VzIjpmYWxzZX0sImJhbGFuY2VkVm9sdW1lIjp7InNob3ciOmZhbHNlLCJjb2xvciI6IkJsYWNrIn0sInpvbmVPZkludGVyZXN0Ijp7InNob3ciOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJkb3duQ29sb3IiOiJNZWRpdW1PcmNoaWQiLCJ1cENvbG9yIjoiRGFya1R1cnF1b2lzZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwib3BhY2l0eSI6OTAsImJyb2tlbk9wYWNpdHkiOjQwfSwiZXhoYXVzdGlvbiI6eyJzaG93Ijp0cnVlLCJ0b3BMaW5lU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJib3R0b21MaW5lU3R5bGUiOnsiY29sb3IiOiJMaWdodEdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6Mi4wfSwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwibmV3Vm9sdW1lQWNjZWxlcnRpb24iOnsic2hvdyI6ZmFsc2UsImljb25Qb3NpdGl2ZUNvbG9yIjoiRGFya1NlYUdyZWVuIiwiaWNvbk5lZ2F0aXZlQ29sb3IiOiJSZWQiLCJpY29uRGl2ZXJnZW5jZUNvbG9yIjoiT3JhbmdlIiwiaWNvbkJhY2tncm91bmRDb2xvciI6IldoaXRlIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fSwidG90YWxWb2x1bWVBY2NlbGVyYXRpb24iOnsic2hvdyI6ZmFsc2UsImljb25CYWNrZ3JvdW5kUG9zaXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25CYWNrZ3JvdW5kTmVnYXRpdmVDb2xvciI6Ik1lZGl1bVNsYXRlQmx1ZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sInRyYXBwZWRPcmRlcnMiOnsic2hvdyI6dHJ1ZSwic2hvd0JvcmRlciI6dHJ1ZSwiaGlnaGxpZ2h0Q29sb3IiOiJEb2RnZXJCbHVlIiwiZm9udENvbG9yIjoiQmxhY2siLCJhbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sInRyYXBwZWRPcmRlcnNXaXRoRXhoYXVzdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiYm9yZGVyQ29sb3IiOnsiY29sb3IiOiJEZWVwU2t5Qmx1ZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjguMH0sIm1pbldpZHRoVG9FeHBhbmQiOjN9LCJibG9ja09yZGVycyI6eyJzaG93Ijp0cnVlLCJmb250Q29sb3IiOiJXaGl0ZSIsImhpZ2hsaWdodEJsb2NrcyI6dHJ1ZSwiYmlkQ29sb3IiOiJSZWQiLCJhc2tDb2xvciI6IkxpbWVHcmVlbiIsInNob3dCbG9ja0xpbmUiOnRydWUsImV4dGVuZFBhc3RCcm9rZW4iOmZhbHNlLCJiaWRMaW5lU3R5bGUiOnsiY29sb3IiOiJSZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJhc2tMaW5lU3R5bGUiOnsiY29sb3IiOiJMYXduR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoyLjB9LCJkYXlzVG9TaG93VW5icm9rZW4iOjEsImxpbmVPcGFjaXR5IjoxMDB9LCJibG9ja05ldFZvbHVtZSI6eyJzaG93RGl2ZXJnZW5jZSI6ZmFsc2UsImRpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VGb250Q29sb3IiOiJXaGl0ZSIsInNob3dCbG9ja05ldFRvdGFsIjpmYWxzZSwibmV0Vm9sdW1lRm9udCI6IkFyaWFsLCAxMnB0LCBzdHlsZT1Cb2xkIiwibmV0Vm9sdW1lUG9zaXRpdmVGb250Q29sb3IiOiJXaGl0ZSIsIm5ldFZvbHVtZU5lZ2F0aXZlRm9udENvbG9yIjoiV2hpdGUiLCJwb3NpdGl2ZUNvbG9yIjoiR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUNvbG9yIjoiUmVkIiwibmVnYXRpdmVCb3JkZXJTdHlsZSI6eyJjb2xvciI6IlJlZCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJtb21lbnR1bSI6eyJzaG93TW9tZW50dW0iOnRydWUsInVwQ29sb3IiOiJHcmVlbiIsImRvd25Db2xvciI6IlJlZCIsImljb25VcENvbG9yIjoiV2hpdGUiLCJpY29uRG93bkNvbG9yIjoiV2hpdGUiLCJtb21lbnR1bUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJhYnNvcnB0aW9uIjp7InNob3ciOmZhbHNlLCJ1cENvbG9yIjoiRGFya09saXZlR3JlZW4iLCJkb3duQ29sb3IiOiJNYXJvb24iLCJpY29uVXBDb2xvciI6IkJsYWNrIiwiaWNvbkRvd25Db2xvciI6IkJsYWNrIiwiYWJzb3JwdGlvbkFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwidmVydGljYWxPZmZzZXQiOjAuMCwic2NhbGVPZmZzZXQiOjF9LCJtaW5pTWFnbmV0cyI6eyJleHRlbmRQYXN0QnJva2VuIjpmYWxzZSwic2hvdyI6dHJ1ZSwibGl2ZUNvbG9yIjoiUGluayIsImNsb3NlZENvbG9yIjoiTGlnaHRHb2xkZW5yb2RZZWxsb3ciLCJicm9rZW5Db2xvciI6IkxpbmVuIiwiYWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJsaXZlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9LCJtaW5pTWFnbmV0c3dpdGhQYXdBbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImxpdmVPcGFjaXR5IjoxMDAsImNsb3NlZE9wYWNpdHkiOjEwMCwiYnJva2VuT3BhY2l0eSI6NTB9LCJsZWFkaW5nVm9sdW1lIjp7InNob3ciOnRydWUsImNvbG9yIjoiTGlnaHRTbGF0ZUdyYXkiLCJmb250Q29sb3IiOiJXaGl0ZSIsImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfX0sIm5ldFZvbHVtZSI6eyJzaG93IjpmYWxzZSwicG9zaXRpdmVCYWNrZ3JvdW5kQ29sb3IiOiJEYXJrU2VhR3JlZW4iLCJwb3NpdGl2ZUJvcmRlclN0eWxlIjp7ImNvbG9yIjoiR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJuZWdhdGl2ZUJhY2tncm91bmRDb2xvciI6IkZpcmVicmljayIsIm5lZ2F0aXZlQm9yZGVyU3R5bGUiOnsiY29sb3IiOiJGaXJlYnJpY2siLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJwb3NpdGl2ZVRleHRDb2xvciI6IldoaXRlIiwibmVnYXRpdmVUZXh0Q29sb3IiOiJXaGl0ZSIsImZvbnQiOiJBcmlhbCwgMTJwdCwgc3R5bGU9Qm9sZCIsInNob3dEaXZlcmdlbmNlIjpmYWxzZSwiZGl2ZXJnZW5jZUJhY2tncm91bmRDb2xvciI6Ik9yYW5nZSIsImRpdmVyZ2VuY2VCb3JkZXJTdHlsZSI6eyJjb2xvciI6Ik9yYW5nZSIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH0sImRpdmVyZ2VuY2VUZXh0Q29sb3IiOiJXaGl0ZSJ9LCJ0b3RhbFZvbHVtZSI6eyJzaG93IjpmYWxzZSwidGV4dENvbG9yIjoiRGFya0dvbGRlbnJvZCIsImJhY2tncm91bmRDb2xvciI6IldoaXRlU21va2UiLCJmb250IjoiQXJpYWwsIDEycHQsIHN0eWxlPUJvbGQifSwiYmFyQ29udHJvbCI6eyJzaG93QmFyT3V0bGluZSI6ZmFsc2UsInNob3dMaW5lcyI6ZmFsc2UsInNob3dHcmFkaWVudCI6ZmFsc2UsInZvbHVtZVBvc2l0aXZlR3JhZGllbnRTdGFydCI6WzI1NSwyMTksMjMwLDIxOV0sInZvbHVtZVBvc2l0aXZlR3JhZGllbnRFbmQiOiJEYXJrU2VhR3JlZW4iLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50U3RhcnQiOlsyNTUsMjU1LDI0NywyNDJdLCJ2b2x1bWVOZWdhdGl2ZUdyYWRpZW50RW5kIjoiUm9zeUJyb3duIiwiYmFyQ29sb3JVcCI6IkRhcmtTZWFHcmVlbiIsImJhckNvbG9yRG93biI6IlJvc3lCcm93biIsInNob3dWb2x1bWVzIjpmYWxzZSwidm9sdW1lRm9udCI6IkFyaWFsLCAxNC4yNXB0LCBzdHlsZT1Cb2xkIiwiYmFyV2lkdGhGYWN0b3IiOjcwfSwidm9sdW1lQ29udHJvbCI6eyJHcmFkaWVudFN0YXJ0IjoiU2lsdmVyIiwiR3JhZGllbnRFbmQiOiJEaW1HcmF5IiwiU2hvdyI6ZmFsc2UsIkdyYWRpZW50T3BhY2l0eSI6MTAwfSwiYmlnVm9sdW1lQ2x1c3RlciI6eyJzaG93Ijp0cnVlLCJzaG93Qm9yZGVyIjp0cnVlLCJmaWxsQ29sb3IiOiJZZWxsb3ciLCJib3JkZXJDb2xvciI6eyJjb2xvciI6IlllbGxvdyIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjUuMH0sImFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwibGl2ZUFsZXJ0cyI6eyJ2aXN1YWwiOmZhbHNlLCJhdWRpYmxlIjpmYWxzZSwid2luZG93Rmxhc2giOmZhbHNlfSwiZG91YmxlQWxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOnRydWUsIndpbmRvd0ZsYXNoIjpmYWxzZX0sIm1pbkNsdXN0ZXJXaWR0aFRvRXhwYW5kIjoyNX0sImJsb2NrVm9sdW1lQWNjZWxlcmF0aW9uIjp7InNob3ciOmZhbHNlLCJpY29uQmFja2dyb3VuZFBvc2l0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZE5lZ2F0aXZlQ29sb3IiOiJNZWRpdW1TbGF0ZUJsdWUiLCJpY29uQmFja2dyb3VuZERpdmVyZ2VuY2VDb2xvciI6Ik9yYW5nZSIsImljb25Gb3JlQ29sb3IiOiJXaGl0ZSJ9LCJ0cmFkaW5nU2NoZWR1bGVCYWNrZ3JvdW5kQ29sb3JpbmciOnsic2hvdyI6ZmFsc2UsInRyYWRpbmdTY2hlZHVsZSI6eyJJdGVtcyI6W3siU3RhcnRFbnRlcmluZyI6MCwiU3RvcEVudGVyaW5nIjoxMDA4MCwiRmxhdHRlblBvc2l0aW9ucyI6bnVsbH1dLCJEaXNwbGF5TmFtZSI6IkN1c3RvbSB1bnNhdmVkIHNjaGVkdWxlIn0sImNhbk9wZW5Qb3NpdGlvbkNvbG9yIjoiV2hpdGUiLCJjYW5Ib2xkUG9zaXRpb25Db2xvciI6IldoaXRlIiwibXVzdEZsYXR0ZW5Db2xvciI6IkRhcmtHcmF5In0sInZvbHVtZVNjb3JlIjp7InNob3ciOnRydWUsInVwU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkb3duU3R5bGUiOnsiYmFja2dyb3VuZENvbG9yIjoiVHJhbnNwYXJlbnQiLCJ0ZXh0Q29sb3IiOiJMaWdodEdyYXkiLCJib3JkZXJQZW4iOnsiY29sb3IiOiJUcmFuc3BhcmVudCIsImRhc2hTdHlsZSI6MCwid2lkdGgiOjEuMH19LCJkaXZlcmdlbnRTdHlsZSI6eyJiYWNrZ3JvdW5kQ29sb3IiOiJUcmFuc3BhcmVudCIsInRleHRDb2xvciI6Ik9yYW5nZSIsImJvcmRlclBlbiI6eyJjb2xvciI6IlRyYW5zcGFyZW50IiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfX0sImZvbnRBdXRvU2NhbGUiOmZhbHNlLCJmb250IjoiQXJpYWwsIDkuNzVwdCIsInZlcnRpY2FsT2Zmc2V0IjowLCJoZWFkc1VwbGVydHMiOnsidmlzdWFsIjpmYWxzZSwiYXVkaWJsZSI6ZmFsc2UsIndpbmRvd0ZsYXNoIjpmYWxzZX0sImNvbmZpcm1lZGxlcnRzIjp7InZpc3VhbCI6ZmFsc2UsImF1ZGlibGUiOmZhbHNlLCJ3aW5kb3dGbGFzaCI6ZmFsc2V9fX0=</UserSettingsSerialized>
         </OrderPrintsIndicator>
       </Indicator>
     </Indicator1>
@@ -285,7 +285,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -297,7 +297,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -351,7 +351,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -363,7 +363,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Current Price</Name>
@@ -372,7 +372,7 @@
                 <DashStyle>Dash</DashStyle>
                 <Width>3</Width>
               </PenSerializable>
-              <Value>11093.75</Value>
+              <Value>3315.25</Value>
             </Line>
           </Lines>
           <LinesConfigurable>true</LinesConfigurable>
@@ -423,7 +423,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
             <Period>
@@ -445,7 +445,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex|NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex|ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -516,7 +516,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -528,7 +528,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -601,7 +601,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -613,7 +613,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>0</Name>
@@ -701,7 +701,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -713,7 +713,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -764,7 +764,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -776,7 +776,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -827,7 +827,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -839,7 +839,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>Infinite</MaximumBarsLookBack>
@@ -890,7 +890,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -902,7 +902,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -964,7 +964,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -976,7 +976,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1051,7 +1051,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1063,7 +1063,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1112,7 +1112,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1124,7 +1124,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1163,7 +1163,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30004</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NX0=</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6NH0=</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJJbmRpYW5SZWQiLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJ1cHBlckxpbmVQZW4iOnsiY29sb3IiOiJMaW1lR3JlZW4iLCJkYXNoU3R5bGUiOjAsIndpZHRoIjoxLjB9LCJkcmF3RGlhbW9uZE1hcmtlcnMiOnRydWUsImRyYXdUZXh0Ijp0cnVlLCJwbG90SGlzdG9yaWNhbFZhbHVlcyI6ZmFsc2UsIm1hcmtlckxpbmVMZW5ndGgiOjEwLCJyaWdodFNoaWZ0IjoyMCwiZGlhbW9uZFNpemUiOjR9</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -1186,7 +1186,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1198,7 +1198,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines />
           <LinesConfigurable>true</LinesConfigurable>
           <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
@@ -1237,7 +1237,7 @@
           <SessionBreakLines>true</SessionBreakLines>
           <VerticalGridLines>true</VerticalGridLines>
           <ZOrder>30005</ZOrder>
-          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6MTB9</SettingsSerializable>
+          <SettingsSerializable>eyJ0aWNrc09mZnNldCI6OH0=</SettingsSerializable>
           <UserSettingsSerializable>eyJsb3dlckxpbmVQZW4iOnsiY29sb3IiOiJMaWdodENvcmFsIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwidXBwZXJMaW5lUGVuIjp7ImNvbG9yIjoiUGFsZUdyZWVuIiwiZGFzaFN0eWxlIjowLCJ3aWR0aCI6MS4wfSwiZHJhd0RpYW1vbmRNYXJrZXJzIjp0cnVlLCJkcmF3VGV4dCI6dHJ1ZSwicGxvdEhpc3RvcmljYWxWYWx1ZXMiOmZhbHNlLCJtYXJrZXJMaW5lTGVuZ3RoIjoxMCwicmlnaHRTaGlmdCI6NDAsImRpYW1vbmRTaXplIjo0fQ==</UserSettingsSerializable>
         </ApexBarRange02>
       </Indicator>
@@ -1260,7 +1260,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1272,7 +1272,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -1333,7 +1333,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1345,7 +1345,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -1406,7 +1406,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1418,7 +1418,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -1479,7 +1479,7 @@
               <MarketDataType>Last</MarketDataType>
               <PointAndFigurePriceType>Close</PointAndFigurePriceType>
               <ReversalType>Tick</ReversalType>
-              <Value>10</Value>
+              <Value>8</Value>
               <Value2>50</Value2>
             </Period>
           </BarsPeriods>
@@ -1491,7 +1491,7 @@
           <Enabled>true</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
-          <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
+          <InstrumentsSerializable>ES 09-20 Globex</InstrumentsSerializable>
           <Lines>
             <Line>
               <Name>Zero</Name>
@@ -1545,8 +1545,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>20</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>11127.1369701493</FixedPanelMaxRight>
-      <FixedPanelMinRight>11058.0645223881</FixedPanelMinRight>
+      <FixedPanelMaxRight>3326.90664156627</FixedPanelMaxRight>
+      <FixedPanelMinRight>3307.00450301205</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>
@@ -1578,8 +1578,8 @@
       <AutoScaleMarginTypeRight>Percent</AutoScaleMarginTypeRight>
       <AutoScaleMarginUpperRight>3</AutoScaleMarginUpperRight>
       <YAxisRangeTypeRight>Automatic</YAxisRangeTypeRight>
-      <FixedPanelMaxRight>1.77690079005192</FixedPanelMaxRight>
-      <FixedPanelMinRight>-0.103421048055386</FixedPanelMinRight>
+      <FixedPanelMaxRight>1.85637322623969</FixedPanelMaxRight>
+      <FixedPanelMinRight>-0.108046586345463</FixedPanelMinRight>
       <YAxisScalingTypeRight>Linear</YAxisScalingTypeRight>
       <HorizontalGridLinesIntervalRight>0</HorizontalGridLinesIntervalRight>
       <HorizontalGridLinesIntervalTypeRight>Points</HorizontalGridLinesIntervalTypeRight>

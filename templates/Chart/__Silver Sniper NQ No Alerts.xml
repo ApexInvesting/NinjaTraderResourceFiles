@@ -525,7 +525,7 @@
           <Displacement>0</Displacement>
           <DisplayInDataBox>true</DisplayInDataBox>
           <DrawOnPricePanel>true</DrawOnPricePanel>
-          <Enabled>true</Enabled>
+          <Enabled>false</Enabled>
           <ForceMaximumBarsLookBack256>false</ForceMaximumBarsLookBack256>
           <HorizontalGridLines>true</HorizontalGridLines>
           <InstrumentsSerializable>NQ 09-20 Globex</InstrumentsSerializable>
